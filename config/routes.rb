@@ -4,4 +4,6 @@ Rails.application.routes.draw do
 
   root to: 'teams#index'
 
+  get '/players' => 'players#index'
+
 end
