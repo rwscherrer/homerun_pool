@@ -1,4 +1,12 @@
 <h1> <%= current_user.email %>'s Teams</h1>
+<hr>
+
+<div>
+  <% @teams.each do |team| %>
+    <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total:  </h2>
+  <% end %>
+</div>
+<hr>
 
 
 

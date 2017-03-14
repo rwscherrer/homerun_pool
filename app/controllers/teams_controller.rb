@@ -3,7 +3,10 @@ class TeamsController < ApplicationController
 
   
 	def index
-	  @teams = Team.all
+	  @user = User.find(current_user.id)
+	  ## this didn't work for me. I had to change this. current_user was nil
+	  # @clients = Client.where(user_id: current_user.id)
+	  @teams = Team.where(user_id: @user.id)
 	end
   	def new
   	  @team = Team.new
