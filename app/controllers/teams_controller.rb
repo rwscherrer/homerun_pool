@@ -6,6 +6,15 @@ class TeamsController < ApplicationController
 	  @user = User.find(current_user.id)
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
+
+	  
+	def sort_column
+	  Team.column_names.include?(params[:sort]) ? params[:sort] : "name"
+	end
+	  
+	def sort_direction
+	  %w[asc desc].include?(params[:direction]) ? params[:direction] : "asc"
+	end
 	 
 	end
 
