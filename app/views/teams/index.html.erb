@@ -3,12 +3,10 @@
 
 <div>
   <% @teams.each do |team| %>
-    <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total:  </h2>
+    <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total: <%= team.score %> </h2>
   <% end %>
 </div>
 <hr>
-
-
 
 <% if user_signed_in? %>
   <li>

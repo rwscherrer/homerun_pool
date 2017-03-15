@@ -5,5 +5,7 @@ Rails.application.routes.draw do
   root to: 'teams#index'
 
   get '/players' => 'players#index'
+  get '/team/:id' => 'teams#show'
+  get '/player/:id' => 'players#show'
 
 end

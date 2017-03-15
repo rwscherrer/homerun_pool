@@ -20,16 +20,26 @@ class TeamsController < ApplicationController
 	    score: params[:score],
 	    })
 	 if @team.save
-	   flash[:success] = ["You've completed the rental application"]
-	   redirect_to "/clients/#{@rental.client_id}/status"
+	   flash[:success] = ["You've created a team!"]
+	   redirect_to "/teams/"
 	 else
-	   flash.now[:danger] = @rental.errors.full_messages
+	   flash.now[:danger] = ["Something went wrong"]
 	   render :new
 	 end
 	end
 
 	def show
-	 team = Team.find(params[:id]) if current_user
+	 @team = Team.find(params[:id]) if current_user
+	 @players = []
+	 @team_players = @team.team_players
+
+	 @team_players.each do |player_id|
+	 	player = Player.find_by(id: player_id)
+	 	@players << player
+	 end
+
+
+
 	end
 
 	def edit

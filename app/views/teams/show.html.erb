@@ -1,0 +1,7 @@
+<h1><%= @team.team_name %> players:</h1>
+
+<div>
+  <% @players.each do |player| %>
+    <h2> <%= link_to(player.name.titleize, "/player/#{player.id}") %> (<%= player.mlb_team %>) - home runs: <%= player.home_runs %> </h2>
+  <% end %>
+</div>
