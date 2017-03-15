@@ -4,10 +4,11 @@ class TeamsController < ApplicationController
   
 	def index
 	  @user = User.find(current_user.id)
-	  ## this didn't work for me. I had to change this. current_user was nil
-	  # @clients = Client.where(user_id: current_user.id)
 	  @teams = Team.where(user_id: @user.id)
+	  @all_teams = Team.all
+	 
 	end
+
   	def new
   	  @team = Team.new
   	end
@@ -36,6 +37,18 @@ class TeamsController < ApplicationController
 	 @team_players.each do |player_id|
 	 	player = Player.find_by(id: player_id)
 	 	@players << player
+	 end
+
+	 def team_total
+	 	@team = Team.find(params[:id]) if current_user
+	 	@team_runs = []
+	 	@team_players = @team.team_players
+
+	 	@team_players.each do |player_id|
+	 		player = Player.find_by(id: player_id)
+	 		@team_runs << player.home_runs
+	 	end
+
 	 end
 
 

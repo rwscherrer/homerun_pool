@@ -8,14 +8,36 @@
 </div>
 <hr>
 
-<% if user_signed_in? %>
-  <li>
-  <%= link_to('Logout', destroy_user_session_path, :method => :delete) %>        
-  </li>
-<% else %>
-  <li>
-  <%= link_to('Login', new_user_session_path)  %>  
-  </li>
+<span class="counter pull-left"></span>
+<table class="table table-hover results">
+ <thead>
+   <tr>
+     <th>Rank</th>
+     <th>Name</th>
+     <th>Score</th>
+     <th>Lineup</th>
+   </tr>
+   <hr>
+
+ </thead>
+<% @all_teams.each do |team| %>
+ <tbody>
+   <tr>
+     <td><%= team.id %></td>
+     <td>
+       <%= team.team_name.titleize %>
+     </td>
+     <td><%= team.score %> </td>
+     <td>
+       <%= team.team_players %>
+     </td>
+   </tr>
+ </tbody>
 <% end %>
+</table>
+
+<hr>
+
+
 
 

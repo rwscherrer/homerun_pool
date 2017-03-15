@@ -1,7 +1,10 @@
-<h1><%= @team.team_name %> players:</h1>
+<h1> <%= @team.team_name%> </h1>
+<h2> Season Total: <%= @team.score %> </h2>
+
+<h2> Lineup: </h2>
 
 <div>
   <% @players.each do |player| %>
-    <h2> <%= link_to(player.name.titleize, "/player/#{player.id}") %> (<%= player.mlb_team %>) - home runs: <%= player.home_runs %> </h2>
+    <h3> <%= link_to(player.name.titleize, "/player/#{player.id}") %> (<%= player.mlb_team %>) - home runs: <%= player.home_runs %> </h3>
   <% end %>
 </div>
