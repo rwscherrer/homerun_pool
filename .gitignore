@@ -10,6 +10,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
+.env
 !/log/.keep
 !/tmp/.keep
 
@@ -17,4 +18,3 @@
 .byebug_history
 
 
-.env
