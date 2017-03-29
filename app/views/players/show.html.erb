@@ -1,1 +1,49 @@
-<h1> This is player detail for <%= @player.name %> </h1>
+<div>
+<h1> Player detail for <%= @player.name %> </h1>
+<div>
+<hr>
+
+<div class="panel-body">
+  <table class="table table-hover">
+    <tr>
+      <td> <b> 2016 Total: </b> </td>
+	  <td> <%= @player.home_runs %> </td>
+	</tr>
+	<tr>
+      <td> <b> Team: </b> </td>
+      <td> <%= @player.team_city + " " + @player.mlb_team %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Jersey Number: </b> </td>
+	  <td> <%= @player.jersey_num %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Position: </b> </td>
+	  <td> <%= @player.position %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Age: </b> </td>
+	  <td> <%= @player.age %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Born: </b> </td>
+	  <td> <%= @player.birth_city + " " + @player.birth_country %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Height: </b> </td>
+	  <td> <%= @player.height %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Weight: </b> </td>
+	  <td> <%= @player.weight  + " lbs" %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Rookie: </b> </td>
+	  <td> <%= @player.rookie %> </td>
+	</tr>
+	<tr>
+	  <td> <b> Games Played: </b> </td>
+	  <td> <%= @player.games_played %> </td>
+	</tr>
+  </table>
+</div>

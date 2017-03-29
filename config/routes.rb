@@ -7,5 +7,7 @@ Rails.application.routes.draw do
   get '/players' => 'players#index'
   get '/team/:id' => 'teams#show'
   get '/player/:id' => 'players#show'
+  get 'players/import' => 'players#import'
+  post 'players/import' => 'players#import'
 
 end

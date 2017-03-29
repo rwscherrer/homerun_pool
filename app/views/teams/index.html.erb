@@ -2,6 +2,8 @@
 <hr>
 
 <div>
+
+  
   <% @teams.each do |team| %>
     <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total: <%= team.score %> </h2>
   <% end %>
@@ -17,8 +19,6 @@
      <th> Score</th>
      <th> Lineup</th>
    </tr>
-   <hr>
-
  </thead>
 <% @all_teams.each do |team| %>
  <tbody>
@@ -37,6 +37,9 @@
 </table>
 
 <hr>
+
+
+
 
 
 

@@ -1,7 +1,31 @@
 <h1>Players</h1>
 
 <div>
-  <% @players.each do |player| %>
-    <h2> <%= link_to(player.name.titleize, "/player/#{player.id}") %> - home runs: <%= player.home_runs %> </h2>
-  <% end %>
+<table class="table table-hover results">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Team</th>
+      <th>Home Runs</th>
+    </tr>
+  </thead>
+<% @players.each do |player| %>
+  <tbody>
+    <tr>
+      <td>
+        <%= link_to(player.name.titleize, "player/#{player.id}") %>
+      </td>
+      <td>
+        <%= player.mlb_team %>
+      </td>
+      <td>
+        <%= player.home_runs %>
+      </td>
+    </tr>
+  </tbody>
+<% end %>
+</table>
 </div>
+
+<%= button_to "Import Players", { :controller => "players", :action => "import"} %>
+

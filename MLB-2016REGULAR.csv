@@ -1,0 +1,1355 @@
+id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,birth_city,birth_country,rookie,mlb_team_id,team_abbr,team_city,mlb_team,games_played,home_runs,home_runs_allowed
+10474,Martinez,J.D.,J.D. Martinez,28,RF,"6'3""",220,1987-08-21,29,"Miami, FL",USA,N,117,DET,Detroit,Tigers,161,48,
+10275,Trumbo,Mark,Mark Trumbo,45,RF,"6'4""",225,1986-01-16,31,"Anaheim, CA",USA,N,111,BAL,Baltimore,Orioles,159,47,
+10879,Cruz,Nelson,Nelson Cruz,23,DH,"6'2""",230,1980-07-01,36,Las Matas de Santa Cruz,DominicanRepublic,N,123,SEA,Seattle,Mariners,158,43,
+11187,Davis,Khris,Khris Davis,2,LF,"5'10""",195,1987-12-21,29,"Lakewood, CA",USA,N,125,OAK,Oakland,Athletics,158,42,
+11135,Dozier,Brian,Brian Dozier,2,2B,"5'11""",200,1987-05-15,29,"Fulton, MS",USA,N,120,MIN,Minnesota,Twins,161,42,
+11029,Encarnacion,Edwin,Edwin Encarnacion,10,DH,"6'1""",230,1983-07-01,33,La Romana,DominicanRepublic,N,112,TOR,Toronto,Blue Jays,162,42,
+10408,Arenado,Nolan,Nolan Arenado,28,3B,"6'2""",205,1991-04-16,25,"Newport Beach, CA",USA,N,138,COL,Colorado,Rockies,162,41,
+10640,Carter,Chris,Chris Carter,33,1B,"6'4""",245,1986-12-18,30,"Redwood City, CA",USA,N,134,MIL,Milwaukee,Brewers,162,41,
+10440,Frazier,Todd,Todd Frazier,21,3B,"6'3""",220,1986-02-12,31,"Point Pleasant, NJ",USA,N,119,CWS,Chicago,White Sox,161,40,
+10326,Bryant,Kris,Kris Bryant,17,3B,"6'5""",230,1992-01-04,25,"Las Vegas, NV",USA,N,131,CHC,Chicago,Cubs,162,39,
+10872,Cano,Robinson,Robinson Cano,22,2B,"6'0""",210,1982-10-22,34,San Pedro de Macoris,DominicanRepublic,N,123,SEA,Seattle,Mariners,162,39,
+10468,Cabrera,Miguel,Miguel Cabrera,24,1B,"6'4""",240,1983-04-18,33,Maracay,Venezuela,N,117,DET,Detroit,Tigers,161,38,
+10265,Davis,Chris,Chris Davis,19,1B,"6'3""",230,1986-03-17,31,"Longview, TX",USA,N,111,BAL,Baltimore,Orioles,160,38,
+10306,Ortiz,David,David Ortiz,34,DH,"6'3""",230,1975-11-18,41,Santo Domingo,DominicanRepublic,N,113,BOS,Boston,Red Sox,157,38,
+11022,Donaldson,Josh,Josh Donaldson,20,3B,"6'1""",210,1985-08-12,31,"Pensacola, FL",USA,N,112,TOR,Toronto,Blue Jays,158,37,
+10268,Machado,Manny,Manny Machado,13,3B,"6'3""",185,1992-07-06,24,"Miami, FL",USA,N,111,BAL,Baltimore,Orioles,159,37,
+10966,Longoria,Evan,Evan Longoria,3,3B,"6'2""",210,1985-10-07,31,"Downey, CA",USA,N,115,TB,Tampa Bay,Rays,162,36,
+10242,Kemp,Matt,Matt Kemp,27,LF,"6'4""",210,1984-09-23,32,"Midwest City, OK",USA,N,130,ATL,Atlanta,Braves,160,35,
+10237,Freeman,Freddie,Freddie Freeman,5,1B,"6'5""",220,1989-09-12,27,"Fountain Valley, CA",USA,N,130,ATL,Atlanta,Braves,161,34,
+11395,Napoli,Mike,Mike Napoli,26,1B,"6'1""",225,1981-10-31,35,"Hollywood, FL",USA,N,116,CLE,Cleveland,Indians,158,34,
+11107,Santana,Carlos,Carlos Santana,41,DH,"5'11""",210,1986-04-08,30,Santo Domingo,DominicanRepublic,N,116,CLE,Cleveland,Indians,158,34,
+10700,Bruce,Jay,Jay Bruce,19,RF,"6'3""",225,1987-04-03,29,"Beaumont, TX",USA,N,127,NYM,New York,Mets,158,33,
+10355,Duvall,Adam,Adam Duvall,23,LF,"6'1""",220,1988-09-04,28,"Louisville, KY",USA,N,135,CIN,Cincinnati,Reds,159,33,
+11144,Odor,Rougned,Rougned Odor,12,2B,"5'11""",195,1994-02-03,23,Maracaibo,Venezuela,N,121,TEX,Texas,Rangers,156,33,
+11143,Beltre,Adrian,Adrian Beltre,29,3B,"5'11""",220,1979-04-07,37,Santo Domingo,DominicanRepublic,N,121,TEX,Texas,Rangers,156,32,
+10494,Gattis,Evan,Evan Gattis,11,C,"6'4""",270,1986-08-18,30,"Dallas, TX",USA,N,122,HOU,Houston,Astros,137,32,
+10327,Rizzo,Anthony,Anthony Rizzo,44,1B,"6'3""",240,1989-08-08,27,"Fort Lauderdale, FL",USA,N,131,CHC,Chicago,Cubs,160,32,
+10476,Upton,Justin,Justin Upton,8,LF,"6'2""",205,1987-08-25,29,"Norfolk, VA",USA,N,117,DET,Detroit,Tigers,156,32,
+10303,Betts,Mookie,Mookie Betts,50,RF,"5'9""",180,1992-10-07,24,"Nashville, TN",USA,N,113,BOS,Boston,Red Sox,161,31,
+11197,Cespedes,Yoenis,Yoenis Cespedes,52,CF,"5'10""",220,1985-10-18,31,Granma,Cuba,N,127,NYM,New York,Mets,141,31,
+10562,Pujols,Albert,Albert Pujols,5,DH,"6'3""",240,1980-01-16,37,Santo Domingo,DominicanRepublic,N,124,LAA,Los Angeles,Angels,152,31,
+10643,Braun,Ryan,Ryan Braun,8,LF,"6'2""",205,1983-11-17,33,"Mission Hills, CA",USA,N,134,MIL,Milwaukee,Brewers,150,30,
+10702,Granderson,Curtis,Curtis Granderson,3,RF,"6'1""",200,1981-03-16,36,"Blue Island, IL",USA,N,127,NYM,New York,Mets,159,30,
+11229,Gyorko,Jedd,Jedd Gyorko,3,2B,"5'10""",215,1988-09-23,28,"Morgantown, WV",USA,N,133,STL,St. Louis,Cardinals,145,30,
+10967,Miller,Brad,Brad Miller,13,1B,"6'2""",200,1989-10-18,27,"Orlando, FL",USA,N,115,TB,Tampa Bay,Rays,162,30,
+11315,Morales,Kendrys,Kendrys Morales,,DH,"6'1""",225,1983-06-19,33,Fomento,Cuba,N,118,KC,Kansas City,Royals,154,30,
+10301,Ramirez,Hanley,Hanley Ramirez,13,1B,"6'2""",235,1983-12-23,33,Adbentista,DominicanRepublic,N,113,BOS,Boston,Red Sox,156,30,
+10874,Seager,Kyle,Kyle Seager,15,3B,"6'0""",210,1987-11-03,29,"Charlotte, NC",USA,N,123,SEA,Seattle,Mariners,160,30,
+10213,Tomas,Yasmany,Yasmany Tomas,24,LF,"6'2""",250,1990-11-14,26,Havana,Cuba,N,140,ARI,Arizona,Diamondbacks,154,30,
+11393,Beltran,Carlos,Carlos Beltran,36,DH,"6'1""",215,1977-04-24,39,Manati,PuertoRico,N,121,TEX,Texas,Rangers,153,29,
+10411,Blackmon,Charlie,Charlie Blackmon,19,CF,"6'3""",210,1986-07-01,30,"Dallas, TX",USA,N,138,COL,Colorado,Rockies,145,29,
+10272,Jones,Adam,Adam Jones,10,CF,"6'2""",215,1985-08-01,31,"San Diego, CA",USA,N,111,BAL,Baltimore,Orioles,158,29,
+10506,Springer,George,George Springer,4,RF,"6'3""",215,1989-09-19,27,"New Britain, CT",USA,N,122,HOU,Houston,Astros,162,29,
+10561,Trout,Mike,Mike Trout,27,CF,"6'2""",235,1991-08-07,25,"Vineland, NJ",USA,N,124,LAA,Los Angeles,Angels,161,29,
+10354,Votto,Joey,Joey Votto,19,1B,"6'2""",220,1983-09-10,33,"Toronto, ON",Canada,N,135,CIN,Cincinnati,Reds,161,29,
+10471,Kinsler,Ian,Ian Kinsler,3,2B,"6'0""",200,1982-06-22,34,"Tucson, AZ",USA,N,117,DET,Detroit,Tigers,157,28,
+10205,Lamb,Jake,Jake Lamb,22,3B,"6'3""",215,1990-10-09,26,"Seattle, WA",USA,N,140,ARI,Arizona,Diamondbacks,160,28,
+11294,Moss,Brandon,Brandon Moss,37,1B,"6'1""",210,1983-09-16,33,"Monroe, GA",USA,N,133,STL,St. Louis,Cardinals,137,28,
+10843,Myers,Wil,Wil Myers,4,1B,"6'3""",205,1990-12-10,26,"Thomasville, NC",USA,N,139,SD,San Diego,Padres,162,28,
+11256,Grandal,Yasmani,Yasmani Grandal,9,C,"6'1""",235,1988-11-08,28,Havana,Cuba,N,137,LAD,Los Angeles,Dodgers,147,27,
+10759,Semien,Marcus,Marcus Semien,10,SS,"6'0""",195,1990-09-17,26,"San Francisco, CA",USA,N,125,OAK,Oakland,Athletics,160,27,
+10616,Stanton,Giancarlo,Giancarlo Stanton,27,RF,"6'6""",245,1989-11-08,27,"Panorama, CA",USA,N,128,MIA,Miami,Marlins,130,27,
+10410,Story,Trevor,Trevor Story,27,SS,"6'1""",180,1992-11-15,24,"Irving, TX",USA,N,138,COL,Colorado,Rockies,103,27,
+11258,Turner,Justin,Justin Turner,10,3B,"5'11""",205,1984-11-23,32,"Long Beach, CA",USA,N,137,LAD,Los Angeles,Dodgers,161,27,
+11065,Bradley Jr.,Jackie,Jackie Bradley Jr.,25,CF,"5'10""",200,1990-04-19,26,"Richmond, VA",USA,N,113,BOS,Boston,Red Sox,160,26,
+10586,Seager,Corey,Corey Seager,5,SS,"6'4""",215,1994-04-27,22,"Charlotte, NC",USA,N,137,LAD,Los Angeles,Dodgers,160,26,
+10437,Abreu,Jose,Jose Abreu,79,1B,"6'3""",255,1987-01-29,30,Cienfuegos,Cuba,N,119,CWS,Chicago,White Sox,161,25,
+10786,Franco,Maikel,Maikel Franco,7,3B,"6'1""",215,1992-08-26,24,Azua,DominicanRepublic,N,129,PHI,Philadelphia,Phillies,159,25,
+10414,Gonzalez,Carlos,Carlos Gonzalez,5,RF,"6'1""",220,1985-10-17,31,Maracaibo,Venezuela,N,138,COL,Colorado,Rockies,160,25,
+10528,Hosmer,Eric,Eric Hosmer,35,1B,"6'4""",225,1989-10-24,27,"South Miami, FL",USA,N,118,KC,Kansas City,Royals,160,25,
+11340,Howard,Ryan,Ryan Howard,6,1B,"6'4""",250,1979-11-19,37,"St. Louis, MO",USA,N,129,PHI,Philadelphia,Phillies,140,25,
+11048,Murphy,Daniel,Daniel Murphy,20,2B,"6'1""",220,1985-04-01,31,"Jacksonville, FL",USA,N,126,WAS,Washington,Nationals,150,25,
+10590,Pederson,Joc,Joc Pederson,31,CF,"6'1""",220,1992-04-21,24,"Palo Alto, CA",USA,N,137,LAD,Los Angeles,Dodgers,147,25,
+10675,Sano,Miguel,Miguel Sano,22,DH,"6'4""",260,1993-05-11,23,San Pedro de Macoris,DominicanRepublic,N,120,MIN,Minnesota,Twins,122,25,
+10270,Schoop,Jonathan,Jonathan Schoop,6,2B,"6'1""",225,1991-10-16,25,Willemstad,Curacao,N,111,BAL,Baltimore,Orioles,162,25,
+10495,Altuve,Jose,Jose Altuve,27,2B,"5'6""",165,1990-05-06,26,Maracay,Venezuela,N,122,HOU,Houston,Astros,162,24,
+10973,Dickerson,Corey,Corey Dickerson,10,DH,"6'1""",205,1989-05-22,27,"McComb, MS",USA,N,115,TB,Tampa Bay,Rays,153,24,
+11191,Espinosa,Danny,Danny Espinosa,8,SS,"6'0""",205,1987-04-25,29,"Santa Ana, CA",USA,N,126,WAS,Washington,Nationals,162,24,
+10202,Goldschmidt,Paul,Paul Goldschmidt,44,1B,"6'3""",225,1987-09-10,29,"Wilmington, DE",USA,N,140,ARI,Arizona,Diamondbacks,162,24,
+10939,Grichuk,Randal,Randal Grichuk,15,CF,"6'1""",205,1991-08-13,25,"Rosenberg, TX",USA,N,133,STL,St. Louis,Cardinals,137,24,
+11053,Harper,Bryce,Bryce Harper,34,RF,"6'3""",215,1992-10-16,24,"Las Vegas, NV",USA,N,126,WAS,Washington,Nationals,155,24,
+10995,Lucroy,Jonathan,Jonathan Lucroy,25,C,"6'0""",200,1986-06-13,30,"Eustis, FL",USA,N,121,TEX,Texas,Rangers,159,24,
+11239,McCutchen,Andrew,Andrew McCutchen,22,CF,"5'10""",195,1986-10-10,30,"Fort Meade, FL",USA,N,132,PIT,Pittsburgh,Pirates,160,24,
+11300,Saunders,Michael,Michael Saunders,21,LF,"6'4""",225,1986-11-19,30,"Victoria, BC",Canada,N,112,TOR,Toronto,Blue Jays,156,24,
+11024,Tulowitzki,Troy,Troy Tulowitzki,2,SS,"6'3""",205,1984-10-10,32,"Santa Clara, CA",USA,N,112,TOR,Toronto,Blue Jays,140,24,
+11193,Cabrera,Asdrubal,Asdrubal Cabrera,13,SS,"6'0""",205,1985-11-13,31,Puerto La Cruz,Venezuela,N,127,NYM,New York,Mets,146,23,
+11102,Kipnis,Jason,Jason Kipnis,22,2B,"5'11""",195,1987-04-03,29,"Northbrook, IL",USA,N,116,CLE,Cleveland,Indians,161,23,
+10615,Ozuna,Marcell,Marcell Ozuna,13,CF,"6'1""",225,1990-11-12,26,Santo Domingo,DominicanRepublic,N,128,MIA,Miami,Marlins,154,23,
+11196,Walker,Neil,Neil Walker,20,2B,"6'3""",210,1985-09-10,31,"Pittsburgh, PA",USA,N,127,NYM,New York,Mets,120,23,
+11333,Alvarez,Pedro,Pedro Alvarez,24,DH,"6'3""",250,1987-02-06,30,Santo Domingo,DominicanRepublic,N,111,BAL,Baltimore,Orioles,109,22,
+11025,Bautista,Jose,Jose Bautista,19,RF,"6'0""",205,1981-07-10,35,Santo Domingo,DominicanRepublic,N,112,TOR,Toronto,Blue Jays,120,22,
+11000,Desmond,Ian,Ian Desmond,20,CF,"6'3""",215,1985-09-20,31,"Sarasota, FL",USA,N,121,TEX,Texas,Rangers,162,22,
+11339,Moreland,Mitch,Mitch Moreland,18,1B,"6'2""",230,1985-09-06,31,"Amory, MS",USA,N,121,TEX,Texas,Rangers,156,22,
+10524,Perez,Salvador,Salvador Perez,13,C,"6'3""",240,1990-05-10,26,Valencia,Venezuela,N,118,KC,Kansas City,Royals,154,22,
+10942,Piscotty,Stephen,Stephen Piscotty,55,RF,"6'3""",210,1991-01-14,26,"Pleasanton, CA",USA,N,133,STL,St. Louis,Cardinals,159,22,
+10819,Polanco,Gregory,Gregory Polanco,25,RF,"6'5""",230,1991-09-14,25,Santo Domingo,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,153,22,
+11359,Ramos,Wilson,Wilson Ramos,40,C,"6'1""",255,1987-08-10,29,Valencia,Venezuela,N,126,WAS,Washington,Nationals,150,22,
+10297,Bogaerts,Xander,Xander Bogaerts,2,SS,"6'1""",210,1992-10-01,24,Oranjestad,Aruba,N,113,BOS,Boston,Red Sox,162,21,
+10933,Carpenter,Matt,Matt Carpenter,13,3B,"6'3""",205,1985-11-26,31,"Galveston, TX",USA,N,133,STL,St. Louis,Cardinals,136,21,
+10729,Castro,Starlin,Starlin Castro,14,2B,"6'2""",230,1990-03-24,27,Monte Cristi,DominicanRepublic,N,114,NYY,New York,Yankees,156,21,
+10787,Joseph,Tommy,Tommy Joseph,19,1B,"6'1""",255,1991-07-16,25,"Phoenix, AZ",USA,N,129,PHI,Philadelphia,Phillies,123,21,
+10813,Kang,Jung Ho,Jung Ho Kang,27,3B,"6'0""",210,1987-04-05,29,Gwangju,SouthKorea,N,132,PIT,Pittsburgh,Pirates,117,21,
+10328,Russell,Addison,Addison Russell,27,SS,"6'0""",200,1994-01-23,23,"Pensacola, FL",USA,N,131,CHC,Chicago,Cubs,162,21,
+11251,Suarez,Eugenio,Eugenio Suarez,7,3B,"5'11""",205,1991-07-18,25,Puerto Ordaz,Venezuela,N,135,CIN,Cincinnati,Reds,162,21,
+11058,Werth,Jayson,Jayson Werth,28,LF,"6'5""",235,1979-05-20,37,"Springfield, IL",USA,N,126,WAS,Washington,Nationals,160,21,
+10617,Yelich,Christian,Christian Yelich,21,LF,"6'3""",195,1991-12-05,25,"Thousand Oaks, CA",USA,N,128,MIA,Miami,Marlins,157,21,
+10497,Correa,Carlos,Carlos Correa,1,SS,"6'4""",215,1994-09-22,22,Ponce,PuertoRico,N,122,HOU,Houston,Astros,157,20,
+10965,Forsythe,Logan,Logan Forsythe,11,2B,"6'1""",205,1987-01-14,30,"Memphis, TN",USA,N,115,TB,Tampa Bay,Rays,132,20,
+11207,Galvis,Freddy,Freddy Galvis,13,SS,"5'10""",185,1989-11-14,27,Punto Fijo,Venezuela,N,129,PHI,Philadelphia,Phillies,162,20,
+10730,Gregorius,Didi,Didi Gregorius,18,SS,"6'3""",205,1990-02-18,27,Amsterdam,Netherlands,N,114,NYY,New York,Yankees,162,20,
+11293,Holliday,Matt,Matt Holliday,7,LF,"6'4""",240,1980-01-15,37,"Stillwater, OK",USA,N,133,STL,St. Louis,Cardinals,119,20,
+11335,Lind,Adam,Adam Lind,26,1B,"6'2""",195,1983-07-17,33,"Muncie, IN",USA,N,123,SEA,Seattle,Mariners,146,20,
+11074,Martin,Russell,Russell Martin,55,C,"5'10""",205,1983-02-15,34,"East York, ON",Canada,N,112,TOR,Toronto,Blue Jays,158,20,
+11002,Mazara,Nomar,Nomar Mazara,30,RF,"6'4""",215,1995-04-26,21,Santo Domingo,DominicanRepublic,N,121,TEX,Texas,Rangers,154,20,
+10724,McCann,Brian,Brian McCann,34,C,"6'3""",225,1984-02-20,33,"Athens, GA",USA,N,114,NYY,New York,Yankees,154,20,
+11049,Rendon,Anthony,Anthony Rendon,6,3B,"6'1""",210,1990-06-06,26,"Houston, TX",USA,N,126,WAS,Washington,Nationals,160,20,
+10726,Sanchez,Gary,Gary Sanchez,24,C,"6'2""",230,1992-12-02,24,Santo Domingo,DominicanRepublic,N,114,NYY,New York,Yankees,57,20,
+10845,Schimpf,Ryan,Ryan Schimpf,11,2B,"5'9""",180,1988-04-11,28,"New Orleans, LA",USA,N,139,SD,San Diego,Padres,96,20,
+11275,Segura,Jean,Jean Segura,2,2B,"5'10""",205,1990-03-17,27,San Juan,DominicanRepublic,N,140,ARI,Arizona,Diamondbacks,161,20,
+11028,Upton Jr.,Melvin,Melvin Upton Jr.,7,LF,"6'3""",185,1985-09-08,31,"Norfolk, VA",USA,N,112,TOR,Toronto,Blue Jays,156,20,
+11244,Villar,Jonathan,Jonathan Villar,5,SS,"6'1""",215,1991-05-02,25,La Vega,DominicanRepublic,N,134,MIL,Milwaukee,Brewers,161,19,
+11176,Calhoun,Kole,Kole Calhoun,56,RF,"5'10""",205,1987-10-14,29,"Buckeye, AZ",USA,N,124,LAA,Los Angeles,Angels,160,18,
+10584,Gonzalez,Adrian,Adrian Gonzalez,23,1B,"6'2""",215,1982-05-08,34,"San Diego, CA",USA,N,137,LAD,Los Angeles,Dodgers,159,18,
+11299,Rodriguez,Sean,Sean Rodriguez,3,1B,"6'0""",200,1985-04-26,31,"Miami, FL",USA,N,132,PIT,Pittsburgh,Pirates,149,18,
+11223,Zobrist,Ben,Ben Zobrist,18,2B,"6'3""",210,1981-05-26,35,"Eureka, IL",USA,N,131,CHC,Chicago,Cubs,159,18,
+10901,Belt,Brandon,Brandon Belt,9,1B,"6'5""",220,1988-04-20,28,"Nacogdoches, TX",USA,N,136,SF,San Francisco,Giants,162,17,
+10469,Castellanos,Nick,Nick Castellanos,9,3B,"6'4""",210,1992-03-04,25,"Davie, FL",USA,N,117,DET,Detroit,Tigers,116,17,
+10934,Diaz,Aledmys,Aledmys Diaz,36,SS,"6'1""",195,1990-08-01,26,Santa Clara,Cuba,N,133,STL,St. Louis,Cardinals,123,17,
+10533,Gordon,Alex,Alex Gordon,4,LF,"6'1""",220,1984-02-10,33,"Lincoln, NE",USA,N,118,KC,Kansas City,Royals,134,17,
+10671,Kepler,Max,Max Kepler,26,RF,"6'4""",205,1993-02-10,24,Berlin,Germany,N,120,MIN,Minnesota,Twins,121,17,
+10972,Souza Jr.,Steven,Steven Souza Jr.,20,RF,"6'4""",225,1989-04-24,27,"Everett, WA",USA,N,115,TB,Tampa Bay,Rays,132,17,
+10760,Valencia,Danny,Danny Valencia,26,3B,"6'2""",210,1984-09-18,32,"Miami, FL",USA,N,125,OAK,Oakland,Athletics,143,17,
+11332,Wieters,Matt,Matt Wieters,32,C,"6'5""",230,1986-05-21,30,"Charleston, SC",USA,N,111,BAL,Baltimore,Orioles,140,17,
+10932,Adams,Matt,Matt Adams,32,1B,"6'3""",260,1988-08-31,28,"Philipsburg, PA",USA,N,133,STL,St. Louis,Cardinals,130,16,
+10351,Cozart,Zack,Zack Cozart,2,SS,"6'0""",195,1985-08-12,31,"Memphis, TN",USA,N,135,CIN,Cincinnati,Reds,133,16,
+10557,Cron,C.J.,C.J. Cron,24,1B,"6'4""",235,1990-01-05,27,"Fullerton, CA",USA,N,124,LAA,Los Angeles,Angels,123,16,
+10207,Drury,Brandon,Brandon Drury,27,LF,"6'2""",210,1992-08-21,24,"Grants Pass, OR",USA,N,140,ARI,Arizona,Diamondbacks,150,16,
+10696,Flores,Wilmer,Wilmer Flores,4,3B,"6'3""",205,1991-08-06,25,Valencia,Venezuela,N,127,NYM,New York,Mets,117,16,
+10904,Nunez,Eduardo,Eduardo Nunez,10,3B,"6'0""",195,1987-06-15,29,Santo Domingo,DominicanRepublic,N,136,SF,San Francisco,Giants,151,16,
+10785,Rupp,Cameron,Cameron Rupp,29,P,"6'2""",260,1988-09-28,28,"Dallas, TX",USA,N,129,PHI,Philadelphia,Phillies,155,16,0
+10302,Shaw,Travis,Travis Shaw,47,3B,"6'4""",230,1990-04-16,26,"Washington Court House, OH",USA,N,113,BOS,Boston,Red Sox,155,16,
+10878,Smith,Seth,Seth Smith,7,RF,"6'3""",210,1982-09-30,34,"Jackson, MS",USA,N,123,SEA,Seattle,Mariners,153,16,
+10610,Bour,Justin,Justin Bour,41,1B,"6'3""",265,1988-05-28,28,"Washington, DC",USA,N,128,MIA,Miami,Marlins,102,15,
+11209,Herrera,Odubel,Odubel Herrera,37,CF,"5'11""",205,1991-12-29,25,Zulia,Venezuela,N,129,PHI,Philadelphia,Phillies,162,15,
+11103,Lindor,Francisco,Francisco Lindor,12,SS,"5'11""",190,1993-11-14,23,Caguas,PuertoRico,N,116,CLE,Cleveland,Indians,161,15,
+10559,Marte,Jefry,Jefry Marte,19,1B,"6'1""",220,1991-06-21,25,La Romana,DominicanRepublic,N,124,LAA,Los Angeles,Angels,100,15,
+10876,Martin,Leonys,Leonys Martin,12,CF,"6'2""",200,1988-03-06,29,Villa Clara,Cuba,N,123,SEA,Seattle,Mariners,149,15,
+10300,Pedroia,Dustin,Dustin Pedroia,15,2B,"5'9""",175,1983-08-17,33,"Woodland, CA",USA,N,113,BOS,Boston,Red Sox,161,15,
+11390,Rasmus,Colby,Colby Rasmus,28,LF,"6'2""",195,1986-08-11,30,"Columbus, GA",USA,N,122,HOU,Houston,Astros,120,15,
+11281,Solarte,Yangervis,Yangervis Solarte,26,3B,"5'11""",205,1987-07-07,29,Valencia,Venezuela,N,139,SD,San Diego,Padres,115,15,
+11392,Teixeira,Mark,Mark Teixeira,25,1B,"6'3""",225,1980-04-11,36,"Annapolis, MD",USA,N,114,NYY,New York,Yankees,134,15,
+11051,Zimmerman,Ryan,Ryan Zimmerman,11,1B,"6'3""",225,1984-09-28,32,"Washington, NC",USA,N,126,WAS,Washington,Nationals,133,15,
+10325,Baez,Javier,Javier Baez,9,3B,"6'0""",190,1992-12-01,24,Bayamon,PuertoRico,N,131,CHC,Chicago,Cubs,151,14,
+11130,Cabrera,Melky,Melky Cabrera,53,LF,"5'10""",210,1984-08-11,32,Bajos De Haina,DominicanRepublic,N,119,CWS,Chicago,White Sox,155,14,
+11272,Castillo,Welington,Welington Castillo,7,C,"5'10""",220,1987-04-24,29,San Isidro,DominicanRepublic,N,140,ARI,Arizona,Diamondbacks,153,14,
+10238,Garcia,Adonis,Adonis Garcia,13,3B,"5'9""",205,1985-04-12,31,Ciego de Avila,Cuba,N,130,ATL,Atlanta,Braves,142,14,
+11334,Gutierrez,Franklin,Franklin Gutierrez,21,RF,"6'2""",200,1983-02-21,34,Caracas,Venezuela,N,123,SEA,Seattle,Mariners,123,14,
+11089,Headley,Chase,Chase Headley,12,3B,"6'2""",215,1984-05-09,32,"Fountain, CO",USA,N,114,NYY,New York,Yankees,155,14,
+11337,Lee,Dae-Ho,Dae-Ho Lee,10,1B,"6'4""",250,1982-06-21,34,Busan,SouthKorea,N,123,SEA,Seattle,Mariners,127,14,
+11304,Morrison,Logan,Logan Morrison,7,1B,"6'2""",240,1987-08-25,29,"Kansas City, MO",USA,N,115,TB,Tampa Bay,Rays,115,14,
+10387,Naquin,Tyler,Tyler Naquin,72,CF,"6'2""",195,1991-04-24,25,"Spring, TX",USA,N,116,CLE,Cleveland,Indians,129,14,
+10840,Norris,Derek,Derek Norris,3,C,"6'0""",230,1989-02-14,28,"Goddard, KS",USA,N,139,SD,San Diego,Padres,156,14,
+10900,Posey,Buster,Buster Posey,28,C,"6'1""",215,1987-03-27,30,"Leesburg, GA",USA,N,136,SF,San Francisco,Giants,158,14,
+11285,Reynolds,Mark,Mark Reynolds,12,1B,"6'2""",220,1983-03-08,34,"Pikeville, KY",USA,N,138,COL,Colorado,Rockies,129,14,
+11077,Smoak,Justin,Justin Smoak,14,1B,"6'4""",220,1986-12-05,30,"Goose Creek, SC",USA,N,112,TOR,Toronto,Blue Jays,145,14,
+11360,Utley,Chase,Chase Utley,26,2B,"6'1""",195,1978-12-17,38,"Pasadena, CA",USA,N,137,LAD,Los Angeles,Dodgers,160,14,
+10752,Vogt,Stephen,Stephen Vogt,21,C,"6'0""",225,1984-11-01,32,"Visalia, CA",USA,N,125,OAK,Oakland,Athletics,154,14,
+10444,Eaton,Adam,Adam Eaton,1,RF,"5'8""",185,1988-12-06,28,"Springfield, OH",USA,N,119,CWS,Chicago,White Sox,160,13,
+10810,Freese,David,David Freese,23,3B,"6'2""",225,1983-04-28,33,"Corpus Christi, TX",USA,N,132,PIT,Pittsburgh,Pirates,156,13,
+10445,Garcia,Avisail,Avisail Garcia,26,DH,"6'4""",240,1991-06-12,25,Anzoategui,Venezuela,N,119,CWS,Chicago,White Sox,126,13,
+11243,Gennett,Scooter,Scooter Gennett,2,2B,"5'10""",185,1990-05-01,26,"Cincinnati, OH",USA,N,134,MIL,Milwaukee,Brewers,146,13,
+11391,Gomez,Carlos,Carlos Gomez,14,CF,"6'3""",220,1985-12-04,31,Santiago,DominicanRepublic,N,121,TEX,Texas,Rangers,129,13,
+11163,Gonzalez,Marwin,Marwin Gonzalez,9,1B,"6'1""",205,1989-03-14,28,Puerto Ordaz,Venezuela,N,122,HOU,Houston,Astros,155,13,
+10755,Healy,Ryon,Ryon Healy,48,3B,"6'5""",225,1992-01-10,25,"West Hills, CA",USA,N,125,OAK,Oakland,Athletics,73,13,
+11297,Joyce,Matt,Matt Joyce,17,RF,"6'2""",205,1984-08-03,32,"Tampa, FL",USA,N,132,PIT,Pittsburgh,Pirates,148,13,
+10243,Markakis,Nick,Nick Markakis,22,RF,"6'1""",215,1983-11-17,33,"Glen Cove, NY",USA,N,130,ATL,Atlanta,Braves,161,13,
+11370,Pearce,Steve,Steve Pearce,28,LF,"5'11""",200,1983-04-13,33,"Lakeland, FL",USA,N,111,BAL,Baltimore,Orioles,104,13,
+10909,Pence,Hunter,Hunter Pence,8,RF,"6'4""",220,1983-04-13,33,"Fort Worth, TX",USA,N,136,SF,San Francisco,Giants,111,13,
+10641,Perez,Hernan,Hernan Perez,14,3B,"6'1""",215,1991-03-26,26,Villa de Cura,Venezuela,N,134,MIL,Milwaukee,Brewers,138,13,
+10591,Puig,Yasiel,Yasiel Puig,66,RF,"6'2""",240,1990-12-07,26,Cienfuegos,Cuba,N,137,LAD,Los Angeles,Dodgers,111,13,
+11365,Rosales,Adam,Adam Rosales,9,3B,"6'2""",200,1983-05-20,33,"Chicago, IL",USA,N,139,SD,San Diego,Padres,118,13,
+10592,Thompson,Trayce,Trayce Thompson,21,LF,"6'3""",225,1991-03-15,26,"Los Angeles, CA",USA,N,137,LAD,Los Angeles,Dodgers,85,13,
+11057,Turner,Trea,Trea Turner,7,SS,"6'1""",185,1993-06-30,23,"Boynton Beach, FL",USA,N,126,WAS,Washington,Nationals,75,13,
+11389,Valbuena,Luis,Luis Valbuena,18,3B,"5'10""",215,1985-11-30,31,Sucre,Venezuela,N,122,HOU,Houston,Astros,101,13,
+10701,Conforto,Michael,Michael Conforto,30,LF,"6'1""",215,1993-03-01,24,"Seattle, WA",USA,N,127,NYM,New York,Mets,120,12,
+10324,Contreras,Willson,Willson Contreras,40,C,"6'1""",210,1992-05-13,24,Puerto Cabello,Venezuela,N,131,CHC,Chicago,Cubs,91,12,
+10902,Crawford,Brandon,Brandon Crawford,35,SS,"6'2""",215,1987-01-21,30,"Mountain View, CA",USA,N,136,SF,San Francisco,Giants,159,12,
+11382,Crisp,Coco,Coco Crisp,4,LF,"5'10""",185,1979-11-01,37,"Los Angeles, CA",USA,N,116,CLE,Cleveland,Indians,145,12,
+10525,Cuthbert,Cheslor,Cheslor Cuthbert,19,3B,"6'1""",190,1992-11-16,24,Corn Island,Nicaragua,N,118,KC,Kansas City,Royals,132,12,
+11398,Davis,Rajai,Rajai Davis,20,CF,"5'10""",195,1980-10-19,36,"Norwich, CT",USA,N,116,CLE,Cleveland,Indians,152,12,
+11224,Fowler,Dexter,Dexter Fowler,24,CF,"6'5""",195,1986-03-22,31,"Atlanta, GA",USA,N,131,CHC,Chicago,Cubs,134,12,
+11276,Hazelbaker,Jeremy,Jeremy Hazelbaker,,LF,"6'3""",190,1987-08-13,29,"Muncie, IN",USA,N,133,STL,St. Louis,Cardinals,119,12,
+10970,Kiermaier,Kevin,Kevin Kiermaier,39,CF,"6'1""",215,1990-04-22,26,"Fort Wayne, IN",USA,N,115,TB,Tampa Bay,Rays,114,12,
+10441,Lawrie,Brett,Brett Lawrie,15,2B,"6'0""",210,1990-01-18,27,"Langley, BC",Canada,N,119,CWS,Chicago,White Sox,96,12,
+10467,McCann,James,James McCann,34,C,"6'2""",210,1990-06-13,26,"Santa Barbara, CA",USA,N,117,DET,Detroit,Tigers,135,12,
+10645,Nieuwenhuis,Kirk,Kirk Nieuwenhuis,10,CF,"6'3""",225,1987-08-07,29,"Santa Monica, CA",USA,N,134,MIL,Milwaukee,Brewers,140,12,
+11319,Pagan,Angel,Angel Pagan,16,LF,"6'2""",200,1981-07-02,35,Rio Piedras,PuertoRico,N,136,SF,San Francisco,Giants,135,12,
+10674,Park,Byung Ho,Byung Ho Park,52,DH,"6'1""",220,1986-07-10,30,Seoul,SouthKorea,N,120,MIN,Minnesota,Twins,67,12,
+10669,Plouffe,Trevor,Trevor Plouffe,24,3B,"6'2""",215,1986-06-15,30,"West Hills, CA",USA,N,120,MIN,Minnesota,Twins,91,12,
+10332,Soler,Jorge,Jorge Soler,68,LF,"6'4""",215,1992-02-25,25,Havana,Cuba,N,131,CHC,Chicago,Cubs,97,12,
+10871,Zunino,Mike,Mike Zunino,3,C,"6'2""",220,1991-03-25,26,"Cape Coral, FL",USA,N,123,SEA,Seattle,Mariners,72,12,
+11388,Castro,Jason,Jason Castro,15,C,"6'3""",215,1987-06-18,29,"Castro Valley, CA",USA,N,122,HOU,Houston,Astros,149,11,
+11139,Grossman,Robbie,Robbie Grossman,36,LF,"6'0""",215,1989-09-16,27,"San Diego, CA",USA,N,120,MIN,Minnesota,Twins,110,11,
+10409,LeMahieu,DJ,DJ LeMahieu,9,2B,"6'4""",215,1988-07-13,28,"Visalia, CA",USA,N,138,COL,Colorado,Rockies,156,11,
+10668,Mauer,Joe,Joe Mauer,7,1B,"6'5""",225,1983-04-19,33,"St. Paul, MN",USA,N,120,MIN,Minnesota,Twins,143,11,
+10814,Mercer,Jordy,Jordy Mercer,10,SS,"6'3""",205,1986-08-27,30,"Taloga, OK",USA,N,132,PIT,Pittsburgh,Pirates,159,11,
+10352,Phillips,Brandon,Brandon Phillips,4,2B,"6'0""",210,1981-06-28,35,"Raleigh, NC",USA,N,135,CIN,Cincinnati,Reds,152,11,
+11105,Ramirez,Jose,Jose Ramirez,11,3B,"5'9""",180,1992-09-17,24,Bani,DominicanRepublic,N,116,CLE,Cleveland,Indians,160,11,
+10609,Realmuto,J.T.,J.T. Realmuto,11,C,"6'1""",210,1991-03-18,26,"Del City, OK",USA,N,128,MIA,Miami,Marlins,160,11,
+11438,Saltalamacchia,Jarrod,Jarrod Saltalamacchia,39,C,"6'4""",235,1985-05-02,31,"West Palm Beach, FL",USA,N,117,DET,Detroit,Tigers,126,11,
+10647,Santana,Domingo,Domingo Santana,16,RF,"6'5""",220,1992-08-04,24,Santo Domingo,DominicanRepublic,N,134,MIL,Milwaukee,Brewers,86,11,
+10910,Span,Denard,Denard Span,2,CF,"6'0""",210,1984-02-27,33,"Washington, DC",USA,N,136,SF,San Francisco,Giants,154,11,
+11023,Travis,Devon,Devon Travis,29,2B,"5'9""",190,1992-09-02,24,"Palm Beach, FL",USA,N,112,TOR,Toronto,Blue Jays,109,11,
+10670,Buxton,Byron,Byron Buxton,25,CF,"6'2""",190,1993-12-18,23,"Baxley, GA",USA,N,120,MIN,Minnesota,Twins,105,10,
+10850,Dickerson,Alex,Alex Dickerson,1,LF,"6'3""",235,1990-05-26,26,"Poway, CA",USA,N,139,SD,San Diego,Padres,92,10,
+11323,Hill,Aaron,Aaron Hill,18,3B,"5'11""",200,1982-03-21,35,"Visalia, CA",USA,N,113,BOS,Boston,Red Sox,144,10,
+11287,Hundley,Nick,Nick Hundley,4,C,"6'1""",205,1983-08-09,33,"Corvallis, OR",USA,N,138,COL,Colorado,Rockies,119,10,
+11354,Johnson,Kelly,Kelly Johnson,55,3B,"6'1""",200,1982-02-22,35,"Austin, TX",USA,N,127,NYM,New York,Mets,142,10,
+10905,Panik,Joe,Joe Panik,12,2B,"6'1""",190,1990-10-30,26,"Yonkers, NY",USA,N,136,SF,San Francisco,Giants,134,10,
+11387,Reddick,Josh,Josh Reddick,,RF,"6'2""",195,1987-02-19,30,"Savannah, GA",USA,N,137,LAD,Los Angeles,Dodgers,127,10,
+10672,Rosario,Eddie,Eddie Rosario,20,LF,"6'1""",180,1991-09-28,25,Guayama,PuertoRico,N,120,MIN,Minnesota,Twins,107,10,
+11422,Ross,David,David Ross,3,C,"6'2""",230,1977-03-19,40,"Bainbridge, GA",USA,N,131,CHC,Chicago,Cubs,99,10,
+11632,Vargas,Kennys,Kennys Vargas,19,1B,"6'5""",290,1990-08-01,26,Canovanas,PuertoRico,N,120,MIN,Minnesota,Twins,56,10,
+10438,Anderson,Tim,Tim Anderson,12,SS,"6'1""",185,1993-06-23,23,"Tuscaloosa, AL",USA,N,119,CWS,Chicago,White Sox,102,9,
+10644,Broxton,Keon,Keon Broxton,23,CF,"6'3""",195,1990-05-07,26,"Lakeland, FL",USA,N,134,MIL,Milwaukee,Brewers,88,9,
+10532,Cain,Lorenzo,Lorenzo Cain,6,CF,"6'2""",205,1986-04-13,30,"Valdosta, GA",USA,N,118,KC,Kansas City,Royals,111,9,
+10994,Chirinos,Robinson,Robinson Chirinos,61,C,"6'1""",210,1984-06-05,32,Punto Fijo,Venezuela,N,121,TEX,Texas,Rangers,84,9,
+10733,Ellsbury,Jacoby,Jacoby Ellsbury,22,CF,"6'1""",195,1983-09-11,33,"Madras, OR",USA,N,114,NYY,New York,Yankees,155,9,
+10380,Gomes,Yan,Yan Gomes,10,C,"6'2""",215,1987-07-19,29,Sao Paulo,Brazil,N,116,CLE,Cleveland,Indians,94,9,
+10386,Guyer,Brandon,Brandon Guyer,6,LF,"6'2""",200,1986-01-28,31,"West Chester, PA",USA,N,116,CLE,Cleveland,Indians,115,9,
+10267,Hardy,J.J.,J.J. Hardy,2,SS,"6'1""",200,1982-08-19,34,"Tucson, AZ",USA,N,111,BAL,Baltimore,Orioles,118,9,
+11054,Heisey,Chris,Chris Heisey,14,LF,"6'1""",220,1984-12-14,32,"Lancaster, PA",USA,N,126,WAS,Washington,Nationals,92,9,
+11582,Loney,James,James Loney,28,1B,"6'3""",235,1984-05-07,32,"Houston, TX",USA,N,127,NYM,New York,Mets,109,9,
+10818,Marte,Starling,Starling Marte,6,LF,"6'1""",190,1988-10-09,28,Santo Domingo,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,137,9,
+10941,Pham,Tommy,Tommy Pham,28,CF,"6'1""",210,1988-03-08,29,"Las Vegas, NV",USA,N,133,STL,St. Louis,Cardinals,86,9,
+11284,Raburn,Ryan,Ryan Raburn,6,LF,"6'0""",185,1981-12-04,35,"Tampa, FL",USA,N,138,COL,Colorado,Rockies,127,9,
+11394,Rodriguez,Alex,Alex Rodriguez,13,DH,"6'3""",230,1975-07-27,41,"New York, NY",USA,N,114,NYY,New York,Yankees,65,9,
+10357,Schebler,Scott,Scott Schebler,43,RF,"6'0""",225,1990-10-06,26,"Cedar Rapids, IA",USA,N,135,CIN,Cincinnati,Reds,85,9,
+11277,Weeks Jr.,Rickie,Rickie Weeks Jr.,5,LF,"5'10""",220,1982-09-13,34,"Daytona, FL",USA,N,140,ARI,Arizona,Diamondbacks,116,9,
+10305,Young,Chris,Chris Young,30,LF,"6'2""",200,1983-09-05,33,"Houston, TX",USA,N,113,BOS,Boston,Red Sox,87,9,
+10997,Andrus,Elvis,Elvis Andrus,1,SS,"6'0""",200,1988-08-26,28,Maracay,Venezuela,N,121,TEX,Texas,Rangers,162,8,
+10848,Arcia,Oswaldo,Oswaldo Arcia,34,LF,"6'0""",225,1991-05-09,25,Anaco,Venezuela,N,139,SD,San Diego,Padres,88,8,
+10553,Bandy,Jett,Jett Bandy,13,C,"6'4""",235,1990-03-26,27,"West Hills, CA",USA,N,124,LAA,Los Angeles,Angels,97,8,
+10496,Bregman,Alex,Alex Bregman,2,3B,"6'0""",180,1994-03-30,22,"Albuquerque, NM",USA,N,122,HOU,Houston,Astros,52,8,
+10958,Casali,Curt,Curt Casali,19,C,"6'2""",230,1988-11-09,28,"Walnut Creek, CA",USA,N,115,TB,Tampa Bay,Rays,114,8,
+10385,Chisenhall,Lonnie,Lonnie Chisenhall,8,RF,"6'2""",190,1988-10-04,28,"Morehead City, NC",USA,N,116,CLE,Cleveland,Indians,139,8,
+11562,Descalso,Daniel,Daniel Descalso,3,1B,"5'10""",190,1986-10-19,30,"Redwood City, CA",USA,N,138,COL,Colorado,Rockies,109,8,
+11350,Drew,Stephen,Stephen Drew,10,2B,"6'0""",200,1983-03-16,34,"Hahira, GA",USA,N,126,WAS,Washington,Nationals,83,8,
+11148,Fielder,Prince,Prince Fielder,84,DH,"5'11""",275,1984-05-09,32,"Ontario, CA",USA,N,121,TEX,Texas,Rangers,91,8,
+10234,Flowers,Tyler,Tyler Flowers,25,C,"6'4""",260,1986-01-24,31,"Roswell, GA",USA,N,130,ATL,Atlanta,Braves,119,8,
+11092,Hicks,Aaron,Aaron Hicks,31,RF,"6'1""",205,1989-10-02,27,"San Pedro, CA",USA,N,114,NYY,New York,Yankees,136,8,
+10812,Jaso,John,John Jaso,28,1B,"6'2""",205,1983-09-19,33,"Chula Vista, CA",USA,N,132,PIT,Pittsburgh,Pirates,149,8,
+11210,Kendrick,Howie,Howie Kendrick,,LF,"5'11""",220,1983-07-12,33,"Jacksonville, FL",USA,N,137,LAD,Los Angeles,Dodgers,154,8,
+10636,Maldonado,Martin,Martin Maldonado,12,C,"6'0""",230,1986-08-16,30,Naguabo,PuertoRico,N,134,MIL,Milwaukee,Brewers,111,8,
+11227,Molina,Yadier,Yadier Molina,4,C,"5'11""",205,1982-07-13,34,Bayamon,PuertoRico,N,133,STL,St. Louis,Cardinals,162,8,
+11218,Montero,Miguel,Miguel Montero,47,C,"5'11""",210,1983-07-09,33,Caracas,Venezuela,N,131,CHC,Chicago,Cubs,118,8,
+10936,Peralta,Jhonny,Jhonny Peralta,27,SS,"6'2""",225,1982-05-28,34,Santiago,DominicanRepublic,N,133,STL,St. Louis,Cardinals,91,8,
+10613,Prado,Martin,Martin Prado,14,3B,"6'0""",215,1983-10-27,33,Maracay,Venezuela,N,128,MIA,Miami,Marlins,158,8,
+11195,Reyes,Jose,Jose Reyes,7,3B,"6'0""",195,1983-06-11,33,Santiago,DominicanRepublic,N,127,NYM,New York,Mets,64,8,
+11003,Rua,Ryan,Ryan Rua,16,LF,"6'2""",205,1990-03-11,27,"Amherst, OH",USA,N,121,TEX,Texas,Rangers,117,8,
+10442,Saladino,Tyler,Tyler Saladino,18,SS,"6'0""",200,1989-07-20,27,"San Diego, CA",USA,N,119,CWS,Chicago,White Sox,115,8,
+11329,Suzuki,Kurt,Kurt Suzuki,8,C,"5'11""",205,1983-10-04,33,"Wailuku, HI",USA,N,120,MIN,Minnesota,Twins,152,8,
+11164,White,Tyler,Tyler White,13,1B,"5'11""",225,1990-10-29,26,"Mooresboro, NC",USA,N,122,HOU,Houston,Astros,99,8,
+10753,Alonso,Yonder,Yonder Alonso,17,1B,"6'1""",230,1987-04-08,29,Havana,Cuba,N,125,OAK,Oakland,Athletics,161,7,
+11427,Avila,Alex,Alex Avila,31,C,"5'11""",210,1987-01-29,30,"Hialeah, FL",USA,N,119,CWS,Chicago,White Sox,93,7,
+11247,Barnhart,Tucker,Tucker Barnhart,16,C,"5'11""",190,1991-01-07,26,"Indianapolis, IN",USA,N,135,CIN,Cincinnati,Reds,149,7,
+11146,Choo,Shin-Soo,Shin-Soo Choo,17,RF,"5'11""",210,1982-07-13,34,Busan,SouthKorea,N,121,TEX,Texas,Rangers,53,7,
+10413,Dahl,David,David Dahl,26,LF,"6'2""",195,1994-04-01,22,"Birmingham, AL",USA,N,138,COL,Colorado,Rockies,63,7,
+10611,Dietrich,Derek,Derek Dietrich,32,2B,"6'0""",205,1989-07-18,27,"Cleveland, OH",USA,N,128,MIA,Miami,Marlins,139,7,
+10695,Duda,Lucas,Lucas Duda,21,1B,"6'4""",255,1986-02-03,31,"Riverside, CA",USA,N,127,NYM,New York,Mets,53,7,
+10527,Escobar,Alcides,Alcides Escobar,2,SS,"6'1""",185,1986-12-16,30,La Sabana,Venezuela,N,118,KC,Kansas City,Royals,162,7,
+11353,Francoeur,Jeff,Jeff Francoeur,5,LF,"6'4""",225,1984-01-08,33,"Atlanta, GA",USA,N,128,MIA,Miami,Marlins,138,7,
+11091,Gardner,Brett,Brett Gardner,11,LF,"5'11""",195,1983-08-24,33,"Holy Hill, SC",USA,N,114,NYY,New York,Yankees,159,7,
+11259,Hernandez,Enrique,Enrique Hernandez,14,LF,"5'11""",200,1991-08-24,25,San Juan,PuertoRico,N,137,LAD,Los Angeles,Dodgers,122,7,
+10330,Heyward,Jason,Jason Heyward,22,RF,"6'5""",240,1989-08-09,27,"Ridgewood, NJ",USA,N,131,CHC,Chicago,Cubs,154,7,
+11066,Holt,Brock,Brock Holt,12,LF,"5'10""",180,1988-06-11,28,"Fort Worth, TX",USA,N,113,BOS,Boston,Red Sox,106,7,
+11336,Iannetta,Chris,Chris Iannetta,33,C,"6'0""",230,1983-04-08,33,"Providence, RI",USA,N,123,SEA,Seattle,Mariners,129,7,
+11302,Jennings,Desmond,Desmond Jennings,8,LF,"6'2""",210,1986-10-30,30,"Birmingham, AL",USA,N,115,TB,Tampa Bay,Rays,80,7,
+11061,Leon,Sandy,Sandy Leon,3,C,"5'10""",225,1989-03-13,28,Maracaibo,Venezuela,N,113,BOS,Boston,Red Sox,97,7,
+10530,Moustakas,Mike,Mike Moustakas,8,3B,"6'0""",215,1988-09-11,28,"Los Angeles, CA",USA,N,118,KC,Kansas City,Royals,31,7,
+11269,Parra,Gerardo,Gerardo Parra,8,LF,"5'11""",210,1987-05-06,29,Santa Barbara del Zulia,Venezuela,N,138,COL,Colorado,Rockies,109,7,
+10239,Peterson,Jace,Jace Peterson,8,2B,"6'0""",215,1990-05-09,26,"Lake Charles, LA",USA,N,130,ATL,Atlanta,Braves,125,7,
+11027,Pillar,Kevin,Kevin Pillar,11,CF,"6'0""",205,1989-04-01,27,"West Hills, CA",USA,N,112,TOR,Toronto,Blue Jays,150,7,
+11188,Smolinski,Jake,Jake Smolinski,5,CF,"5'11""",205,1989-02-09,28,"Rockford, IL",USA,N,125,OAK,Oakland,Athletics,111,7,
+11056,Taylor,Michael,Michael Taylor,3,C,"6'3""",210,1991-03-25,26,"Fort Lauderdale, FL",USA,N,126,WAS,Washington,Nationals,98,7,
+11396,Uribe,Juan,Juan Uribe,4,3B,"6'0""",245,1979-03-22,38,Palenque,DominicanRepublic,N,116,CLE,Cleveland,Indians,96,7,
+10961,Wilson,Bobby,Bobby Wilson,21,C,"6'0""",230,1983-04-08,33,"Dunedin, FL",USA,N,115,TB,Tampa Bay,Rays,123,7,
+10699,Wright,David,David Wright,5,3B,"6'0""",205,1982-12-20,34,"Norfolk, VA",USA,N,127,NYM,New York,Mets,47,7,
+10838,Bethancourt,Christian,Christian Bethancourt,12,C,"6'2""",210,1991-09-02,25,Panama City,Panama,N,139,SD,San Diego,Padres,90,6,
+11078,Carrera,Ezequiel,Ezequiel Carrera,3,RF,"5'11""",185,1987-06-11,29,Guiria,Venezuela,N,112,TOR,Toronto,Blue Jays,119,6,
+11386,Coghlan,Chris,Chris Coghlan,8,LF,"6'0""",195,1985-06-18,31,"Rockville, MD",USA,N,131,CHC,Chicago,Cubs,111,6,
+11311,De Aza,Alejandro,Alejandro De Aza,16,CF,"6'0""",195,1984-04-11,32,Guaymate,DominicanRepublic,N,127,NYM,New York,Mets,137,6,
+10762,Eibner,Brett,Brett Eibner,39,RF,"6'4""",225,1988-12-02,28,"San Diego, CA",USA,N,125,OAK,Oakland,Athletics,85,6,
+11136,Escobar,Eduardo,Eduardo Escobar,5,SS,"5'10""",185,1989-01-05,28,Villa de Cura,Venezuela,N,120,MIN,Minnesota,Twins,125,6,
+11098,Franklin,Nick,Nick Franklin,2,LF,"6'1""",190,1991-03-02,26,"Sanford, FL",USA,N,115,TB,Tampa Bay,Rays,66,6,
+11376,Giavotella,Johnny,Johnny Giavotella,12,2B,"5'8""",185,1987-07-10,29,"Metairie, LA",USA,N,124,LAA,Los Angeles,Angels,115,6,
+10903,Gillaspie,Conor,Conor Gillaspie,21,3B,"6'1""",195,1987-07-18,29,"Omaha, NE",USA,N,136,SF,San Francisco,Giants,108,6,
+11208,Hernandez,Cesar,Cesar Hernandez,16,2B,"5'10""",160,1990-05-23,26,Valencia,Venezuela,N,129,PHI,Philadelphia,Phillies,161,6,
+10200,Herrmann,Chris,Chris Herrmann,10,C,"6'0""",200,1987-11-24,29,"Tomball, TX",USA,N,140,ARI,Arizona,Diamondbacks,71,6,
+11644,Morneau,Justin,Justin Morneau,44,DH,"6'4""",220,1981-05-15,35,"New Westminster, BC",Canada,N,119,CWS,Chicago,White Sox,57,6,
+11380,Navarro,Dioner,Dioner Navarro,30,C,"5'9""",215,1984-02-09,33,Caracas,Venezuela,N,112,TOR,Toronto,Blue Jays,138,6,
+11366,Ramirez,Alexei,Alexei Ramirez,24,SS,"6'2""",180,1981-09-22,35,Pinar del Rio,Cuba,N,115,TB,Tampa Bay,Rays,154,6,
+11071,Reimold,Nolan,Nolan Reimold,14,LF,"6'4""",205,1983-10-12,33,"Greenville, PA",USA,N,111,BAL,Baltimore,Orioles,136,6,
+11535,Rivera,Rene,Rene Rivera,44,C,"5'10""",215,1983-07-31,33,Bayamon,PuertoRico,N,127,NYM,New York,Mets,104,6,
+10273,Soo Kim,Hyun,Hyun Soo Kim,25,LF,"6'2""",210,1988-01-12,29,Seoul,SouthKorea,N,111,BAL,Baltimore,Orioles,145,6,
+10847,Wallace,Brett,Brett Wallace,39,3B,"6'2""",250,1986-08-26,30,"Marin, CA",USA,N,139,SD,San Diego,Padres,122,6,
+10911,Williamson,Mac,Mac Williamson,51,RF,"6'4""",240,1990-07-15,26,"Jacksonville, FL",USA,N,136,SF,San Francisco,Giants,62,6,
+10727,Austin,Tyler,Tyler Austin,26,1B,"6'2""",220,1991-09-06,25,"Conyers, GA",USA,N,114,NYY,New York,Yankees,39,5,
+11358,Beckham,Gordon,Gordon Beckham,17,2B,"6'0""",190,1986-09-16,30,"Atlanta, GA",USA,N,136,SF,San Francisco,Giants,101,5,
+10962,Beckham,Tim,Tim Beckham,1,SS,"6'0""",195,1990-01-27,27,"Griffin, GA",USA,N,115,TB,Tampa Bay,Rays,84,5,
+11342,Bourjos,Peter,Peter Bourjos,17,RF,"6'1""",185,1987-03-31,29,"Park Ridge, IL",USA,N,129,PHI,Philadelphia,Phillies,130,5,
+11567,Bourn,Michael,Michael Bourn,1,CF,"5'11""",190,1982-12-27,34,"Houston, TX",USA,N,111,BAL,Baltimore,Orioles,119,5,
+10899,Brown,Trevor,Trevor Brown,14,C,"6'2""",195,1991-11-15,25,"Newhall, CA",USA,N,136,SF,San Francisco,Giants,92,5,
+11385,Butler,Billy,Billy Butler,36,DH,"6'0""",260,1986-04-18,30,"Orange Park, FL",USA,N,114,NYY,New York,Yankees,99,5,
+11397,Byrd,Marlon,Marlon Byrd,6,RF,"6'0""",245,1977-08-30,39,"Boynton Beach, FL",USA,N,116,CLE,Cleveland,Indians,46,5,
+10556,Choi,Ji-Man,Ji-Man Choi,51,1B,"6'1""",230,1991-05-19,25,Incheon,SouthKorea,N,124,LAA,Los Angeles,Angels,62,5,
+10964,Duffy,Matt,Matt Duffy,5,SS,"6'2""",170,1991-01-15,26,"Long Beach, CA",USA,N,115,TB,Tampa Bay,Rays,94,5,
+10558,Escobar,Yunel,Yunel Escobar,0,3B,"6'2""",215,1982-11-02,34,Havana,Cuba,N,124,LAA,Los Angeles,Angels,140,5,
+10209,Haniger,Mitch,Mitch Haniger,19,RF,"6'2""",215,1990-12-23,26,"Mountain View, CA",USA,N,140,ARI,Arizona,Diamondbacks,35,5,
+11411,Johnson,Chris,Chris Johnson,12,3B,"6'3""",225,1984-10-01,32,"Naples, FL",USA,N,128,MIA,Miami,Marlins,126,5,
+10505,Marisnick,Jake,Jake Marisnick,6,CF,"6'4""",220,1991-03-30,25,"Riverside, CA",USA,N,122,HOU,Houston,Astros,133,5,
+10475,Moya,Steven,Steven Moya,33,RF,"6'7""",260,1991-08-09,25,Rio Piedras,PuertoRico,N,117,DET,Detroit,Tigers,39,5,
+10407,Murphy,Tom,Tom Murphy,23,C,"6'1""",220,1991-04-03,25,"West Monroe, NY",USA,N,138,COL,Colorado,Rockies,24,5,
+10210,O'Brien,Peter,Peter O'Brien,14,LF,"6'4""",235,1990-07-15,26,"Hialeah, FL",USA,N,140,ARI,Arizona,Diamondbacks,30,5,
+10535,Orlando,Paulo,Paulo Orlando,16,RF,"6'2""",210,1985-11-01,31,Sao Paulo,Brazil,N,118,KC,Kansas City,Royals,144,5,
+11274,Owings,Chris,Chris Owings,16,SS,"5'10""",185,1991-08-12,25,"Charleston, SC",USA,N,140,ARI,Arizona,Diamondbacks,125,5,
+11569,Paredes,Jimmy,Jimmy Paredes,41,RF,"6'3""",200,1988-11-25,28,Haina,DominicanRepublic,N,129,PHI,Philadelphia,Phillies,87,5,
+10908,Parker,Jarrett,Jarrett Parker,6,RF,"6'4""",210,1989-01-01,28,"Belvoir, VA",USA,N,136,SF,San Francisco,Giants,66,5,
+10555,Perez,Carlos,Carlos Perez,58,C,"6'0""",210,1990-10-27,26,Valencia,Venezuela,N,124,LAA,Los Angeles,Angels,122,5,
+11145,Profar,Jurickson,Jurickson Profar,19,3B,"6'0""",190,1993-02-20,24,Willemstad,Curacao,N,121,TEX,Texas,Rangers,102,5,
+10274,Rickard,Joey,Joey Rickard,23,RF,"6'1""",185,1991-05-21,25,"Las Vegas, NV",USA,N,111,BAL,Baltimore,Orioles,90,5,
+11050,Robinson,Clint,Clint Robinson,25,1B,"6'5""",240,1985-02-16,32,"Jefferson City, MO",USA,N,126,WAS,Washington,Nationals,120,5,
+10333,Szczur,Matt,Matt Szczur,20,LF,"6'0""",200,1989-07-20,27,"Cape May, NJ",USA,N,131,CHC,Chicago,Cubs,112,5,
+10937,Wong,Kolten,Kolten Wong,16,2B,"5'9""",185,1990-10-10,26,"Hilo, HI",USA,N,133,STL,St. Louis,Cardinals,135,5,
+10201,Ahmed,Nick,Nick Ahmed,13,SS,"6'2""",195,1990-03-15,27,"Springfield, MA",USA,N,140,ARI,Arizona,Diamondbacks,95,4,
+10788,Altherr,Aaron,Aaron Altherr,23,RF,"6'5""",215,1991-01-14,26,Landstuhl,Germany,N,129,PHI,Philadelphia,Phillies,59,4,
+11165,Aoki,Norichika,Norichika Aoki,,LF,"5'9""",180,1982-01-05,35,Hyuga City,Japan,N,123,SEA,Seattle,Mariners,128,4,
+10639,Arcia,Orlando,Orlando Arcia,3,SS,"6'0""",165,1994-08-04,22,Anaco,Venezuela,N,134,MIL,Milwaukee,Brewers,59,4,
+10789,Asche,Cody,Cody Asche,25,LF,"6'1""",205,1990-06-30,26,"St. Charles, MO",USA,N,129,PHI,Philadelphia,Phillies,77,4,
+11075,Barney,Darwin,Darwin Barney,18,2B,"5'10""",180,1985-11-08,31,"Portland, OR",USA,N,112,TOR,Toronto,Blue Jays,122,4,
+11458,Blanco,Andres,Andres Blanco,4,2B,"5'10""",195,1984-04-11,32,Urama,Venezuela,N,129,PHI,Philadelphia,Phillies,99,4,
+10206,Brito,Socrates,Socrates Brito,30,RF,"6'2""",205,1992-09-06,24,Azua,DominicanRepublic,N,140,ARI,Arizona,Diamondbacks,47,4,
+11493,Butera,Drew,Drew Butera,9,C,"6'1""",200,1983-08-09,33,"Evansville, IN",USA,N,118,KC,Kansas City,Royals,78,4,
+10692,d'Arnaud,Travis,Travis d'Arnaud,18,C,"6'2""",210,1989-02-10,28,"Long Beach, CA",USA,N,127,NYM,New York,Mets,109,4,
+10999,DeShields,Delino,Delino DeShields,3,CF,"5'9""",200,1992-08-16,24,"Easton, MD",USA,N,121,TEX,Texas,Rangers,82,4,
+10379,Gimenez,Chris,Chris Gimenez,38,C,"6'2""",230,1982-12-27,34,"Gilroy, CA",USA,N,116,CLE,Cleveland,Indians,91,4,
+10790,Goeddel,Tyler,Tyler Goeddel,2,LF,"6'4""",180,1992-10-20,24,"San Mateo, CA",USA,N,129,PHI,Philadelphia,Phillies,115,4,
+10811,Harrison,Josh,Josh Harrison,5,2B,"5'8""",190,1987-07-08,29,"Cincinnati, OH",USA,N,132,PIT,Pittsburgh,Pirates,139,4,
+10503,Hernandez,Teoscar,Teoscar Hernandez,35,CF,"6'2""",180,1992-10-15,24,Cotui,DominicanRepublic,N,122,HOU,Houston,Astros,46,4,
+11110,Iglesias,Jose,Jose Iglesias,1,SS,"5'11""",185,1990-01-05,27,Havana,Cuba,N,117,DET,Detroit,Tigers,147,4,
+10734,Judge,Aaron,Aaron Judge,99,RF,"6'7""",275,1992-04-26,24,"Linden, GA",USA,N,114,NYY,New York,Yankees,30,4,
+11177,Maybin,Cameron,Cameron Maybin,,CF,"6'3""",215,1987-04-04,29,"Asheville, NC",USA,N,117,DET,Detroit,Tigers,101,4,
+10211,Peralta,David,David Peralta,6,RF,"6'1""",210,1987-08-14,29,Valencia,Venezuela,N,140,ARI,Arizona,Diamondbacks,50,4,
+11137,Polanco,Jorge,Jorge Polanco,11,SS,"5'11""",200,1993-07-04,23,San Pedro de Macoris,DominicanRepublic,N,120,MIN,Minnesota,Twins,77,4,
+10853,Renfroe,Hunter,Hunter Renfroe,71,RF,"6'1""",220,1992-01-28,25,"Crystal Springs, MS",USA,N,139,SD,San Diego,Padres,11,4,
+10725,Romine,Austin,Austin Romine,27,C,"6'1""",220,1988-11-22,28,"Lake Forest, CA",USA,N,114,NYY,New York,Yankees,96,4,
+11129,Sanchez,Carlos,Carlos Sanchez,5,2B,"5'11""",195,1992-06-29,24,Maracay,Venezuela,N,119,CWS,Chicago,White Sox,60,4,
+11280,Sardinas,Luis,Luis Sardinas,2,SS,"6'1""",180,1993-05-16,23,Bolivar,Venezuela,N,139,SD,San Diego,Padres,78,4,
+11457,Shuck,J.B.,J.B. Shuck,20,CF,"5'11""",195,1987-06-18,29,"Westerville, OH",USA,N,119,CWS,Chicago,White Sox,92,4,
+10560,Simmons,Andrelton,Andrelton Simmons,2,SS,"6'2""",200,1989-09-04,27,Mundo-Novo,Curacao,N,124,LAA,Los Angeles,Angels,127,4,
+11585,Snyder,Brandon,Brandon Snyder,19,3B,"6'2""",225,1986-11-23,30,"Las Vegas, NV",USA,N,130,ATL,Atlanta,Braves,40,4,
+11424,Soto,Geovany,Geovany Soto,18,C,"6'1""",225,1983-01-20,34,San Juan,PuertoRico,N,124,LAA,Los Angeles,Angels,40,4,
+10507,Tucker,Preston,Preston Tucker,20,LF,"6'0""",215,1990-07-06,26,"Tampa, FL",USA,N,122,HOU,Houston,Astros,52,4,
+10329,Almora Jr.,Albert,Albert Almora Jr.,5,CF,"6'2""",190,1994-04-16,22,"Hialeah, FL",USA,N,131,CHC,Chicago,Cubs,52,3,
+11355,Aybar,Erick,Erick Aybar,15,SS,"5'10""",195,1984-01-14,33,Bani,DominicanRepublic,N,117,DET,Detroit,Tigers,141,3,
+11234,Bell,Josh,Josh Bell,55,1B,"6'2""",240,1992-08-14,24,"Irving, TX",USA,N,132,PIT,Pittsburgh,Pirates,46,3,
+10849,Blash,Jabari,Jabari Blash,32,RF,"6'5""",235,1989-07-04,27,"St. Thomas, VI",USA,N,139,SD,San Diego,Padres,40,3,
+10883,Bumgarner,Madison,Madison Bumgarner,40,P,"6'5""",250,1989-08-01,27,"Hickory, NC",USA,N,136,SF,San Francisco,Giants,67,3,26
+11248,Cabrera,Ramon,Ramon Cabrera,37,C,"5'8""",195,1989-11-05,27,Caracas,Venezuela,N,135,CIN,Cincinnati,Reds,91,3,
+10754,Canha,Mark,Mark Canha,20,1B,"6'2""",210,1989-02-15,28,"San Jose, CA",USA,N,125,OAK,Oakland,Athletics,19,3,
+10667,Centeno,Juan,Juan Centeno,37,C,"5'9""",195,1989-11-16,27,Arecibo,PuertoRico,N,120,MIN,Minnesota,Twins,93,3,
+11112,Collins,Tyler,Tyler Collins,18,CF,"5'11""",215,1990-06-06,26,"Lubbock, TX",USA,N,117,DET,Detroit,Tigers,64,3,
+11303,Conger,Hank,Hank Conger,24,C,"6'2""",220,1988-01-29,29,"Federal Way, WA",USA,N,115,TB,Tampa Bay,Rays,70,3,
+10266,Flaherty,Ryan,Ryan Flaherty,3,3B,"6'3""",220,1986-07-27,30,"Portland, ME",USA,N,111,BAL,Baltimore,Orioles,105,3,
+10935,Garcia,Greg,Greg Garcia,35,3B,"6'0""",190,1989-08-08,27,"El Cajon, CA",USA,N,133,STL,St. Louis,Cardinals,105,3,
+11076,Goins,Ryan,Ryan Goins,17,2B,"5'10""",180,1988-02-13,29,"Temple, TX",USA,N,112,TOR,Toronto,Blue Jays,92,3,
+11273,Gosewisch,Tuffy,Tuffy Gosewisch,8,C,"5'11""",200,1983-08-17,33,"Freeport, IL",USA,N,140,ARI,Arizona,Diamondbacks,55,3,
+10498,Gurriel,Yulieski,Yulieski Gurriel,10,3B,"6'0""",190,1984-06-09,32,Sancti Spiritus,Cuba,N,122,HOU,Houston,Astros,38,3,
+11252,Hamilton,Billy,Billy Hamilton,6,CF,"6'0""",160,1990-09-09,26,"Collins, MS",USA,N,135,CIN,Cincinnati,Reds,124,3,
+10612,Hechavarria,Adeiny,Adeiny Hechavarria,3,SS,"6'0""",195,1989-04-15,27,Santiago De Cuba,Cuba,N,128,MIA,Miami,Marlins,161,3,
+11215,Inciarte,Ender,Ender Inciarte,11,CF,"5'11""",190,1990-10-29,26,Maracaibo,Venezuela,N,130,ATL,Atlanta,Braves,135,3,
+10703,Lagares,Juan,Juan Lagares,12,CF,"6'1""",215,1989-03-17,28,Constanza,DominicanRepublic,N,127,NYM,New York,Mets,85,3,
+11189,Lobaton,Jose,Jose Lobaton,59,C,"6'1""",205,1984-12-21,32,Acarigua,Venezuela,N,126,WAS,Washington,Nationals,63,3,
+10971,Mahtook,Mikie,Mikie Mahtook,27,LF,"6'1""",200,1989-11-30,27,"Lafayette, LA",USA,N,115,TB,Tampa Bay,Rays,73,3,
+10959,Maile,Luke,Luke Maile,46,C,"6'3""",225,1991-02-06,26,"Edgewood, KY",USA,N,115,TB,Tampa Bay,Rays,61,3,
+10269,Mancini,Trey,Trey Mancini,67,1B,"6'4""",215,1992-03-18,25,"Winter Haven, FL",USA,N,111,BAL,Baltimore,Orioles,5,3,
+11174,Pennington,Cliff,Cliff Pennington,7,2B,"5'11""",195,1984-06-15,32,"Corpus Christi, TX",USA,N,124,LAA,Los Angeles,Angels,86,3,
+10356,Peraza,Jose,Jose Peraza,9,LF,"6'0""",180,1994-04-30,22,Barinas,Venezuela,N,135,CIN,Cincinnati,Reds,79,3,
+11101,Perez,Roberto,Roberto Perez,55,C,"5'11""",220,1988-12-23,28,Mayaguez,PuertoRico,N,116,CLE,Cleveland,Indians,77,3,
+11520,Presley,Alex,Alex Presley,14,LF,"5'10""",15,1985-07-25,31,"Monroe, LA",USA,N,117,DET,Detroit,Tigers,54,3,
+10500,Reed,A. J.,A. J. Reed,23,1B,"6'4""",275,1993-05-10,23,"Terre Haute, IN",USA,N,122,HOU,Houston,Astros,55,3,
+10697,Reynolds,Matt,Matt Reynolds,15,3B,"6'1""",200,1990-12-03,26,"Tulsa, OK",USA,N,127,NYM,New York,Mets,53,3,
+10698,Rivera,T.J.,T.J. Rivera,54,3B,"6'1""",205,1988-10-27,28,"Bronx, NY",USA,N,127,NYM,New York,Mets,35,3,
+11257,Ruf,Darin,Darin Ruf,,1B,"6'3""",250,1986-07-28,30,"Omaha, NE",USA,N,129,PHI,Philadelphia,Phillies,46,3,
+11154,Ruiz,Carlos,Carlos Ruiz,,C,"5'10""",215,1979-01-22,38,David,Panama,N,137,LAD,Los Angeles,Dodgers,110,3,
+11279,Sanchez,Hector,Hector Sanchez,44,1B,"6'0""",235,1989-11-17,27,Maracay,Venezuela,N,139,SD,San Diego,Padres,36,3,
+10244,Smith,Mallex,Mallex Smith,17,CF,"5'9""",180,1993-05-06,23,"Tallahassee, FL",USA,N,130,ATL,Atlanta,Braves,78,3,
+11449,Stubbs,Drew,Drew Stubbs,18,CF,"6'4""",205,1984-10-04,32,"Atlanta, TX",USA,N,111,BAL,Baltimore,Orioles,64,3,
+10241,Swanson,Dansby,Dansby Swanson,2,SS,"6'1""",190,1994-02-11,23,"Kennesaw, GA",USA,N,130,ATL,Atlanta,Braves,42,3,
+10688,Syndergaard,Noah,Noah Syndergaard,34,P,"6'6""",240,1992-08-29,24,"Mansfield, TX",USA,N,127,NYM,New York,Mets,60,3,11
+11260,Toles,Andrew,Andrew Toles,60,RF,"5'10""",185,1992-05-24,24,"Decatur, GA",USA,N,137,LAD,Los Angeles,Dodgers,51,3,
+11266,Wolters,Tony,Tony Wolters,14,C,"5'10""",200,1992-06-09,24,"Vista, CA",USA,N,138,COL,Colorado,Rockies,115,3,
+11267,Adames,Cristhian,Cristhian Adames,18,SS,"6'0""",185,1991-07-26,25,Santo Domingo,DominicanRepublic,N,138,COL,Colorado,Rockies,130,2,
+11264,Adrianza,Ehire,Ehire Adrianza,1,2B,"6'1""",170,1989-08-21,27,Miranda,Venezuela,N,136,SF,San Francisco,Giants,42,2,
+10307,Arrieta,Jake,Jake Arrieta,49,P,"6'4""",225,1986-03-06,31,"Farmington, MO",USA,N,131,CHC,Chicago,Cubs,62,2,16
+11064,Benintendi,Andrew,Andrew Benintendi,40,LF,"5'10""",170,1994-07-06,22,"Cincinnati, OH",USA,N,113,BOS,Boston,Red Sox,39,2,
+10412,Cardullo,Stephen,Stephen Cardullo,65,OF,"6'0""",215,1987-08-31,29,"Hollywood, FL",USA,N,138,COL,Colorado,Rockies,31,2,
+11362,Ellis,A.J.,A.J. Ellis,34,C,"6'2""",225,1981-04-09,35,"Cape Girardeau, MO",USA,N,129,PHI,Philadelphia,Phillies,100,2,
+11325,Flores,Ramon,Ramon Flores,18,CF,"5'10""",190,1992-03-26,25,Barinas,Venezuela,N,134,MIL,Milwaukee,Brewers,111,2,
+11236,Frazier,Adam,Adam Frazier,26,2B,"5'10""",180,1991-12-14,25,"Athens, GA",USA,N,132,PIT,Pittsburgh,Pirates,73,2,
+10473,Gose,Anthony,Anthony Gose,12,CF,"6'1""",190,1990-08-10,26,"Bellflower, CA",USA,N,117,DET,Detroit,Tigers,34,2,
+10203,Gosselin,Phil,Phil Gosselin,15,2B,"6'1""",200,1988-10-03,28,"West Chester, PA",USA,N,140,ARI,Arizona,Diamondbacks,128,2,
+10907,Hernandez,Gorkys,Gorkys Hernandez,66,RF,"6'1""",190,1987-09-07,29,Guiria,Venezuela,N,136,SF,San Francisco,Giants,31,2,
+10295,Holaday,Bryan,Bryan Holaday,59,C,"6'0""",205,1987-11-19,29,"Dallas, TX",USA,N,113,BOS,Boston,Red Sox,69,2,
+10851,Jankowski,Travis,Travis Jankowski,16,CF,"6'2""",185,1991-06-15,25,"Lancaster, PA",USA,N,139,SD,San Diego,Padres,134,2,
+11364,Jay,Jon,Jon Jay,24,CF,"5'11""",195,1985-03-15,32,"Miami, FL",USA,N,139,SD,San Diego,Padres,95,2,
+10204,Jensen,Kyle,Kyle Jensen,29,1B,"6'3""",240,1988-05-20,28,"Walnut Creek, CA",USA,N,140,ARI,Arizona,Diamondbacks,19,2,
+11221,La Stella,Tommy,Tommy La Stella,2,3B,"5'11""",180,1989-01-31,28,"Westwood, NJ",USA,N,131,CHC,Chicago,Cubs,84,2,
+11185,Lowrie,Jed,Jed Lowrie,8,2B,"6'0""",180,1984-04-17,32,"Salem, OR",USA,N,125,OAK,Oakland,Athletics,95,2,
+11496,Mathis,Jeff,Jeff Mathis,6,C,"6'0""",205,1983-03-31,33,"Marianna, FL",USA,N,128,MIA,Miami,Marlins,75,2,
+10529,Merrifield,Whit,Whit Merrifield,15,2B,"6'0""",195,1989-01-24,28,"Florence, SC",USA,N,118,KC,Kansas City,Royals,86,2,
+11118,Mondesi,Raul,Raul Mondesi,27,2B,"6'1""",185,1995-07-27,21,"Los Angeles, CA",USA,N,118,KC,Kansas City,Royals,54,2,
+10968,Motter,Taylor,Taylor Motter,38,SS,"6'1""",195,1989-09-18,27,"West Palm Beach, CA",USA,N,115,TB,Tampa Bay,Rays,41,2,
+10756,Muncy,Max,Max Muncy,12,2B,"6'0""",210,1990-08-25,26,"Midland, TX",USA,N,125,OAK,Oakland,Athletics,57,2,
+10996,Nicholas,Brett,Brett Nicholas,63,C,"6'2""",220,1988-07-18,28,"Phoenix, AZ",USA,N,121,TEX,Texas,Rangers,21,2,
+11159,O'Malley,Shawn,Shawn O'Malley,36,RF,"5'11""",175,1987-12-28,29,"Richland, WA",USA,N,123,SEA,Seattle,Mariners,100,2,
+11590,Parmelee,Chris,Chris Parmelee,,1B,"6'1""",220,1988-02-24,29,"Long Beach, CA",USA,N,114,NYY,New York,Yankees,7,2,
+11175,Petit,Gregorio,Gregorio Petit,8,SS,"5'10""",200,1984-12-10,32,Ocumare,Venezuela,N,124,LAA,Los Angeles,Angels,105,2,
+11352,Pierzynski,A.J.,A.J. Pierzynski,15,C,"6'3""",250,1976-12-30,40,"Bridgehampton, NY",USA,N,130,ATL,Atlanta,Braves,113,2,
+10637,Pina,Manny,Manny Pina,9,C,"6'0""",215,1987-06-05,29,Barquisimeto,Venezuela,N,134,MIL,Milwaukee,Brewers,43,2,
+10212,Pollock,A.J.,A.J. Pollock,11,CF,"6'1""",195,1987-12-05,29,"Hebron, CT",USA,N,140,ARI,Arizona,Diamondbacks,13,2,
+10235,Recker,Anthony,Anthony Recker,20,C,"6'2""",240,1983-08-29,33,"Allentown, PA",USA,N,130,ATL,Atlanta,Braves,52,2,
+11055,Revere,Ben,Ben Revere,9,CF,"5'9""",175,1988-05-03,28,"Atlanta, GA",USA,N,126,WAS,Washington,Nationals,118,2,
+11379,Rollins,Jimmy,Jimmy Rollins,7,SS,"5'7""",175,1978-11-27,38,"Oakland, CA",USA,N,119,CWS,Chicago,White Sox,56,2,
+10705,Ruggiano,Justin,Justin Ruggiano,1,CF,"6'1""",210,1982-04-12,34,"Austin, TX",USA,N,127,NYM,New York,Mets,15,2,
+11140,Santana,Danny,Danny Santana,39,CF,"5'11""",185,1990-11-07,26,Monte Plata,DominicanRepublic,N,120,MIN,Minnesota,Twins,86,2,
+10587,Segedin,Rob,Rob Segedin,25,3B,"6'2""",220,1988-11-10,28,"Old Tappan, NJ",USA,N,137,LAD,Los Angeles,Dodgers,44,2,
+10358,Selsky,Steve,Steve Selsky,51,RF,"6'0""",205,1989-07-20,27,"Manhattan Beach, CA",USA,N,135,CIN,Cincinnati,Reds,27,2,
+11047,Severino,Pedro,Pedro Severino,29,C,"6'0""",215,1993-07-20,23,Bonao,DominicanRepublic,N,126,WAS,Washington,Nationals,21,2,
+10929,Wainwright,Adam,Adam Wainwright,50,P,"6'7""",235,1981-08-30,35,"Brunswick, GA",USA,N,133,STL,St. Louis,Cardinals,64,2,22
+11106,Almonte,Abraham,Abraham Almonte,35,LF,"5'9""",210,1989-06-27,27,Santo Domingo,DominicanRepublic,N,116,CLE,Cleveland,Indians,74,1,
+10388,Anderson,Tyler,Tyler Anderson,44,P,"6'4""",210,1989-12-30,27,"Las Vegas, NV",USA,N,138,COL,Colorado,Rockies,40,1,12
+11407,Aviles,Mike,Mike Aviles,,SS,"5'10""",205,1981-03-13,36,"New York, NY",USA,N,117,DET,Detroit,Tigers,83,1,
+11320,Blanco,Gregor,Gregor Blanco,7,RF,"5'11""",175,1983-12-24,33,Caracas,Venezuela,N,136,SF,San Francisco,Giants,113,1,
+10304,Brentz,Bryce,Bryce Brentz,64,LF,"6'0""",210,1988-12-30,28,"Crossville, TN",USA,N,113,BOS,Boston,Red Sox,30,1,
+11670,Buss,Nick,Nick Buss,3,LF,"6'2""",190,1986-12-15,30,"Southfield, MI",USA,N,124,LAA,Los Angeles,Angels,38,1,
+10884,Cain,Matt,Matt Cain,18,P,"6'3""",230,1984-10-01,32,"Dothan, AL",USA,N,136,SF,San Francisco,Giants,40,1,16
+11313,Campbell,Eric,Eric Campbell,29,1B,"6'3""",215,1987-04-09,29,"Norwich, CT",USA,N,127,NYM,New York,Mets,44,1,
+10806,Cervelli,Francisco,Francisco Cervelli,29,C,"6'1""",210,1986-03-06,31,Valencia,Venezuela,N,132,PIT,Pittsburgh,Pirates,123,1,
+11434,Clevenger,Steve,Steve Clevenger,32,C,"5'10""",210,1986-04-05,30,"Baltimore, MD",USA,N,123,SEA,Seattle,Mariners,41,1,
+10443,Coats,Jason,Jason Coats,36,RF,"6'2""",200,1990-02-24,27,"Dallas, TX",USA,N,119,CWS,Chicago,White Sox,34,1,
+10792,Cole,Gerrit,Gerrit Cole,45,P,"6'4""",220,1990-09-08,26,"Newport Beach, CA",USA,N,132,PIT,Pittsburgh,Pirates,41,1,7
+11310,Colon,Bartolo,Bartolo Colon,,P,"5'11""",285,1973-05-24,43,Altamira,DominicanRepublic,N,127,NYM,New York,Mets,67,1,24
+11117,Colon,Christian,Christian Colon,24,2B,"5'10""",185,1989-05-14,27,Cayey,PuertoRico,N,118,KC,Kansas City,Royals,74,1,
+11172,Cowart,Kaleb,Kaleb Cowart,22,3B,"6'3""",225,1992-06-02,24,"Adel, GA",USA,N,124,LAA,Los Angeles,Angels,35,1,
+10621,Cravy,Tyler,Tyler Cravy,45,P,"6'2""",220,1989-07-13,27,"Martinez, CA",USA,N,134,MIL,Milwaukee,Brewers,21,1,3
+10583,Culberson,Charlie,Charlie Culberson,6,SS,"6'0""",200,1989-04-10,27,"Rome, GA",USA,N,137,LAD,Los Angeles,Dodgers,46,1,
+10236,d'Arnaud,Chase,Chase d'Arnaud,23,SS,"6'2""",205,1987-01-21,30,"Torrance, CA",USA,N,130,ATL,Atlanta,Braves,101,1,
+10978,Darvish,Yu,Yu Darvish,11,P,"6'5""",220,1986-08-16,30,Osaka,Japan,N,121,TEX,Texas,Rangers,34,1,12
+11451,De Jesus,Ivan,Ivan De Jesus,3,SS,"5'11""",200,1987-05-01,29,Guaynabo,PuertoRico,N,135,CIN,Cincinnati,Reds,118,1,
+11446,den Dekker,Matt,Matt den Dekker,21,P,"6'2""",210,1987-08-10,29,"Fort Lauderdale, FL",USA,N,126,WAS,Washington,Nationals,22,1,0
+11190,Difo,Wilmer,Wilmer Difo,1,SS,"5'11""",200,1992-04-02,24,Santiago de los Caballeros,DominicanRepublic,N,126,WAS,Washington,Nationals,37,1,
+11121,Dyson,Jarrod,Jarrod Dyson,1,CF,"5'10""",165,1984-08-15,32,"McComb, MS",USA,N,118,KC,Kansas City,Royals,130,1,
+10589,Ethier,Andre,Andre Ethier,16,RF,"6'2""",210,1982-04-10,34,"Phoenix, AZ",USA,N,137,LAD,Los Angeles,Dodgers,18,1,
+10998,Gallo,Joey,Joey Gallo,13,3B,"6'5""",235,1993-11-19,23,"Henderson, NV",USA,N,121,TEX,Texas,Rangers,17,1,
+11157,Gamel,Ben,Ben Gamel,16,RF,"5'11""",185,1992-05-17,24,"Neptune Beach, FL",USA,N,123,SEA,Seattle,Mariners,34,1,
+11128,Garcia,Leury,Leury Garcia,28,2B,"5'8""",170,1991-03-18,26,Santiago,DominicanRepublic,N,119,CWS,Chicago,White Sox,15,1,
+10406,Garneau,Dustin,Dustin Garneau,13,C,"6'0""",200,1987-08-13,29,"San Pedro, CA",USA,N,138,COL,Colorado,Rockies,37,1,
+11202,Gordon,Dee,Dee Gordon,9,2B,"5'11""",170,1988-04-22,28,"Windermere, FL",USA,N,128,MIA,Miami,Marlins,82,1,
+11628,Green,Grant,Grant Green,38,2B,"6'3""",180,1987-09-27,29,"Fullerton, CA",USA,N,136,SF,San Francisco,Giants,21,1,
+11070,Hanigan,Ryan,Ryan Hanigan,10,C,"6'0""",220,1980-08-16,36,"Washington, DC",USA,N,113,BOS,Boston,Red Sox,79,1,
+11158,Heredia,Guillermo,Guillermo Heredia,5,RF,"5'10""",180,1991-01-31,26,Matanzas,Cuba,N,123,SEA,Seattle,Mariners,47,1,
+10298,Hernandez,Marco,Marco Hernandez,41,SS,"6'0""",200,1992-09-06,24,Santiago,DominicanRepublic,N,113,BOS,Boston,Red Sox,85,1,
+10199,Hernandez,Oscar,Oscar Hernandez,28,C,"6'1""",230,1993-07-09,23,Punto de Fijo,Venezuela,N,140,ARI,Arizona,Diamondbacks,7,1,
+10614,Hood,Destin,Destin Hood,68,LF,"6'2""",205,1990-04-03,26,"Mobile, AL",USA,N,128,MIA,Miami,Marlins,15,1,
+11343,Hunter,Cedric,Cedric Hunter,21,LF,"5'11""",200,1988-03-10,29,"Decatur, GA",USA,N,129,PHI,Philadelphia,Phillies,13,1,
+11198,Kelly,Ty,Ty Kelly,56,LF,"6'0""",180,1988-07-20,28,"Dallas, TX",USA,N,127,NYM,New York,Mets,43,1,
+10504,Kemp,Tony,Tony Kemp,16,LF,"5'6""",165,1991-10-31,25,"Franklin, TN",USA,N,122,HOU,Houston,Astros,65,1,
+11676,Kivlehan,Patrick,Patrick Kivlehan,,RF,"6'2""",215,1989-12-22,27,"Nyack, NY",USA,N,135,CIN,Cincinnati,Reds,10,1,
+11442,Kratz,Erik,Erik Kratz,40,C,"6'4""",245,1980-06-15,36,"Telford, PA",USA,N,132,PIT,Pittsburgh,Pirates,49,1,
+11619,Lake,Junior,Junior Lake,,RF,"6'2""",230,1990-03-27,27,San Pedro de Macoris,DominicanRepublic,N,112,TOR,Toronto,Blue Jays,25,1,
+11463,Latos,Mat,Mat Latos,38,P,"6'6""",245,1987-12-09,29,"Alexandria, VA",USA,N,126,WAS,Washington,Nationals,30,1,11
+11012,Liriano,Francisco,Francisco Liriano,45,P,"6'2""",225,1985-02-10,32,San Cristobal,DominicanRepublic,N,112,TOR,Toronto,Blue Jays,62,1,26
+10342,Lorenzen,Michael,Michael Lorenzen,21,P,"6'3""",215,1992-01-04,25,"Anaheim, CA",USA,N,135,CIN,Cincinnati,Reds,36,1,5
+10575,Maeda,Kenta,Kenta Maeda,18,P,"6'1""",175,1988-04-11,28,Osaka,Japan,N,137,LAD,Los Angeles,Dodgers,66,1,20
+11155,Marte,Ketel,Ketel Marte,4,SS,"6'1""",165,1993-10-12,23,Nizao,DominicanRepublic,N,123,SEA,Seattle,Mariners,131,1,
+11104,Martinez,Michael,Michael Martinez,1,2B,"5'9""",180,1982-09-16,34,Santo Domingo,DominicanRepublic,N,116,CLE,Cleveland,Indians,72,1,
+11113,Martinez,Victor,Victor Martinez,41,DH,"6'2""",210,1978-12-23,38,Ciudad Bolivar,Venezuela,N,117,DET,Detroit,Tigers,6,1,
+10751,Maxwell,Bruce,Bruce Maxwell,63,C,"6'1""",250,1990-12-20,26,Weisbaden,Germany,N,125,OAK,Oakland,Athletics,45,1,
+11134,Murphy,John Ryan,John Ryan Murphy,12,C,"5'11""",205,1991-05-13,25,"Bradenton, FL",USA,N,120,MIN,Minnesota,Twins,40,1,
+11126,Narvaez,Omar,Omar Narvaez,38,C,"5'11""",215,1992-02-10,25,Maracay,Venezuela,N,119,CWS,Chicago,White Sox,52,1,
+11375,Nava,Daniel,Daniel Nava,12,LF,"5'11""",200,1983-02-22,34,"Redwood City, CA",USA,N,118,KC,Kansas City,Royals,65,1,
+10704,Nimmo,Brandon,Brandon Nimmo,9,CF,"6'3""",205,1993-03-27,24,"Cheyenne, WY",USA,N,127,NYM,New York,Mets,35,1,
+11178,Ortega,Rafael,Rafael Ortega,39,LF,"5'11""",160,1991-05-15,25,El Tigre,Venezuela,N,124,LAA,Los Angeles,Angels,72,1,
+11290,Paulsen,Ben,Ben Paulsen,10,1B,"6'4""",210,1987-10-27,29,"Plymouth, WI",USA,N,138,COL,Colorado,Rockies,44,1,
+10264,Pena,Francisco,Francisco Pena,27,C,"6'2""",230,1989-10-12,27,Santiago,DominicanRepublic,N,111,BAL,Baltimore,Orioles,23,1,
+11596,Pena,Ramiro,Ramiro Pena,1,2B,"5'11""",200,1985-07-18,31,"Monterrey, Nuevo Leon",Mexico,N,136,SF,San Francisco,Giants,32,1,
+10632,Peralta,Wily,Wily Peralta,38,P,"6'1""",255,1989-05-08,27,Samana,DominicanRepublic,N,134,MIL,Milwaukee,Brewers,47,1,19
+11184,Phegley,Josh,Josh Phegley,19,C,"5'10""",230,1988-02-12,29,"Terre Haute, IN",USA,N,125,OAK,Oakland,Athletics,40,1,
+10758,Pinder,Chad,Chad Pinder,18,SS,"6'2""",195,1992-03-29,24,"Richmond, VA",USA,N,125,OAK,Oakland,Athletics,27,1,
+10693,Plawecki,Kevin,Kevin Plawecki,26,C,"6'2""",210,1991-02-26,26,"Hinsdale, IL",USA,N,127,NYM,New York,Mets,66,1,
+10287,Pomeranz,Drew,Drew Pomeranz,31,P,"6'6""",240,1988-11-22,28,"Collierville, TN",USA,N,113,BOS,Boston,Red Sox,60,1,22
+10430,Ranaudo,Anthony,Anthony Ranaudo,45,P,"6'7""",240,1989-09-09,27,"Freehold, NJ",USA,N,119,CWS,Chicago,White Sox,14,1,10
+10196,Ray,Robbie,Robbie Ray,38,P,"6'2""",195,1991-10-01,25,"Brentwood, TN",USA,N,140,ARI,Arizona,Diamondbacks,64,1,24
+11539,Robinson,Shane,Shane Robinson,32,LF,"5'9""",170,1984-10-30,32,"Tampa, FL",USA,N,124,LAA,Los Angeles,Angels,72,1,
+11203,Rojas,Miguel,Miguel Rojas,,2B,"5'11""",195,1989-02-24,28,Los Teques,Venezuela,N,128,MIA,Miami,Marlins,134,1,
+11111,Romine,Andrew,Andrew Romine,17,3B,"6'1""",200,1985-12-24,31,"Winter Haven, FL",USA,N,117,DET,Detroit,Tigers,123,1,
+11471,Sands,Jerry,Jerry Sands,41,1B,"6'4""",225,1987-09-28,29,"Middletown, NY",USA,N,119,CWS,Chicago,White Sox,26,1,
+11675,Scruggs,Xavier,Xavier Scruggs,53,1B,"6'0""",215,1987-09-23,29,"Whittier, CA",USA,N,128,MIA,Miami,Marlins,27,1,
+10969,Shaffer,Richie,Richie Shaffer,36,3B,"6'3""",220,1991-03-15,26,"Flemington, NJ",USA,N,115,TB,Tampa Bay,Rays,25,1,
+11695,Solano,Donovan,Donovan Solano,57,3B,"5'10""",205,1987-12-17,29,Barranquilla,Columbia,N,114,NYY,New York,Yankees,10,1,
+10846,Spangenberg,Cory,Cory Spangenberg,15,2B,"6'0""",195,1991-03-16,26,"Clarks Summit, PA",USA,N,139,SD,San Diego,Padres,15,1,
+10809,Stewart,Chris,Chris Stewart,19,C,"6'4""",205,1982-02-19,35,"Fontana, CA",USA,N,132,PIT,Pittsburgh,Pirates,52,1,
+10870,Sucre,Jesus,Jesus Sucre,2,C,"6'0""",225,1988-04-30,28,Cumana,Venezuela,N,123,SEA,Seattle,Mariners,16,1,
+10638,Susac,Andrew,Andrew Susac,13,C,"6'1""",215,1990-03-22,27,"Roseville, CA",USA,N,134,MIL,Milwaukee,Brewers,13,1,
+11205,Suzuki,Ichiro,Ichiro Suzuki,51,RF,"5'11""",175,1973-10-22,43,Kasugal,Japan,N,128,MIA,Miami,Marlins,147,1,
+10588,Taylor,Chris,Chris Taylor,3,SS,"6'1""",195,1990-08-28,26,"Virginia Beach, VA",USA,N,137,LAD,Los Angeles,Dodgers,40,1,
+11201,Telis,Tomas,Tomas Telis,18,C,"5'8""",220,1991-06-18,25,El Tigre,Venezuela,N,128,MIA,Miami,Marlins,10,1,
+11019,Thole,Josh,Josh Thole,22,C,"6'1""",205,1988-04-10,28,"Breese, IL",USA,N,112,TOR,Toronto,Blue Jays,79,1,
+11090,Torreyes,Ronald,Ronald Torreyes,17,3B,"5'10""",150,1992-09-02,24,Libertador de Barinas,Venezuela,N,114,NYY,New York,Yankees,93,1,
+11268,Valaika,Pat,Pat Valaika,74,SS,"5'11""",200,1992-09-09,24,"Valencia, CA",USA,N,138,COL,Colorado,Rockies,14,1,
+10593,Van Slyke,Scott,Scott Van Slyke,33,LF,"6'4""",215,1986-07-24,30,"Chesterfield, MO",USA,N,137,LAD,Los Angeles,Dodgers,56,1,
+10296,Vazquez,Christian,Christian Vazquez,7,C,"5'9""",195,1990-08-21,26,Bayamon,PuertoRico,N,113,BOS,Boston,Red Sox,65,1,
+10761,Wendle,Joey,Joey Wendle,52,2B,"6'1""",190,1990-04-26,26,"Wilmington, DE",USA,N,125,OAK,Oakland,Athletics,30,1,
+11639,Wilkins,Andy,Andy Wilkins,24,RF,"6'1""",225,1988-09-13,28,"Tulsa, OK",USA,N,134,MIL,Milwaukee,Brewers,26,1,
+10277,Abad,Fernando,Fernando Abad,58,P,"6'1""",220,1985-12-17,31,La Romana,DominicanRepublic,N,113,BOS,Boston,Red Sox,57,0,4
+11487,Achter,A.J.,A.J. Achter,60,P,"6'5""",215,1988-08-27,28,"Toledo, OH",USA,N,124,LAA,Los Angeles,Angels,27,0,7
+10732,Ackley,Dustin,Dustin Ackley,29,RF,"6'1""",205,1988-02-26,29,"Winston-Salem, NC",USA,N,114,NYY,New York,Yankees,32,0,
+10334,Adleman,Tim,Tim Adleman,68,P,"6'5""",225,1987-11-13,29,"Staten Island, NY",USA,N,135,CIN,Cincinnati,Reds,26,0,13
+10381,Aguilar,Jesus,Jesus Aguilar,36,1B,"6'3""",250,1990-06-30,26,Maracay,Venezuela,N,116,CLE,Cleveland,Indians,9,0,
+11667,Albers,Andrew,Andrew Albers,58,P,"6'1""",200,1985-10-06,31,"North Battleford, SK",Canada,N,120,MIN,Minnesota,Twins,8,0,5
+11426,Albers,Matt,Matt Albers,33,P,"6'1""",225,1983-01-20,34,"Houston, TX",USA,N,119,CWS,Chicago,White Sox,59,0,10
+11142,Alberto,Hanser,Hanser Alberto,2,SS,"5'11""",215,1992-10-17,24,San Francisco de Macoris,DominicanRepublic,N,121,TEX,Texas,Rangers,45,0,
+11598,Alburquerque,Al,Al Alburquerque,62,P,"6'0""",195,1986-06-10,30,San Pedro de Macoris,DominicanRepublic,N,124,LAA,Los Angeles,Angels,2,0,1
+11249,Alcantara,Arismendy,Arismendy Alcantara,,2B,"5'10""",170,1991-10-29,25,Santo Domingo,DominicanRepublic,N,125,OAK,Oakland,Athletics,19,0,
+10736,Alcantara,Raul,Raul Alcantara,50,P,"6'4""",220,1992-12-04,24,Barahona,DominicanRepublic,N,125,OAK,Oakland,Athletics,10,0,9
+10508,Alexander,Scott,Scott Alexander,54,P,"6'2""",190,1989-07-10,27,"Santa Rosa, CA",USA,N,118,KC,Kansas City,Royals,17,0,1
+10784,Alfaro,Jorge,Jorge Alfaro,38,C,"6'2""",225,1993-06-11,23,Sincelejo,Colombia,N,129,PHI,Philadelphia,Phillies,9,0,
+10359,Allen,Cody,Cody Allen,37,P,"6'1""",210,1988-11-20,28,"Orlando, FL",USA,N,116,CLE,Cleveland,Indians,67,0,8
+10271,Alvarez,Dariel,Dariel Alvarez,12,RF,"6'2""",180,1988-11-07,28,Camaguey,Cuba,N,111,BAL,Baltimore,Orioles,4,0,
+10974,Alvarez,Dario,Dario Alvarez,39,P,"6'1""",170,1989-01-17,28,Santiago,DominicanRepublic,N,121,TEX,Texas,Rangers,26,0,6
+10841,Amarista,Alexi,Alexi Amarista,5,3B,"5'6""",160,1989-04-06,27,Barcelona,Venezuela,N,139,SD,San Diego,Padres,71,0,
+11672,Anderson,Brett,Brett Anderson,35,P,"6'3""",230,1988-02-01,29,"Midland, TX",USA,N,137,LAD,Los Angeles,Dodgers,7,0,4
+10618,Anderson,Chase,Chase Anderson,57,P,"6'1""",200,1987-11-30,29,"Wichita Falls, TX",USA,N,134,MIL,Milwaukee,Brewers,61,0,28
+10360,Anderson,Cody,Cody Anderson,56,P,"6'4""",240,1990-09-14,26,"Quincy, CA",USA,N,116,CLE,Cleveland,Indians,27,0,13
+11671,Andino,Robert,Robert Andino,1,2B,"5'11""",185,1984-04-25,32,"Miami, FL",USA,N,128,MIA,Miami,Marlins,14,0,
+10943,Andriese,Matt,Matt Andriese,35,P,"6'3""",215,1989-08-28,27,"Redlands, CA",USA,N,115,TB,Tampa Bay,Rays,47,0,17
+11568,Antolin,Dustin,Dustin Antolin,46,P,"6'2""",230,1989-08-09,27,"Mililani, HI",USA,N,112,TOR,Toronto,Blue Jays,1,0,1
+10245,Aquino,Jayson,Jayson Aquino,64,P,"6'1""",225,1992-11-22,24,San Pedro de Macoris,DominicanRepublic,N,111,BAL,Baltimore,Orioles,3,0,0
+10764,Araujo,Elvis,Elvis Araujo,59,P,"6'7""",275,1991-07-14,25,Maracaibo,Venezuela,N,129,PHI,Philadelphia,Phillies,32,0,4
+10944,Archer,Chris,Chris Archer,22,P,"6'3""",190,1988-09-26,28,"Raleigh, NC",USA,N,115,TB,Tampa Bay,Rays,66,0,30
+10361,Armstrong,Shawn,Shawn Armstrong,51,P,"6'2""",225,1990-09-11,26,"New Bern, NC",USA,N,116,CLE,Cleveland,Indians,10,0,1
+10854,Aro,Jonathan,Jonathan Aro,49,P,"6'0""",235,1990-10-10,26,La Vega,DominicanRepublic,N,123,SEA,Seattle,Mariners,1,0,0
+10765,Asher,Alec,Alec Asher,49,P,"6'4""",230,1991-10-04,25,"Lakeland, FL",USA,N,129,PHI,Philadelphia,Phillies,10,0,1
+10842,Asuaje,Carlos,Carlos Asuaje,63,2B,"5'9""",160,1991-11-02,25,Barquisimeto,Venezuela,N,139,SD,San Diego,Padres,11,0,
+10563,Avilan,Luis,Luis Avilan,43,P,"6'2""",225,1989-07-19,27,Caracas,Venezuela,N,137,LAD,Los Angeles,Dodgers,27,0,0
+10737,Axford,John,John Axford,61,P,"6'5""",220,1983-04-01,33,"Simcoe, ON",Canada,N,125,OAK,Oakland,Athletics,68,0,6
+10564,Baez,Pedro,Pedro Baez,52,P,"6'0""",235,1988-03-11,29,Bani,DominicanRepublic,N,137,LAD,Los Angeles,Dodgers,73,0,11
+10536,Bailey,Andrew,Andrew Bailey,37,P,"6'3""",240,1984-05-31,32,"Voorhees, NJ",USA,N,124,LAA,Los Angeles,Angels,45,0,7
+10335,Bailey,Homer,Homer Bailey,34,P,"6'4""",225,1986-05-03,30,"La Grange, TX",USA,N,135,CIN,Cincinnati,Reds,12,0,2
+10706,Barbato,Johnny,Johnny Barbato,26,P,"6'1""",235,1992-07-11,24,"Miami, FL",USA,N,114,NYY,New York,Yankees,13,0,2
+11255,Barnes,Austin,Austin Barnes,15,C,"5'10""",195,1989-12-28,27,"Riverside, CA",USA,N,137,LAD,Los Angeles,Dodgers,27,0,
+11288,Barnes,Brandon,Brandon Barnes,1,LF,"6'2""",210,1986-12-05,30,"Orange, CA",USA,N,138,COL,Colorado,Rockies,51,0,
+11004,Barnes,Danny,Danny Barnes,24,P,"6'1""",195,1990-09-10,26,"Manhasset, NY",USA,N,112,TOR,Toronto,Blue Jays,12,0,0
+10619,Barnes,Jacob,Jacob Barnes,50,P,"6'2""",220,1990-04-14,26,"St. Petersburg, FL",USA,N,134,MIL,Milwaukee,Brewers,27,0,1
+10278,Barnes,Matt,Matt Barnes,68,P,"6'4""",210,1990-06-17,26,"Danbury, CT",USA,N,113,BOS,Boston,Red Sox,62,0,6
+10975,Barnette,Tony,Tony Barnette,43,P,"6'1""",190,1983-11-09,33,"Anchorage, AK",USA,N,121,TEX,Texas,Rangers,53,0,4
+10594,Barraclough,Kyle,Kyle Barraclough,46,P,"6'3""",225,1990-05-23,26,"Santa Clara, CA",USA,N,128,MIA,Miami,Marlins,75,0,1
+10181,Barrett,Jake,Jake Barrett,33,P,"6'2""",240,1991-07-22,25,"Upland, CA",USA,N,140,ARI,Arizona,Diamondbacks,68,0,6
+10738,Bassitt,Chris,Chris Bassitt,40,P,"6'5""",220,1989-02-22,28,"Toledo, OH",USA,N,125,OAK,Oakland,Athletics,10,0,5
+10363,Bauer,Trevor,Trevor Bauer,47,P,"6'1""",200,1991-01-17,26,"North Hollywood, CA",USA,N,116,CLE,Cleveland,Indians,63,0,20
+10417,Beck,Chris,Chris Beck,54,P,"6'3""",225,1990-09-04,26,"Commerce, GA",USA,N,119,CWS,Chicago,White Sox,25,0,3
+10537,Bedrosian,Cam,Cam Bedrosian,68,P,"6'0""",230,1991-10-02,25,"Senoia, GA",USA,N,124,LAA,Los Angeles,Angels,45,0,1
+11465,Belisle,Matt,Matt Belisle,18,P,"6'3""",230,1980-06-06,36,"Austin, TX",USA,N,126,WAS,Washington,Nationals,40,0,2
+11433,Benoit,Joaquin,Joaquin Benoit,53,P,"6'4""",250,1977-07-26,39,Santiago,DominicanRepublic,N,112,TOR,Toronto,Blue Jays,51,0,5
+11690,Beresford,James,James Beresford,30,3B,"6'1""",170,1989-01-19,28,"Mount Waverley, Victoria",Australia,N,120,MIN,Minnesota,Twins,11,0,
+11420,Bergman,Christian,Christian Bergman,36,P,"6'1""",195,1988-05-04,28,"Glendale, CA",USA,N,138,COL,Colorado,Rockies,16,0,7
+10648,Berrios,Jose,Jose Berrios,17,P,"6'0""",185,1994-05-27,22,Bayamon,PuertoRico,N,120,MIN,Minnesota,Twins,27,0,12
+11082,Betances,Dellin,Dellin Betances,68,P,"6'8""",265,1988-03-23,29,"New York, NY",USA,N,114,NYY,New York,Yankees,73,0,5
+10389,Bettis,Chad,Chad Bettis,35,P,"6'1""",200,1989-04-26,27,"Lubbock, TX",USA,N,138,COL,Colorado,Rockies,63,0,22
+11005,Biagini,Joe,Joe Biagini,31,P,"6'5""",240,1992-05-05,24,"Redwood City, CA",USA,N,112,TOR,Toronto,Blue Jays,60,0,3
+10880,Blach,Ty,Ty Blach,50,P,"6'2""",200,1990-10-20,26,"Denver, CO",USA,N,136,SF,San Francisco,Giants,6,0,1
+10214,Blair,Aaron,Aaron Blair,36,P,"6'4""",250,1992-05-26,24,"Las Vegas, NV",USA,N,130,ATL,Atlanta,Braves,31,0,14
+11453,Blanton,Joe,Joe Blanton,55,P,"6'3""",225,1980-12-11,36,"Nashville, TN",USA,N,137,LAD,Los Angeles,Dodgers,75,0,7
+10620,Blazek,Michael,Michael Blazek,54,P,"6'0""",205,1989-03-16,28,"Las Vegas, NV",USA,N,134,MIL,Milwaukee,Brewers,42,0,7
+10708,Bleier,Richard,Richard Bleier,54,P,"6'3""",215,1987-04-16,29,"Davie, FL",USA,N,114,NYY,New York,Yankees,23,0,0
+11312,Blevins,Jerry,Jerry Blevins,39,P,"6'6""",190,1983-09-06,33,"Johnson City, TN",USA,N,127,NYM,New York,Mets,73,0,4
+11006,Bolsinger,Mike,Mike Bolsinger,49,P,"6'1""",215,1990-05-01,26,"McKinney, TX",USA,N,137,LAD,Los Angeles,Dodgers,12,0,7
+11611,Bonifacio,Emilio,Emilio Bonifacio,64,CF,"5'10""",210,1985-04-23,31,Santo Domingo,DominicanRepublic,N,130,ATL,Atlanta,Braves,24,0,
+11649,Borbon,Julio,Julio Borbon,29,CF,"6'0""",195,1986-02-20,31,"Starkville, MS",USA,N,111,BAL,Baltimore,Orioles,8,0,
+11570,Boscan,Wilfredo,Wilfredo Boscan,,P,"6'2""",175,1989-10-26,27,Maracaibo,Venezuela,N,132,PIT,Pittsburgh,Pirates,7,0,2
+10649,Boshers,Buddy,Buddy Boshers,62,P,"6'3""",205,1988-05-09,28,"Huntsville, AL",USA,N,120,MIN,Minnesota,Twins,38,0,3
+10912,Bowman,Matt,Matt Bowman,67,P,"6'0""",175,1991-05-31,25,"Chevy Chase, MD",USA,N,133,STL,St. Louis,Cardinals,59,0,4
+10945,Boxberger,Brad,Brad Boxberger,26,P,"6'2""",225,1988-05-27,28,"Fullerton, CA",USA,N,115,TB,Tampa Bay,Rays,27,0,3
+10446,Boyd,Matt,Matt Boyd,48,P,"6'3""",215,1991-02-02,26,"Bellevue, WA",USA,N,117,DET,Detroit,Tigers,40,0,18
+11322,Boyer,Blaine,Blaine Boyer,48,P,"6'3""",225,1981-07-11,35,"Atlanta, GA",USA,N,134,MIL,Milwaukee,Brewers,61,0,4
+10246,Brach,Brad,Brad Brach,35,P,"6'6""",215,1986-04-12,30,"Freehold, NJ",USA,N,111,BAL,Baltimore,Orioles,71,0,7
+11291,Bracho,Silvino,Silvino Bracho,61,P,"5'10""",190,1992-12-07,24,Maracaibo,Venezuela,N,140,ARI,Arizona,Diamondbacks,26,0,7
+10182,Bradley,Archie,Archie Bradley,25,P,"6'4""",225,1992-08-10,24,"Muskogee, OK",USA,N,140,ARI,Arizona,Diamondbacks,52,0,16
+11682,Bradley,Jed,Jed Bradley,,P,"6'3""",225,1990-06-12,26,"Huntsville, AL",USA,N,130,ATL,Atlanta,Braves,6,0,0
+10384,Brantley,Michael,Michael Brantley,23,LF,"6'2""",200,1987-05-15,29,"Bellevue, WA",USA,N,116,CLE,Cleveland,Indians,14,0,
+10791,Brault,Steven,Steven Brault,43,P,"6'0""",200,1992-04-29,24,"La Mesa, CA",USA,N,132,PIT,Pittsburgh,Pirates,16,0,5
+11410,Breslow,Craig,Craig Breslow,,P,"6'0""",190,1980-08-08,36,"New Haven, CT",USA,N,128,MIA,Miami,Marlins,15,0,1
+10595,Brice,Austin,Austin Brice,65,P,"6'4""",235,1992-06-19,24,Hong Kong,China,N,128,MIA,Miami,Marlins,15,0,2
+10247,Bridwell,Parker,Parker Bridwell,68,P,"6'4""",185,1991-08-02,25,"Hereford, TX",USA,N,111,BAL,Baltimore,Orioles,2,0,2
+11540,Brignac,Reid,Reid Brignac,4,3B,"6'3""",210,1986-01-16,31,"St. Amant, LA",USA,N,130,ATL,Atlanta,Braves,15,0,
+10248,Britton,Zach,Zach Britton,53,P,"6'3""",195,1987-12-22,29,"Panaroma City, CA",USA,N,111,BAL,Baltimore,Orioles,69,0,1
+11517,Broadway,Mike,Mike Broadway,57,P,"6'5""",215,1987-03-30,29,"Paducah, KY",USA,N,136,SF,San Francisco,Giants,4,0,2
+10913,Broxton,Jonathan,Jonathan Broxton,30,P,"6'4""",285,1984-06-16,32,"Augusta, GA",USA,N,133,STL,St. Louis,Cardinals,66,0,7
+10309,Buchanan,Jake,Jake Buchanan,43,P,"6'0""",235,1989-09-24,27,"Charlotte, NC",USA,N,131,CHC,Chicago,Cubs,3,0,1
+10279,Buchholz,Clay,Clay Buchholz,11,P,"6'3""",190,1984-08-14,32,"Nederland, TX",USA,N,113,BOS,Boston,Red Sox,48,0,21
+10820,Buchter,Ryan,Ryan Buchter,40,P,"6'4""",250,1987-02-13,30,"Reading, PA",USA,N,139,SD,San Diego,Padres,67,0,4
+10183,Burgos,Enrique,Enrique Burgos,36,P,"6'4""",250,1990-11-23,26,Panama City,Panama,N,140,ARI,Arizona,Diamondbacks,43,0,5
+11683,Burnett,Sean,Sean Burnett,,P,"5'11""",185,1982-09-17,34,"Dunedin, FL",USA,N,126,WAS,Washington,Nationals,10,0,1
+11020,Burns,Andy,Andy Burns,1,2B,"6'2""",205,1990-07-08,26,"Greenville, SC",USA,N,112,TOR,Toronto,Blue Jays,10,0,
+11120,Burns,Billy,Billy Burns,14,CF,"5'9""",170,1989-08-30,27,"Atlanta, GA",USA,N,118,KC,Kansas City,Royals,115,0,
+11344,Burriss,Emmanuel,Emmanuel Burriss,15,2B,"6'0""",190,1985-01-17,32,"Washington, DC",USA,N,129,PHI,Philadelphia,Phillies,41,0,
+11491,Buschmann,Matt,Matt Buschmann,45,P,"6'3""",205,1984-02-13,33,"St. Louis, MO",USA,N,140,ARI,Arizona,Diamondbacks,3,0,1
+10976,Bush,Matt,Matt Bush,51,P,"5'9""",180,1986-02-08,31,"San Diego, CA",USA,N,121,TEX,Texas,Rangers,58,0,4
+10390,Butler,Eddie,Eddie Butler,31,P,"6'2""",180,1991-03-13,26,"Chesapeake, VA",USA,N,138,COL,Colorado,Rockies,27,0,13
+10215,Cabrera,Mauricio,Mauricio Cabrera,62,P,"6'3""",245,1993-09-22,23,Las Matas de Farfan,DominicanRepublic,N,130,ATL,Atlanta,Braves,41,0,0
+11423,Cahill,Trevor,Trevor Cahill,53,P,"6'4""",240,1988-03-01,29,"Oceanside, CA",USA,N,131,CHC,Chicago,Cubs,51,0,7
+10855,Caminero,Arquimedes,Arquimedes Caminero,48,P,"6'4""",245,1987-06-16,29,Santo Domingo,DominicanRepublic,N,123,SEA,Seattle,Mariners,57,0,7
+10821,Campos,Leonel,Leonel Campos,57,P,"6'2""",215,1987-07-17,29,Valera,Venezuela,N,139,SD,San Diego,Padres,18,0,3
+11219,Candelario,Jeimer,Jeimer Candelario,7,3B,"6'1""",210,1993-11-24,23,"New York, NY",USA,N,131,CHC,Chicago,Cubs,5,0,
+11321,Capuano,Chris,Chris Capuano,39,P,"6'2""",225,1978-08-19,38,"Springfield, MA",USA,N,134,MIL,Milwaukee,Brewers,16,0,7
+10391,Carasiti,Matt,Matt Carasiti,61,P,"6'3""",205,1991-07-23,25,"New Britain, CT",USA,N,138,COL,Colorado,Rockies,19,0,1
+10364,Carrasco,Carlos,Carlos Carrasco,59,P,"6'4""",210,1987-03-21,30,Barquisimeto,Venezuela,N,116,CLE,Cleveland,Indians,49,0,21
+11551,Carroll,Scott,Scott Carroll,13,P,"6'4""",215,1984-09-24,32,"Kansas City, MO",USA,N,119,CWS,Chicago,White Sox,3,0,0
+11456,Cashner,Andrew,Andrew Cashner,,P,"6'6""",235,1986-09-11,30,"Conroe, TX",USA,N,128,MIA,Miami,Marlins,56,0,19
+11417,Casilla,Santiago,Santiago Casilla,46,P,"6'0""",210,1980-07-25,36,San Cristobal,DominicanRepublic,N,136,SF,San Francisco,Giants,62,0,8
+11483,Castillo,Rusney,Rusney Castillo,38,LF,"5'9""",195,1987-07-09,29,Ciego de Avila,Cuba,N,113,BOS,Boston,Red Sox,10,0,
+11507,Castro,Daniel,Daniel Castro,14,SS,"5'11""",190,1992-11-14,24,"Guaymas, Sonora",Mexico,N,130,ATL,Atlanta,Braves,56,0,
+10392,Castro,Miguel,Miguel Castro,46,P,"6'5""",190,1994-12-24,22,La Romana,DominicanRepublic,N,138,COL,Colorado,Rockies,19,0,3
+10694,Cecchini,Gavin,Gavin Cecchini,2,SS,"6'2""",200,1993-12-22,23,"Lake Charles, LA",USA,N,127,NYM,New York,Mets,4,0,
+11368,Cecil,Brett,Brett Cecil,21,P,"6'3""",235,1986-07-02,30,"Dunkirk, MD",USA,N,112,TOR,Toronto,Blue Jays,54,0,6
+11026,Ceciliani,Darrell,Darrell Ceciliani,9,LF,"6'1""",220,1991-10-06,25,"Tracy, CA",USA,N,112,TOR,Toronto,Blue Jays,15,0,
+10946,Cedeno,Xavier,Xavier Cedeno,31,P,"6'0""",215,1986-08-26,30,Guayanilla,PuertoRico,N,115,TB,Tampa Bay,Rays,54,0,2
+10596,Cervenka,Hunter,Hunter Cervenka,30,P,"6'1""",245,1990-01-03,27,"Baytown, TX",USA,N,128,MIA,Miami,Marlins,68,0,3
+10709,Cessa,Luis,Luis Cessa,85,P,"6'0""",205,1992-04-25,24,"Cordoba, Veracruz",Mexico,N,114,NYY,New York,Yankees,25,0,16
+11495,Chacin,Jhoulys,Jhoulys Chacin,49,P,"6'3""",215,1988-04-07,28,Maracaibo,Venezuela,N,124,LAA,Los Angeles,Angels,56,0,14
+10184,Chafin,Andrew,Andrew Chafin,40,P,"6'2""",225,1990-06-17,26,"Kettering, OH",USA,N,140,ARI,Arizona,Diamondbacks,32,0,1
+11403,Chamberlain,Joba,Joba Chamberlain,62,P,"6'3""",245,1985-09-23,31,"Lincoln, NE",USA,N,116,CLE,Cleveland,Indians,20,0,1
+11559,Chapman,Aroldis,Aroldis Chapman,54,P,"6'4""",215,1988-02-27,29,Holguin,Cuba,N,131,CHC,Chicago,Cubs,59,0,2
+10477,Chapman,Kevin,Kevin Chapman,50,P,"6'3""",230,1988-02-19,29,"Coral Springs, FL",USA,N,122,HOU,Houston,Astros,9,0,0
+10393,Chatwood,Tyler,Tyler Chatwood,32,P,"6'0""",185,1989-12-16,27,"Redlands, CA",USA,N,138,COL,Colorado,Rockies,53,0,15
+11367,Chavez,Jesse,Jesse Chavez,,P,"6'2""",175,1983-08-21,33,"San Gabriel, CA",USA,N,137,LAD,Los Angeles,Dodgers,62,0,12
+10597,Chen,Wei-Yin,Wei-Yin Chen,54,P,"6'0""",200,1985-07-21,31,Kaohslung City,Taiwan,N,128,MIA,Miami,Marlins,44,0,22
+10336,Cingrani,Tony,Tony Cingrani,52,P,"6'4""",210,1989-07-05,27,"Evergreen, IL",USA,N,135,CIN,Cincinnati,Reds,65,0,5
+10856,Cishek,Steve,Steve Cishek,31,P,"6'6""",215,1986-06-18,30,"Falmouth, MA",USA,N,123,SEA,Seattle,Mariners,62,0,8
+10977,Claudio,Alex,Alex Claudio,58,P,"6'3""",180,1992-01-31,25,San Juan,PuertoRico,N,121,TEX,Texas,Rangers,39,0,2
+10823,Clemens,Paul,Paul Clemens,47,P,"6'3""",215,1988-02-14,29,"Columbia, SC",USA,N,139,SD,San Diego,Padres,32,0,14
+10365,Clevinger,Mike,Mike Clevinger,73,P,"6'4""",210,1990-12-21,26,"Jacksonville, FL",USA,N,116,CLE,Cleveland,Indians,27,0,8
+10710,Clippard,Tyler,Tyler Clippard,29,P,"6'3""",200,1985-02-14,32,"Lexington, KY",USA,N,114,NYY,New York,Yankees,69,0,10
+10947,Cobb,Alex,Alex Cobb,53,P,"6'3""",205,1987-10-07,29,"Boston, MA",USA,N,115,TB,Tampa Bay,Rays,10,0,5
+11558,Coke,Phil,Phil Coke,52,P,"6'1""",210,1982-07-19,34,"Sonora, CA",USA,N,132,PIT,Pittsburgh,Pirates,6,0,1
+11021,Colabello,Chris,Chris Colabello,15,1B,"6'4""",210,1984-12-10,32,"Framingham, MA",USA,N,112,TOR,Toronto,Blue Jays,15,0,
+11030,Cole,A.J.,A.J. Cole,22,P,"6'5""",215,1992-01-05,25,"Winter Springs, FL",USA,N,126,WAS,Washington,Nationals,16,0,7
+10565,Coleman,Louis,Louis Coleman,67,P,"6'4""",205,1986-04-04,30,"Greenwood, MS",USA,N,137,LAD,Los Angeles,Dodgers,61,0,5
+10216,Collmenter,Josh,Josh Collmenter,55,P,"6'3""",240,1986-02-07,31,"Homer, MI",USA,N,130,ATL,Atlanta,Braves,20,0,7
+10948,Colome,Alex,Alex Colome,37,P,"6'2""",220,1988-12-31,28,Santo Domingo,DominicanRepublic,N,115,TB,Tampa Bay,Rays,57,0,6
+10366,Colon,Joseph,Joseph Colon,65,P,"6'0""",180,1990-02-18,27,Caguas,PuertoRico,N,116,CLE,Cleveland,Indians,11,0,2
+10310,Concepcion,Gerardo,Gerardo Concepcion,50,P,"6'2""",200,1992-02-29,25,Havana,Cuba,N,131,CHC,Chicago,Cubs,3,0,0
+10598,Conley,Adam,Adam Conley,61,P,"6'3""",200,1990-05-24,26,"Redmond, WA",USA,N,128,MIA,Miami,Marlins,50,0,13
+10185,Corbin,Patrick,Patrick Corbin,46,P,"6'3""",210,1989-07-19,27,"Clay, NY",USA,N,140,ARI,Arizona,Diamondbacks,62,0,24
+10824,Cosart,Jarred,Jarred Cosart,55,P,"6'3""",205,1990-05-25,26,"League City, TX",USA,N,139,SD,San Diego,Padres,25,0,4
+11452,Cotham,Caleb,Caleb Cotham,54,P,"6'3""",215,1987-11-06,29,"Mt. Juliet, TN",USA,N,135,CIN,Cincinnati,Reds,23,0,3
+11399,Cowgill,Collin,Collin Cowgill,7,RF,"5'9""",190,1986-05-22,30,"Lexington, KY",USA,N,116,CLE,Cleveland,Indians,11,0,
+11361,Crawford,Carl,Carl Crawford,3,LF,"6'2""",230,1981-08-05,35,"Houston, TX",USA,N,137,LAD,Los Angeles,Dodgers,37,0,
+10367,Crockett,Kyle,Kyle Crockett,57,P,"6'2""",175,1991-12-15,25,"Newport News, VA",USA,N,116,CLE,Cleveland,Indians,29,0,0
+11116,Cruz,Tony,Tony Cruz,7,C,"5'11""",215,1986-08-18,30,"Palm Beach, FL",USA,N,118,KC,Kansas City,Royals,4,0,
+11262,Cueto,Johnny,Johnny Cueto,47,P,"5'11""",220,1986-02-15,31,San Pedro de Macoris,DominicanRepublic,N,136,SF,San Francisco,Giants,63,0,15
+11522,Cuevas,William,William Cuevas,,P,"6'2""",215,1990-10-14,26,Caracas,Venezuela,N,113,BOS,Boston,Red Sox,3,0,0
+11663,Cunniff,Brandon,Brandon Cunniff,39,P,"6'0""",185,1988-10-07,28,"Arcadia, CA",USA,N,130,ATL,Atlanta,Braves,15,0,2
+11595,Cunningham,Todd,Todd Cunningham,,RF,"6'0""",205,1989-03-20,28,"Jacksonville, FL",USA,N,124,LAA,Los Angeles,Angels,21,0,
+10186,Curtis,Zac,Zac Curtis,62,P,"5'9""",190,1992-07-04,24,"Panama City Beach, FL",USA,N,140,ARI,Arizona,Diamondbacks,21,0,2
+10419,Danish,Tyler,Tyler Danish,60,P,"6'0""",200,1994-09-12,22,"Brandon, FL",USA,N,119,CWS,Chicago,White Sox,3,0,0
+11470,Danks,John,John Danks,50,P,"6'1""",210,1985-04-15,31,"Austin, TX",USA,N,119,CWS,Chicago,White Sox,8,0,5
+10439,Davidson,Matt,Matt Davidson,22,3B,"6'3""",230,1991-03-26,26,"Yucaipa, CA",USA,N,119,CWS,Chicago,White Sox,2,0,
+10622,Davies,Zach,Zach Davies,27,P,"6'0""",155,1993-02-07,24,"Puyallup, WA",USA,N,134,MIL,Milwaukee,Brewers,55,0,20
+11601,Davis,Ike,Ike Davis,24,1B,"6'4""",220,1987-03-22,30,"Edina, MN",USA,N,114,NYY,New York,Yankees,9,0,
+10511,Davis,Wade,Wade Davis,17,P,"6'5""",225,1985-09-07,31,"Lake Wales, FL",USA,N,118,KC,Kansas City,Royals,45,0,0
+10566,Dayton,Grant,Grant Dayton,75,P,"6'2""",195,1987-11-25,29,"Huntsville, AL",USA,N,137,LAD,Los Angeles,Dodgers,25,0,4
+11561,Dean,Pat,Pat Dean,64,P,"6'1""",195,1989-05-25,27,"Waterbury, CT",USA,N,120,MIN,Minnesota,Twins,27,0,13
+11603,Decker,Jaff,Jaff Decker,,CF,"5'9""",190,1990-02-23,27,"Phoenix, AZ",USA,N,115,TB,Tampa Bay,Rays,22,0,
+10676,deGrom,Jacob,Jacob deGrom,48,P,"6'4""",180,1988-06-19,28,"DeLand, FL",USA,N,127,NYM,New York,Mets,51,0,15
+11555,Delabar,Steve,Steve Delabar,56,P,"6'5""",215,1983-07-17,33,"Fort KNox, KY",USA,N,135,CIN,Cincinnati,Reds,7,0,1
+11627,De La Cruz,Joel,Joel De La Cruz,60,P,"6'1""",240,1989-06-09,27,Haina,DominicanRepublic,N,130,ATL,Atlanta,Braves,31,0,10
+11283,De La Rosa,Jorge,Jorge De La Rosa,29,P,"6'1""",215,1981-05-04,35,"Monterrey, Nuevo Leon",Mexico,N,138,COL,Colorado,Rockies,51,0,23
+10187,De La Rosa,Rubby,Rubby De La Rosa,12,P,"6'0""",210,1989-03-04,28,Santo Domingo,DominicanRepublic,N,140,ARI,Arizona,Diamondbacks,23,0,8
+10567,De Leon,Jose,Jose De Leon,87,P,"6'2""",190,1992-08-07,24,Isabela,PuertoRico,N,137,LAD,Los Angeles,Dodgers,8,0,5
+10188,Delgado,Randall,Randall Delgado,48,P,"6'4""",220,1990-02-09,27,Las Tablas,Panama,N,140,ARI,Arizona,Diamondbacks,79,0,8
+11007,Dermody,Matt,Matt Dermody,50,P,"6'5""",190,1990-04-07,26,"Norwalk, IA",USA,N,112,TOR,Toronto,Blue Jays,5,0,1
+10338,DeSclafani,Anthony,Anthony DeSclafani,28,P,"6'1""",200,1990-04-18,26,"Freehold, NJ",USA,N,135,CIN,Cincinnati,Reds,39,0,16
+10599,Despaigne,Odrisamer,Odrisamer Despaigne,43,P,"6'0""",200,1987-04-04,29,Havana,Cuba,N,128,MIA,Miami,Marlins,19,0,3
+11402,Detwiler,Ross,Ross Detwiler,46,P,"6'3""",210,1986-03-06,31,"St. Louis, MO",USA,N,125,OAK,Oakland,Athletics,23,0,5
+10478,Devenski,Chris,Chris Devenski,47,P,"6'3""",210,1990-11-13,26,"Cerritos, CA",USA,N,122,HOU,Houston,Astros,53,0,4
+11597,Diamond,Scott,Scott Diamond,32,P,"6'3""",205,1986-07-30,30,"Guelph, ON",Canada,N,112,TOR,Toronto,Blue Jays,1,0,0
+11573,Diaz,Dayan,Dayan Diaz,50,P,"5'10""",195,1989-02-10,28,Cartagena,Colombia,N,135,CIN,Cincinnati,Reds,6,0,2
+10857,Diaz,Edwin,Edwin Diaz,39,P,"6'3""",165,1994-03-22,23,Naguabo,PuertoRico,N,123,SEA,Seattle,Mariners,49,0,5
+10807,Diaz,Elias,Elias Diaz,32,C,"6'0""",210,1990-11-17,26,Maracaibo,Venezuela,N,132,PIT,Pittsburgh,Pirates,2,0,
+10339,Diaz,Jumbo,Jumbo Diaz,70,P,"6'4""",280,1984-02-27,33,La Romana,DominicanRepublic,N,135,CIN,Cincinnati,Reds,45,0,8
+11213,Dickey,R.A.,R.A. Dickey,,P,"6'3""",215,1974-10-29,42,"Nashville, TN",USA,N,112,TOR,Toronto,Blue Jays,61,0,28
+10979,Diekman,Jake,Jake Diekman,41,P,"6'4""",200,1987-01-21,30,"Wymore, NE",USA,N,121,TEX,Texas,Rangers,66,0,4
+11630,Dominguez,Jose,Jose Dominguez,,P,"6'0""",200,1990-08-06,26,San Pedro de Macoris,DominicanRepublic,N,139,SD,San Diego,Padres,34,0,5
+11529,Dominguez,Matt,Matt Dominguez,28,3B,"6'2""",220,1989-08-28,27,"Los Angeles, CA",USA,N,112,TOR,Toronto,Blue Jays,6,0,
+10739,Doolittle,Sean,Sean Doolittle,62,P,"6'2""",210,1986-09-26,30,"Rapid City, SD",USA,N,125,OAK,Oakland,Athletics,44,0,6
+10526,Dozier,Hunter,Hunter Dozier,60,3B,"6'4""",220,1991-08-22,25,"Wichita Falls, TX",USA,N,118,KC,Kansas City,Royals,11,0,
+11468,Drabek,Kyle,Kyle Drabek,15,3B,"6'2""",205,1987-12-08,29,"Victoria, TX",USA,N,140,ARI,Arizona,Diamondbacks,1,0,
+10249,Drake,Oliver,Oliver Drake,71,P,"6'4""",215,1987-01-13,30,"Worcester, MA",USA,N,111,BAL,Baltimore,Orioles,14,0,2
+11586,Duensing,Brian,Brian Duensing,,P,"6'0""",200,1983-02-22,34,"Marysville, KS",USA,N,111,BAL,Baltimore,Orioles,14,0,2
+10650,Duffey,Tyler,Tyler Duffey,56,P,"6'3""",220,1990-12-27,26,"Houston, TX",USA,N,120,MIN,Minnesota,Twins,52,0,25
+10512,Duffy,Danny,Danny Duffy,41,P,"6'3""",205,1988-12-21,28,"Goleta, CA",USA,N,118,KC,Kansas City,Royals,67,0,27
+11443,Duffy,Matt,Matt Duffy,,3B,"6'3""",215,1989-02-06,28,"Boston, MA",USA,N,122,HOU,Houston,Astros,3,0,
+10915,Duke,Zach,Zach Duke,29,P,"6'2""",210,1983-04-19,33,"Clifton, TX",USA,N,133,STL,St. Louis,Cardinals,82,0,2
+10740,Dull,Ryan,Ryan Dull,66,P,"5'9""",175,1989-10-02,27,"Winston-Salem, NC",USA,N,125,OAK,Oakland,Athletics,70,0,10
+11584,Dunn,Mike,Mike Dunn,,P,"6'0""",215,1985-05-23,31,"Farmington, NM",USA,N,128,MIA,Miami,Marlins,51,0,5
+10980,Dyson,Sam,Sam Dyson,47,P,"6'1""",205,1988-05-07,28,"Tampa, FL",USA,N,121,TEX,Texas,Rangers,73,0,5
+10677,Edgin,Josh,Josh Edgin,66,P,"6'1""",245,1986-12-17,30,"Lewistown, PA",USA,N,127,NYM,New York,Mets,16,0,1
+10311,Edwards Jr.,Carl,Carl Edwards Jr.,6,P,"6'3""",170,1991-09-03,25,"Newberry, SC",USA,N,131,CHC,Chicago,Cubs,37,0,4
+10768,Eflin,Zach,Zach Eflin,56,P,"6'6""",215,1994-04-08,22,"Orlando, FL",USA,N,129,PHI,Philadelphia,Phillies,23,0,12
+10538,Ege,Cody,Cody Ege,20,P,"6'1""",190,1991-05-08,25,"Sioux City, IA",USA,N,124,LAA,Los Angeles,Angels,18,0,2
+10769,Eickhoff,Jerad,Jerad Eickhoff,48,P,"6'4""",245,1990-07-02,26,"Evansville, IN",USA,N,129,PHI,Philadelphia,Phillies,65,0,30
+10280,Elias,Roenis,Roenis Elias,51,P,"6'1""",205,1988-08-01,28,Guantanamo,Cuba,N,113,BOS,Boston,Red Sox,4,0,2
+10600,Ellington,Brian,Brian Ellington,49,P,"6'3""",215,1990-08-04,26,"Gainesville, FL",USA,N,128,MIA,Miami,Marlins,32,0,2
+11625,Elmore,Jake,Jake Elmore,7,2B,"5'10""",180,1987-06-15,29,"Dothan, AL",USA,N,134,MIL,Milwaukee,Brewers,64,0,
+10711,Eovaldi,Nathan,Nathan Eovaldi,30,P,"6'2""",225,1990-02-13,27,"Houston, TX",USA,N,114,NYY,New York,Yankees,45,0,23
+10826,Erlin,Robbie,Robbie Erlin,41,P,"6'0""",190,1990-10-08,26,"Oakland, CA",USA,N,139,SD,San Diego,Padres,5,0,3
+10601,Esch,Jake,Jake Esch,67,P,"6'3""",205,1990-03-27,27,"Saint Paul, MN",USA,N,128,MIA,Miami,Marlins,6,0,4
+10189,Escobar,Edwin,Edwin Escobar,43,P,"6'2""",225,1992-04-22,24,La Boyera,Venezuela,N,140,ARI,Arizona,Diamondbacks,27,0,4
+10395,Estevez,Carlos,Carlos Estevez,54,P,"6'4""",210,1992-12-28,24,Santo Domingo,DominicanRepublic,N,138,COL,Colorado,Rockies,63,0,6
+11008,Estrada,Marco,Marco Estrada,25,P,"6'0""",200,1983-05-07,33,Sonora,Mexico,N,112,TOR,Toronto,Blue Jays,58,0,23
+11305,Eveland,Dana,Dana Eveland,56,P,"6'1""",235,1983-10-29,33,"Olympia, WA",USA,N,115,TB,Tampa Bay,Rays,33,0,3
+10678,Familia,Jeurys,Jeurys Familia,27,P,"6'3""",240,1989-10-10,27,Santo Domingo,DominicanRepublic,N,127,NYM,New York,Mets,78,0,1
+10447,Farmer,Buck,Buck Farmer,45,P,"6'4""",225,1991-02-20,26,"Conyers, GA",USA,N,117,DET,Detroit,Tigers,15,0,4
+10949,Farquhar,Danny,Danny Farquhar,43,P,"5'9""",185,1987-02-17,30,"Pembroke Pines, FL",USA,N,115,TB,Tampa Bay,Rays,35,0,8
+10981,Faulkner,Andrew,Andrew Faulkner,56,P,"6'3""",205,1992-09-12,24,"Bamberg, SC",USA,N,121,TEX,Texas,Rangers,9,0,3
+11651,Featherston,Taylor,Taylor Featherston,21,2B,"6'1""",185,1989-10-08,27,"Houston, TX",USA,N,129,PHI,Philadelphia,Phillies,20,0,
+11533,Federowicz,Tim,Tim Federowicz,19,C,"5'10""",215,1987-08-05,29,"Erie, PA",USA,N,131,CHC,Chicago,Cubs,23,0,
+11479,Feldman,Scott,Scott Feldman,46,P,"6'7""",210,1983-02-07,34,"Kailua, HI",USA,N,112,TOR,Toronto,Blue Jays,45,0,10
+10479,Feliz,Michael,Michael Feliz,45,P,"6'4""",230,1993-06-28,23,Azua,DominicanRepublic,N,122,HOU,Houston,Astros,47,0,10
+11298,Feliz,Neftali,Neftali Feliz,30,P,"6'3""",235,1988-05-02,28,Azua,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,62,0,10
+11440,Fernandez,Jose,Jose Fernandez,16,P,"6'3""",240,1992-07-31,24,Santa Clara,Cuba,N,128,MIA,Miami,Marlins,59,0,13
+10568,Fields,Josh,Josh Fields,46,P,"6'0""",195,1985-08-19,31,"Athens, GA",USA,N,137,LAD,Los Angeles,Dodgers,37,0,4
+11331,Fien,Casey,Casey Fien,50,P,"6'2""",210,1983-10-21,33,"Santa Rosa, CA",USA,N,137,LAD,Los Angeles,Dodgers,39,0,13
+10480,Fiers,Mike,Mike Fiers,54,P,"6'2""",200,1985-06-15,31,"Hollywood, FL",USA,N,122,HOU,Houston,Astros,62,0,26
+11477,Figueroa,Cole,Cole Figueroa,,2B,"5'10""",185,1987-06-30,29,"Tallahassee, FL",USA,N,132,PIT,Pittsburgh,Pirates,24,0,
+11245,Finnegan,Brandon,Brandon Finnegan,29,P,"5'11""",200,1993-04-14,23,"Fort Worth, TX",USA,N,135,CIN,Cincinnati,Reds,63,0,29
+11484,Fister,Doug,Doug Fister,58,P,"6'8""",210,1984-02-04,33,"Merced, CA",USA,N,122,HOU,Houston,Astros,64,0,24
+11621,Flande,Yohan,Yohan Flande,58,P,"6'2""",180,1986-01-27,31,El Seibo,DominicanRepublic,N,138,COL,Colorado,Rockies,2,0,0
+11563,Flores,Kendry,Kendry Flores,,P,"6'2""",195,1991-11-24,25,Azua,DominicanRepublic,N,128,MIA,Miami,Marlins,2,0,0
+11688,Florimon,Pedro,Pedro Florimon,,2B,"6'2""",185,1986-12-10,30,La Romana,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,18,0,
+10950,Floro,Dylan,Dylan Floro,49,P,"6'2""",175,1990-12-27,26,"Merced, CA",USA,N,115,TB,Tampa Bay,Rays,12,0,0
+11430,Floyd,Gavin,Gavin Floyd,39,P,"6'4""",245,1983-01-27,34,"Annapolis, MD",USA,N,112,TOR,Toronto,Blue Jays,28,0,4
+10513,Flynn,Brian,Brian Flynn,33,P,"6'7""",250,1990-04-19,26,"Tulsa, OK",USA,N,118,KC,Kansas City,Royals,37,0,5
+10217,Foltynewicz,Mike,Mike Foltynewicz,26,P,"6'4""",220,1991-10-07,25,"Sterling, IL",USA,N,130,ATL,Atlanta,Braves,44,0,18
+10873,Freeman,Mike,Mike Freeman,6,1B,"6'0""",190,1987-08-04,29,"Orlando, FL",USA,N,123,SEA,Seattle,Mariners,22,0,
+11480,Freeman,Sam,Sam Freeman,,P,"5'11""",180,1987-06-24,29,"Houston, TX",USA,N,134,MIL,Milwaukee,Brewers,7,0,2
+10569,Frias,Carlos,Carlos Frias,77,P,"6'4""",195,1989-11-13,27,Nagua,DominicanRepublic,N,137,LAD,Los Angeles,Dodgers,1,0,0
+10827,Friedrich,Christian,Christian Friedrich,53,P,"6'4""",215,1987-07-08,29,"Evanston, IL",USA,N,139,SD,San Diego,Padres,48,0,13
+10808,Fryer,Eric,Eric Fryer,24,C,"6'2""",215,1985-08-26,31,"Columbus, OH",USA,N,132,PIT,Pittsburgh,Pirates,79,0,
+11318,Fuentes,Reymond,Reymond Fuentes,34,RF,"6'0""",160,1991-02-12,26,"Orlando, FL",USA,N,118,KC,Kansas City,Royals,21,0,
+10420,Fulmer,Carson,Carson Fulmer,51,P,"6'0""",195,1993-12-13,23,"Lakeland, FL",USA,N,119,CWS,Chicago,White Sox,8,0,2
+10448,Fulmer,Michael,Michael Fulmer,32,P,"6'3""",210,1993-03-15,24,"Oklahama City, OK",USA,N,117,DET,Detroit,Tigers,51,0,16
+10250,Gallardo,Yovani,Yovani Gallardo,49,P,"6'2""",205,1986-02-27,31,"Penjamillo, Michoacan",Mexico,N,111,BAL,Baltimore,Orioles,43,0,16
+10951,Gamboa,Eddie,Eddie Gamboa,59,P,"6'1""",215,1984-12-21,32,"Merced, CA",USA,N,115,TB,Tampa Bay,Rays,7,0,1
+10218,Gant,John,John Gant,52,P,"6'3""",200,1992-08-06,24,"Savannah, GA",USA,N,130,ATL,Atlanta,Braves,27,0,7
+10916,Garcia,Jaime,Jaime Garcia,54,P,"6'2""",215,1986-07-08,30,"Reynosa, Tamaulipas",Mexico,N,133,STL,St. Louis,Cardinals,63,0,26
+10770,Garcia,Luis,Luis Garcia,57,P,"6'3""",230,1987-01-30,30,Santo Domingo,DominicanRepublic,N,129,PHI,Philadelphia,Phillies,17,0,2
+10570,Garcia,Yimi,Yimi Garcia,63,P,"6'1""",220,1990-08-18,26,Moca,DominicanRepublic,N,137,LAD,Los Angeles,Dodgers,9,0,0
+10368,Garner,Perci,Perci Garner,66,P,"6'3""",225,1988-12-13,28,"Dover, OH",USA,N,116,CLE,Cleveland,Indians,8,0,0
+10623,Garza,Matt,Matt Garza,22,P,"6'4""",220,1983-11-26,33,"Selma, CA",USA,N,134,MIL,Milwaukee,Brewers,37,0,11
+10252,Gausman,Kevin,Kevin Gausman,39,P,"6'3""",190,1991-01-06,26,"Centennial, CO",USA,N,111,BAL,Baltimore,Orioles,52,0,28
+10886,Gearrin,Cory,Cory Gearrin,62,P,"6'3""",200,1986-04-14,30,"Chattanooga, TN",USA,N,136,SF,San Francisco,Giants,56,0,4
+11489,Gee,Dillon,Dillon Gee,53,P,"6'1""",205,1986-04-28,30,"Cleburne, TX",USA,N,118,KC,Kansas City,Royals,47,0,24
+11095,Geltz,Steve,Steve Geltz,54,P,"5'10""",210,1987-11-01,29,"Newfane, NY",USA,N,115,TB,Tampa Bay,Rays,27,0,11
+11374,Gentry,Craig,Craig Gentry,3,LF,"6'2""",190,1983-11-29,33,"Fort Smith, AR",USA,N,124,LAA,Los Angeles,Angels,18,0,
+11524,Germen,Gonzalez,Gonzalez Germen,62,P,"6'1""",200,1987-09-23,29,Guaymate,DominicanRepublic,N,138,COL,Colorado,Rockies,40,0,5
+10651,Gibson,Kyle,Kyle Gibson,44,P,"6'6""",215,1987-10-23,29,"Greenfield, IN",USA,N,120,MIN,Minnesota,Twins,49,0,20
+10481,Giles,Ken,Ken Giles,53,P,"6'2""",205,1990-09-20,26,"Albuquerque, NM",USA,N,122,HOU,Houston,Astros,69,0,8
+11538,Gillespie,Cole,Cole Gillespie,28,CF,"6'2""",215,1984-06-20,32,"Portland, OR",USA,N,128,MIA,Miami,Marlins,43,0,
+10679,Gilmartin,Sean,Sean Gilmartin,36,P,"6'2""",200,1990-05-08,26,"Thousand Oaks, CA",USA,N,127,NYM,New York,Mets,15,0,4
+11031,Giolito,Lucas,Lucas Giolito,44,P,"6'6""",255,1994-07-14,22,"Santa Monica, CA",USA,N,126,WAS,Washington,Nationals,10,0,7
+11009,Girodo,Chad,Chad Girodo,57,P,"6'1""",190,1991-06-02,25,"Decatur, AL",USA,N,112,TOR,Toronto,Blue Jays,14,0,3
+10253,Givens,Mychal,Mychal Givens,60,P,"6'0""",210,1990-05-13,26,"Tampa, FL",USA,N,111,BAL,Baltimore,Orioles,66,0,6
+10793,Glasnow,Tyler,Tyler Glasnow,51,P,"6'8""",220,1993-08-23,23,"Newhall, CA",USA,N,132,PIT,Pittsburgh,Pirates,11,0,2
+11032,Glover,Koda,Koda Glover,32,P,"6'5""",225,1993-04-13,23,"Monroe, OK",USA,N,126,WAS,Washington,Nationals,19,0,3
+10190,Godley,Zack,Zack Godley,52,P,"6'3""",240,1990-04-21,26,"Bamberg, SC",USA,N,140,ARI,Arizona,Diamondbacks,36,0,13
+10680,Goeddel,Erik,Erik Goeddel,62,P,"6'3""",190,1988-12-20,28,"San Mateo, CA",USA,N,127,NYM,New York,Mets,36,0,5
+10771,Gomez,Jeanmar,Jeanmar Gomez,46,P,"6'3""",215,1988-02-10,29,Caracas,Venezuela,N,129,PHI,Philadelphia,Phillies,70,0,6
+10982,Gonzalez,Chi Chi,Chi Chi Gonzalez,21,P,"6'3""",215,1992-01-15,25,"Delray Beach, FL",USA,N,121,TEX,Texas,Rangers,6,0,1
+10382,Gonzalez,Erik,Erik Gonzalez,78,SS,"6'3""",195,1991-08-31,25,Puerto Plata,DominicanRepublic,N,116,CLE,Cleveland,Indians,21,0,
+11033,Gonzalez,Gio,Gio Gonzalez,47,P,"6'0""",205,1985-09-19,31,"Hialeah, FL",USA,N,126,WAS,Washington,Nationals,65,0,19
+10421,Gonzalez,Miguel,Miguel Gonzalez,58,P,"6'1""",170,1984-05-27,32,"Gudalajara, Jalisco",Mexico,N,119,CWS,Chicago,White Sox,46,0,11
+10772,Gonzalez,Severino,Severino Gonzalez,52,P,"6'2""",155,1992-09-28,24,Santiago de Veragua,Panama,N,129,PHI,Philadelphia,Phillies,27,0,4
+11052,Goodwin,Brian,Brian Goodwin,48,CF,"6'0""",205,1990-11-02,26,"Rocky Mount, NC",USA,N,126,WAS,Washington,Nationals,26,0,
+10534,Gore,Terrance,Terrance Gore,0,CF,"5'7""",165,1991-06-08,25,"Macon, GA",USA,N,118,KC,Kansas City,Royals,16,0,
+11583,Gorzelanny,Tom,Tom Gorzelanny,32,P,"6'2""",210,1982-07-12,34,"Evergreen Park, IL",USA,N,116,CLE,Cleveland,Indians,7,0,1
+11034,Gott,Trevor,Trevor Gott,26,P,"6'0""",185,1992-08-26,24,"Lexington, KY",USA,N,126,WAS,Washington,Nationals,9,0,0
+11035,Grace,Matt,Matt Grace,33,P,"6'4""",215,1988-12-14,28,"Palos Veres Estates, CA",USA,N,126,WAS,Washington,Nationals,6,0,0
+11545,Graham,J.R.,J.R. Graham,,P,"5'11""",195,1990-01-14,27,"Livermore, CA",USA,N,120,MIN,Minnesota,Twins,1,0,0
+10554,Graterol,Juan,Juan Graterol,57,C,"6'1""",205,1989-02-14,28,Maracay,Venezuela,N,124,LAA,Los Angeles,Angels,12,0,
+10741,Graveman,Kendall,Kendall Graveman,49,P,"6'2""",200,1990-12-21,26,"Alexander City, AL",USA,N,125,OAK,Oakland,Athletics,61,0,22
+10396,Gray,Jon,Jon Gray,55,P,"6'4""",235,1991-11-05,25,"Shawnee, OK",USA,N,138,COL,Colorado,Rockies,58,0,18
+10449,Greene,Shane,Shane Greene,61,P,"6'4""",210,1988-11-17,28,"Clermont, FL",USA,N,117,DET,Detroit,Tigers,53,0,3
+10482,Gregerson,Luke,Luke Gregerson,44,P,"6'3""",205,1984-05-14,32,"Park Ridge, IL",USA,N,122,HOU,Houston,Astros,59,0,5
+10191,Greinke,Zack,Zack Greinke,21,P,"6'2""",200,1983-10-21,33,"Orlando, FL",USA,N,140,ARI,Arizona,Diamondbacks,54,0,23
+10983,Griffin,A.J.,A.J. Griffin,64,P,"6'5""",230,1988-01-28,29,"El Cajon, CA",USA,N,121,TEX,Texas,Rangers,46,0,28
+11010,Grilli,Jason,Jason Grilli,37,P,"6'5""",235,1976-11-11,40,"Royal Oak, MI",USA,N,112,TOR,Toronto,Blue Jays,67,0,10
+10312,Grimm,Justin,Justin Grimm,52,P,"6'3""",210,1988-08-16,28,"Bristol, TN",USA,N,131,CHC,Chicago,Cubs,68,0,5
+10681,Gsellman,Robert,Robert Gsellman,65,P,"6'4""",205,1993-07-18,23,"Santa Monica, CA",USA,N,127,NYM,New York,Mets,16,0,1
+11532,Guaipe,Mayckol,Mayckol Guaipe,48,P,"6'4""",235,1990-08-11,26,Barcelona,Venezuela,N,123,SEA,Seattle,Mariners,5,0,0
+10539,Guerra,Deolis,Deolis Guerra,54,P,"6'5""",245,1989-04-17,27,San Felix,Venezuela,N,124,LAA,Los Angeles,Angels,44,0,6
+11552,Guerra,Javy,Javy Guerra,40,P,"6'1""",225,1985-10-31,31,"Denton, TX",USA,N,124,LAA,Los Angeles,Angels,7,0,1
+10624,Guerra,Junior,Junior Guerra,41,P,"6'0""",205,1985-01-16,32,San Felix,Venezuela,N,134,MIL,Milwaukee,Brewers,40,0,10
+11419,Gurka,Jason,Jason Gurka,65,P,"6'0""",170,1988-01-10,29,"Houston, TX",USA,N,138,COL,Colorado,Rockies,6,0,1
+10483,Gustave,Jandel,Jandel Gustave,61,P,"6'2""",210,1992-10-12,24,Pimentel,DominicanRepublic,N,122,HOU,Houston,Astros,14,0,2
+10742,Hahn,Jesse,Jesse Hahn,32,P,"6'4""",215,1989-07-30,27,"Norwich, CT",USA,N,125,OAK,Oakland,Athletics,18,0,8
+11512,Hale,David,David Hale,,P,"6'2""",210,1987-09-27,29,"Atlanta, GA",USA,N,138,COL,Colorado,Rockies,2,0,1
+11588,Hall,Cody,Cody Hall,37,P,"6'4""",235,1988-01-06,29,"Savannah, GA",USA,N,128,MIA,Miami,Marlins,2,0,1
+10984,Hamels,Cole,Cole Hamels,35,P,"6'4""",205,1983-12-27,33,"San Diego, CA",USA,N,121,TEX,Texas,Rangers,65,0,24
+11481,Hammel,Jason,Jason Hammel,39,P,"6'6""",225,1982-09-02,34,"Greenville, SC",USA,N,131,CHC,Chicago,Cubs,66,0,25
+10828,Hand,Brad,Brad Hand,52,P,"6'3""",220,1990-03-20,27,"Minneapolis, MN",USA,N,139,SD,San Diego,Padres,82,0,8
+11237,Hanson,Alen,Alen Hanson,37,2B,"5'11""",175,1992-10-22,24,La Romana,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,27,0,
+11011,Happ,J.A.,J.A. Happ,33,P,"6'5""",205,1983-07-10,33,"Peru, IL",USA,N,112,TOR,Toronto,Blue Jays,64,0,22
+10450,Hardy,Blaine,Blaine Hardy,65,P,"6'2""",215,1987-03-14,30,"Seattle, WA",USA,N,117,DET,Detroit,Tigers,21,0,2
+11629,Harrell,Lucas,Lucas Harrell,38,P,"6'2""",205,1985-06-03,31,"Springfield, MO",USA,N,121,TEX,Texas,Rangers,18,0,4
+10484,Harris,Will,Will Harris,36,P,"6'4""",250,1984-08-28,32,"Houston, TX",USA,N,122,HOU,Houston,Astros,66,0,3
+10682,Harvey,Matt,Matt Harvey,33,P,"6'4""",215,1989-03-27,28,"New London, CT",USA,N,127,NYM,New York,Mets,37,0,8
+10571,Hatcher,Chris,Chris Hatcher,41,P,"6'1""",200,1985-01-12,32,"Kinston, NC",USA,N,137,LAD,Los Angeles,Dodgers,37,0,8
+10192,Hathaway,Steve,Steve Hathaway,56,P,"6'1""",185,1990-09-13,26,"Acton, MA",USA,N,140,ARI,Arizona,Diamondbacks,24,0,1
+11521,Hayes,Drew,Drew Hayes,53,P,"6'1""",205,1987-09-03,29,"McKenzie, TN",USA,N,135,CIN,Cincinnati,Reds,6,0,3
+10540,Heaney,Andrew,Andrew Heaney,28,P,"6'2""",195,1991-06-05,25,"Oklahama City, OK",USA,N,124,LAA,Los Angeles,Angels,2,0,2
+10839,Hedges,Austin,Austin Hedges,18,C,"6'1""",210,1992-08-18,24,"San Juan Capistrano, CA",USA,N,139,SD,San Diego,Padres,10,0,
+10712,Heller,Ben,Ben Heller,61,P,"6'3""",205,1991-08-05,25,"Milwaukee, WI",USA,N,114,NYY,New York,Yankees,10,0,3
+10774,Hellickson,Jeremy,Jeremy Hellickson,58,P,"6'1""",190,1987-04-08,29,"Des Moines, IA",USA,N,129,PHI,Philadelphia,Phillies,64,0,24
+10281,Hembree,Heath,Heath Hembree,37,P,"6'4""",210,1989-01-13,28,"Spartanburg, SC",USA,N,113,BOS,Boston,Red Sox,38,0,6
+11404,Henderson,Jim,Jim Henderson,51,P,"6'5""",220,1982-10-21,34,"Calgary, AB",Canada,N,127,NYM,New York,Mets,44,0,7
+10313,Hendricks,Kyle,Kyle Hendricks,28,P,"6'3""",190,1989-12-07,27,"Newport Beach, CA",USA,N,131,CHC,Chicago,Cubs,61,0,15
+10743,Hendriks,Liam,Liam Hendriks,31,P,"6'0""",200,1989-02-10,28,Perth,Australia,N,125,OAK,Oakland,Athletics,53,0,6
+11475,Hernandez,David,David Hernandez,30,P,"6'3""",245,1985-05-13,31,"Sacramento, CA",USA,N,129,PHI,Philadelphia,Phillies,68,0,10
+10858,Hernandez,Felix,Felix Hernandez,34,P,"6'3""",225,1986-04-08,30,Valencia,Venezuela,N,123,SEA,Seattle,Mariners,49,0,19
+11664,Hernandez,Roberto,Roberto Hernandez,32,P,"6'4""",270,1980-08-30,36,Santo Domingo,DominicanRepublic,N,130,ATL,Atlanta,Braves,4,0,4
+11114,Herrera,Kelvin,Kelvin Herrera,40,P,"5'10""",200,1989-12-31,27,Tenares,DominicanRepublic,N,118,KC,Kansas City,Royals,72,0,6
+11674,Herrmann,Frank,Frank Herrmann,53,P,"6'4""",220,1984-05-30,32,"Rutherford, NJ",USA,N,129,PHI,Philadelphia,Phillies,14,0,7
+10829,Hessler,Keith,Keith Hessler,54,P,"6'4""",240,1989-03-15,28,"Washington, DC",USA,N,139,SD,San Diego,Padres,17,0,2
+10888,Heston,Chris,Chris Heston,53,P,"6'3""",195,1988-04-10,28,"Palm Beach, FL",USA,N,136,SF,San Francisco,Giants,4,0,0
+10466,Hicks,John,John Hicks,55,C,"6'2""",230,1989-08-31,27,"Richmond, VA",USA,N,117,DET,Detroit,Tigers,1,0,
+11383,Hill,Rich,Rich Hill,44,P,"6'5""",220,1980-03-11,37,"Boston, MA",USA,N,137,LAD,Los Angeles,Dodgers,39,0,4
+11450,Hinojosa,Dalier,Dalier Hinojosa,94,P,"6'1""",230,1986-02-10,31,Isla de la Juventud,Cuba,N,129,PHI,Philadelphia,Phillies,10,0,1
+11317,Hochevar,Luke,Luke Hochevar,44,P,"6'5""",225,1983-09-15,33,"Denver, CO",USA,N,118,KC,Kansas City,Royals,40,0,6
+10397,Hoffman,Jeff,Jeff Hoffman,34,P,"6'5""",225,1993-01-08,24,"Latham, NY",USA,N,138,COL,Colorado,Rockies,14,0,7
+10713,Holder,Jonathan,Jonathan Holder,65,P,"6'2""",235,1993-06-09,23,"Gulfport, MS",USA,N,114,NYY,New York,Yankees,8,0,1
+11469,Holland,Derek,Derek Holland,45,P,"6'2""",215,1986-10-09,30,"Newark, OH",USA,N,121,TEX,Texas,Rangers,41,0,15
+11346,Holt,Tyler,Tyler Holt,40,CF,"5'10""",200,1989-03-10,28,"Marion, IN",USA,N,135,CIN,Cincinnati,Reds,114,0,
+11347,Hoover,J.J.,J.J. Hoover,60,P,"6'3""",240,1987-08-13,29,"Pittsburgh, PA",USA,N,135,CIN,Cincinnati,Reds,18,0,9
+11637,House,TJ,TJ House,,P,"6'1""",205,1989-09-29,27,"Slidell, LA",USA,N,116,CLE,Cleveland,Indians,4,0,0
+11454,Howell,J.P.,J.P. Howell,56,P,"6'0""",180,1983-04-25,33,"Modesto, CA",USA,N,137,LAD,Los Angeles,Dodgers,64,0,4
+11001,Hoying,Jared,Jared Hoying,31,CF,"6'3""",205,1989-05-18,27,"Fort Loramie, OH",USA,N,121,TEX,Texas,Rangers,43,0,
+10485,Hoyt,James,James Hoyt,51,P,"6'6""",230,1986-09-30,30,"Boise, ID",USA,N,122,HOU,Houston,Astros,22,0,5
+11421,HUdson,Daniel,Daniel HUdson,41,P,"6'3""",230,1987-03-09,30,"Lynchburg, VA",USA,N,140,ARI,Arizona,Diamondbacks,70,0,6
+11593,Huff,David,David Huff,32,P,"6'1""",210,1984-08-22,32,"Huntington Beach, CA",USA,N,124,LAA,Los Angeles,Angels,4,0,4
+10794,Hughes,Jared,Jared Hughes,48,P,"6'7""",240,1985-07-04,31,"Stamford, CT",USA,N,132,PIT,Pittsburgh,Pirates,67,0,6
+10652,Hughes,Phil,Phil Hughes,45,P,"6'5""",240,1986-06-24,30,"Mission Viejo, CA",USA,N,120,MIN,Minnesota,Twins,23,0,11
+11536,Hunter,Tommy,Tommy Hunter,29,P,"6'3""",250,1986-07-03,30,"Indianapolis, IN",USA,N,111,BAL,Baltimore,Orioles,33,0,1
+10219,Hursh,Jason,Jason Hursh,67,P,"6'3""",200,1991-10-02,25,"Dallas, TX",USA,N,130,ATL,Atlanta,Braves,2,0,0
+10795,Hutchison,Drew,Drew Hutchison,34,P,"6'3""",205,1990-08-22,26,"Lakeland, FL",USA,N,132,PIT,Pittsburgh,Pirates,12,0,6
+10341,Iglesias,Raisel,Raisel Iglesias,26,P,"6'2""",185,1990-01-04,27,Isla de la Juventud,Cuba,N,135,CIN,Cincinnati,Reds,42,0,7
+11314,Infante,Omar,Omar Infante,8,2B,"5'11""",195,1981-12-25,35,Puerto La Cruz,Venezuela,N,118,KC,Kansas City,Royals,51,0,
+11684,Iribarren,Hernan,Hernan Iribarren,,CF,"6'1""",195,1984-06-29,32,Barquisimeto,Venezuela,N,135,CIN,Cincinnati,Reds,25,0,
+10859,Iwakuma,Hisashi,Hisashi Iwakuma,18,P,"6'3""",210,1981-04-12,35,Tokyo,Japan,N,123,SEA,Seattle,Mariners,64,0,28
+11381,Jackson,Austin,Austin Jackson,10,CF,"6'1""",205,1987-02-01,30,"Denton, TX",USA,N,119,CWS,Chicago,White Sox,56,0,
+11408,Jackson,Edwin,Edwin Jackson,33,P,"6'2""",215,1983-09-09,33,Neu-Ulm,Germany,N,139,SD,San Diego,Padres,37,0,14
+10985,Jackson,Luke,Luke Jackson,77,P,"6'2""",210,1991-08-24,25,"Fort Lauderdale, FL",USA,N,121,TEX,Texas,Rangers,8,0,4
+11554,Janish,Paul,Paul Janish,15,SS,"6'2""",200,1982-10-12,34,"Houston, TX",USA,N,111,BAL,Baltimore,Orioles,17,0,
+10986,Jeffress,Jeremy,Jeremy Jeffress,23,P,"6'0""",205,1987-09-21,29,"South Boston, VA",USA,N,121,TEX,Texas,Rangers,59,0,2
+10220,Jenkins,Tyrell,Tyrell Jenkins,61,P,"6'4""",210,1992-07-20,24,"Henderson, TX",USA,N,130,ATL,Atlanta,Braves,22,0,11
+10422,Jennings,Dan,Dan Jennings,43,P,"6'3""",210,1987-04-17,29,"Berkeley, CA",USA,N,119,CWS,Chicago,White Sox,65,0,1
+11330,Jepsen,Kevin,Kevin Jepsen,40,P,"6'3""",235,1984-07-26,32,"Anaheim, CA",USA,N,115,TB,Tampa Bay,Rays,58,0,12
+10254,Jimenez,Ubaldo,Ubaldo Jimenez,31,P,"6'5""",210,1984-01-22,33,Nagua,DominicanRepublic,N,111,BAL,Baltimore,Orioles,44,0,16
+10830,Johnson,Erik,Erik Johnson,50,P,"6'3""",230,1989-12-30,27,"Mountain View, CA",USA,N,139,SD,San Diego,Padres,11,0,14
+10221,Johnson,Jim,Jim Johnson,53,P,"6'6""",250,1983-06-27,33,"Johnson City, NY",USA,N,130,ATL,Atlanta,Braves,65,0,3
+10585,Johnson,Micah,Micah Johnson,17,2B,"6'0""",210,1990-12-18,26,"Indianapolis, IN",USA,N,137,LAD,Los Angeles,Dodgers,6,0,
+11543,JOhnson,Steve,Steve JOhnson,52,P,"6'1""",220,1987-08-31,29,"Baltimore, MD",USA,N,123,SEA,Seattle,Mariners,16,0,3
+10470,Jones,JaCoby,JaCoby Jones,40,3B,"6'2""",205,1992-05-10,24,"Chickasha, OK",USA,N,117,DET,Detroit,Tigers,16,0,
+10423,Jones,Nate,Nate Jones,65,P,"6'5""",220,1986-01-28,31,"Butler, KY",USA,N,119,CWS,Chicago,White Sox,71,0,6
+10263,Joseph,Caleb,Caleb Joseph,36,C,"6'3""",180,1986-06-18,30,"Nashville, TN",USA,N,111,BAL,Baltimore,Orioles,90,0,
+10626,Jungmann,Taylor,Taylor Jungmann,26,P,"6'6""",210,1989-12-18,27,"Temple, TX",USA,N,134,MIL,Milwaukee,Brewers,14,0,4
+10424,Kahnle,Tommy,Tommy Kahnle,48,P,"6'1""",235,1989-08-07,27,"Latham, NY",USA,N,119,CWS,Chicago,White Sox,30,0,3
+11542,Kalish,Ryan,Ryan Kalish,51,LF,"6'0""",215,1988-03-28,29,"Northridge, CA",USA,N,131,CHC,Chicago,Cubs,8,0,
+10860,Karns,Nathan,Nathan Karns,13,P,"6'3""",225,1987-11-25,29,"Franklin, PA",USA,N,123,SEA,Seattle,Mariners,38,0,11
+11220,Kawasaki,Munenori,Munenori Kawasaki,66,SS,"5'11""",175,1981-06-03,35,Kagoshima,Japan,N,131,CHC,Chicago,Cubs,16,0,
+10572,Kazmir,Scott,Scott Kazmir,29,P,"6'0""",195,1984-01-24,33,"Houston, TX",USA,N,137,LAD,Los Angeles,Dodgers,52,0,21
+10987,Kela,Keone,Keone Kela,50,P,"6'1""",215,1993-04-16,23,"Los Angeles, CA",USA,N,121,TEX,Texas,Rangers,35,0,6
+11036,Kelley,Shawn,Shawn Kelley,27,P,"6'2""",230,1984-04-26,32,"Louisville, KY",USA,N,126,WAS,Washington,Nationals,67,0,10
+10931,Kelly,Carson,Carson Kelly,71,C,"6'2""",220,1994-07-14,22,"Chicago, IL",USA,N,133,STL,St. Louis,Cardinals,12,0,
+11523,Kelly,Casey,Casey Kelly,55,P,"6'3""",215,1989-10-04,27,"Sarasota, FL",USA,N,130,ATL,Atlanta,Braves,11,0,1
+11638,Kelly,Don,Don Kelly,31,1B,"6'4""",215,1980-02-15,37,"Butler, PA",USA,N,128,MIA,Miami,Marlins,13,0,
+10284,Kelly,Joe,Joe Kelly,56,P,"6'1""",190,1988-06-09,28,"Anaheim, CA",USA,N,113,BOS,Boston,Red Sox,21,0,5
+10514,Kennedy,Ian,Ian Kennedy,31,P,"6'0""",200,1984-12-19,32,"Huntington Beach, CA",USA,N,118,KC,Kansas City,Royals,67,0,33
+11437,Kensing,Logan,Logan Kensing,67,P,"6'1""",190,1982-07-03,34,"San Antonio, TX",USA,N,117,DET,Detroit,Tigers,3,0,0
+10573,Kershaw,Clayton,Clayton Kershaw,22,P,"6'4""",225,1988-03-19,29,"Dallas, TX",USA,N,137,LAD,Los Angeles,Dodgers,42,0,8
+10486,Keuchel,Dallas,Dallas Keuchel,60,P,"6'3""",205,1988-01-01,29,"Tulsa, OK",USA,N,122,HOU,Houston,Astros,52,0,20
+11046,Kieboom,Spencer,Spencer Kieboom,64,C,"6'0""",210,1991-03-16,26,"Mount Pleasant, SC",USA,N,126,WAS,Washington,Nationals,1,0,
+11150,Kiekhefer,Dean,Dean Kiekhefer,,P,"6'0""",175,1989-06-07,27,"Louisville, KY",USA,N,133,STL,St. Louis,Cardinals,26,0,2
+10285,Kimbrel,Craig,Craig Kimbrel,46,P,"6'0""",210,1988-05-28,28,"Huntsville, AL",USA,N,113,BOS,Boston,Red Sox,57,0,4
+10653,Kintzler,Brandon,Brandon Kintzler,27,P,"6'0""",190,1984-08-01,32,"Las Vegas, NV",USA,N,120,MIN,Minnesota,Twins,54,0,5
+11530,Kirkman,Michael,Michael Kirkman,50,P,"6'4""",215,1986-09-18,30,"Lake City, FL",USA,N,134,MIL,Milwaukee,Brewers,2,0,0
+10775,Klein,Phil,Phil Klein,43,P,"6'7""",255,1989-04-30,27,"Columbus, OH",USA,N,129,PHI,Philadelphia,Phillies,14,0,2
+10369,Kluber,Corey,Corey Kluber,28,P,"6'4""",215,1986-04-10,30,"Birmingham, AL",USA,N,116,CLE,Cleveland,Indians,64,0,22
+10627,Knebel,Corey,Corey Knebel,46,P,"6'4""",220,1991-11-26,25,"Denton, TX",USA,N,134,MIL,Milwaukee,Brewers,35,0,3
+10193,Koch,Matt,Matt Koch,55,P,"6'3""",215,1990-11-02,26,"Cherokee, IA",USA,N,140,ARI,Arizona,Diamondbacks,8,0,1
+10603,Koehler,Tom,Tom Koehler,34,P,"6'3""",235,1986-06-29,30,"Bronx, NY",USA,N,128,MIA,Miami,Marlins,66,0,22
+10889,Kontos,George,George Kontos,70,P,"6'3""",215,1985-06-12,31,"Lincolnwood, IL",USA,N,136,SF,San Francisco,Giants,57,0,3
+10222,Krol,Ian,Ian Krol,46,P,"6'1""",210,1991-05-09,25,"Hinsdale, IL",USA,N,130,ATL,Atlanta,Braves,63,0,4
+10797,Kuhl,Chad,Chad Kuhl,39,P,"6'3""",220,1992-09-10,24,"Bear, DE",USA,N,132,PIT,Pittsburgh,Pirates,28,0,7
+10315,Lackey,John,John Lackey,41,P,"6'6""",235,1978-10-23,38,"Abilene, TX",USA,N,131,CHC,Chicago,Cubs,58,0,23
+11527,Ladendorf,Tyler,Tyler Ladendorf,25,2B,"5'11""",195,1988-03-07,29,"Park Ridge, IL",USA,N,125,OAK,Oakland,Athletics,49,0,
+11691,Lalli,Blake,Blake Lalli,74,1B,"6'1""",210,1983-05-12,33,"Pittsburgh, PA",USA,N,130,ATL,Atlanta,Braves,10,0,
+11610,LaMarre,Ryan,Ryan LaMarre,,LF,"6'1""",210,1988-11-21,28,"Royal Oak, MI",USA,N,113,BOS,Boston,Red Sox,6,0,
+11464,Lambo,Andrew,Andrew Lambo,15,RF,"6'3""",220,1988-08-10,28,"Newbury Park, CA",USA,N,125,OAK,Oakland,Athletics,1,0,
+10890,Law,Derek,Derek Law,64,P,"6'2""",210,1990-09-14,26,"Pittsburgh, PA",USA,N,136,SF,San Francisco,Giants,61,0,3
+10714,Layne,Tommy,Tommy Layne,39,P,"6'2""",195,1984-11-02,32,"St. Louis, MO",USA,N,114,NYY,New York,Yankees,63,0,3
+10798,LeBlanc,Wade,Wade LeBlanc,38,P,"6'3""",210,1984-08-07,32,"Lake Charles, LA",USA,N,132,PIT,Pittsburgh,Pirates,27,0,14
+10988,Leclerc,Jose,Jose Leclerc,62,P,"6'0""",190,1993-12-19,23,Esperanza,DominicanRepublic,N,121,TEX,Texas,Rangers,12,0,0
+11431,Leon,Arnold,Arnold Leon,68,P,"6'1""",210,1988-09-06,28,"Culiacan, Sinaloa",Mexico,N,112,TOR,Toronto,Blue Jays,2,0,1
+10316,Lester,Jon,Jon Lester,34,P,"6'4""",240,1984-01-07,33,"Tacoma, WA",USA,N,131,CHC,Chicago,Cubs,64,0,21
+11435,Lewis,Colby,Colby Lewis,48,P,"6'4""",240,1979-08-02,37,"Bakersfield, CA",USA,N,121,TEX,Texas,Rangers,38,0,19
+10574,Liberatore,Adam,Adam Liberatore,36,P,"6'3""",240,1987-05-12,29,"Bellflower, CA",USA,N,137,LAD,Los Angeles,Dodgers,58,0,2
+10655,Light,Pat,Pat Light,53,P,"6'5""",220,1991-03-29,25,"Colts Neck, NJ",USA,N,120,MIN,Minnesota,Twins,17,0,4
+11605,Lincecum,Tim,Tim Lincecum,55,P,"5'11""",170,1984-06-15,32,"Bellevue, WA",USA,N,124,LAA,Los Angeles,Angels,18,0,11
+11406,Lobstein,Kyle,Kyle Lobstein,,P,"6'3""",220,1989-08-12,27,"Flagstaff, AZ",USA,N,132,PIT,Pittsburgh,Pirates,14,0,2
+10799,Locke,Jeff,Jeff Locke,49,P,"6'0""",200,1987-11-20,29,"North Conway, NH",USA,N,132,PIT,Pittsburgh,Pirates,52,0,17
+11655,Loewen,Adam,Adam Loewen,58,P,"6'6""",245,1984-04-09,32,"Vancouver, BC",Canada,Y,140,ARI,Arizona,Diamondbacks,8,0,1
+11286,Logan,Boone,Boone Logan,48,P,"6'5""",215,1984-12-08,32,"San Antonio, TX",USA,N,138,COL,Colorado,Rockies,66,0,4
+11643,Lohse,Kyle,Kyle Lohse,49,P,"6'2""",215,1978-10-04,38,"Chico, CA",USA,N,121,TEX,Texas,Rangers,4,0,4
+11432,Lopez,Javier,Javier Lopez,49,P,"6'4""",220,1977-07-11,39,San Juan,PuertoRico,N,136,SF,San Francisco,Giants,68,0,3
+11678,Lopez,Raffy,Raffy Lopez,61,C,"5'9""",200,1987-10-02,29,"Philadelphia, PA",USA,N,135,CIN,Cincinnati,Reds,9,0,
+11037,Lopez,Reynaldo,Reynaldo Lopez,49,P,"6'0""",185,1994-01-04,23,San Pedro de Macoris,DominicanRepublic,N,126,WAS,Washington,Nationals,17,0,4
+11515,Lough,David,David Lough,18,OF,"5'10""",175,1986-01-20,31,"Akron, OH",USA,N,129,PHI,Philadelphia,Phillies,34,0,
+10452,Lowe,Mark,Mark Lowe,21,P,"6'3""",210,1983-06-07,33,"Houston, TX",USA,N,117,DET,Detroit,Tigers,53,0,12
+11445,Luebke,Cory,Cory Luebke,,P,"6'4""",210,1985-03-04,32,"Coldwater, OH",USA,N,132,PIT,Pittsburgh,Pirates,9,0,2
+10683,Lugo,Seth,Seth Lugo,67,P,"6'4""",225,1989-11-17,27,"Shreveport, LA",USA,N,127,NYM,New York,Mets,25,0,7
+10398,Lyles,Jordan,Jordan Lyles,24,P,"6'4""",230,1990-10-19,26,"Hartsville, SC",USA,N,138,COL,Colorado,Rockies,45,0,4
+10919,Lyons,Tyler,Tyler Lyons,70,P,"6'4""",210,1988-02-21,29,"Lubbock, TX",USA,N,133,STL,St. Louis,Cardinals,30,0,9
+10472,Machado,Dixon,Dixon Machado,49,SS,"6'1""",170,1992-02-22,25,San Cristobal-Tachira,Venezuela,N,117,DET,Detroit,Tigers,10,0,
+10744,Madson,Ryan,Ryan Madson,44,P,"6'6""",225,1980-08-28,36,"Long Beach, CA",USA,N,125,OAK,Oakland,Athletics,63,0,7
+11694,Magill,Matt,Matt Magill,60,P,"6'3""",210,1989-11-10,27,"Simi Valley, CA",USA,N,135,CIN,Cincinnati,Reds,5,0,1
+10629,Magnifico,Damien,Damien Magnifico,51,P,"6'1""",195,1991-05-24,25,"Dallas, TX",USA,N,134,MIL,Milwaukee,Brewers,3,0,0
+10541,Mahle,Greg,Greg Mahle,65,P,"6'2""",230,1993-04-17,23,"Los Alamitos, CA",USA,N,124,LAA,Los Angeles,Angels,24,0,4
+10745,Manaea,Sean,Sean Manaea,55,P,"6'5""",245,1992-02-01,25,"Valparaiso, IN",USA,N,125,OAK,Oakland,Athletics,48,0,20
+10920,Maness,Seth,Seth Maness,43,P,"6'0""",190,1988-10-14,28,"Pinehurst, NC",USA,N,133,STL,St. Louis,Cardinals,29,0,2
+10370,Manship,Jeff,Jeff Manship,53,P,"6'2""",205,1985-01-16,32,"San Antonio, TX",USA,N,116,CLE,Cleveland,Indians,53,0,7
+11087,Mantiply,Joe,Joe Mantiply,,P,"6'4""",215,1991-03-01,26,"Danville, VA",USA,N,117,DET,Detroit,Tigers,5,0,1
+11282,Margot,Manuel,Manuel Margot,70,CF,"5'11""",180,1994-09-28,22,San Cristobal,DominicanRepublic,N,139,SD,San Diego,Padres,11,0,
+10630,Marinez,Jhan,Jhan Marinez,53,P,"6'1""",200,1988-08-12,28,Santo Domingo,DominicanRepublic,N,134,MIL,Milwaukee,Brewers,46,0,4
+10776,Mariot,Michael,Michael Mariot,31,P,"6'0""",190,1988-10-20,28,"West Hills, CA",USA,N,129,PHI,Philadelphia,Phillies,25,0,5
+11689,Marks,Justin,Justin Marks,,P,"6'3""",205,1988-01-12,29,"Owensboro, KY",USA,N,115,TB,Tampa Bay,Rays,4,0,1
+11525,Marksberry,Matt,Matt Marksberry,56,P,"6'1""",180,1990-08-25,26,"Cincinnati, OH",USA,N,130,ATL,Atlanta,Braves,4,0,1
+10399,Marquez,German,German Marquez,67,P,"6'1""",185,1995-02-22,22,San Felix,Venezuela,N,138,COL,Colorado,Rockies,8,0,2
+10299,Marrero,Deven,Deven Marrero,16,SS,"6'1""",195,1990-08-25,26,"Miami, FL",USA,N,113,BOS,Boston,Red Sox,14,0,
+10194,Marshall,Evan,Evan Marshall,50,P,"6'2""",225,1990-04-18,26,"Sunnyvale, CA",USA,N,140,ARI,Arizona,Diamondbacks,15,0,2
+10861,Martin,Cody,Cody Martin,57,P,"6'3""",230,1989-09-04,27,"Dos Palos, CA",USA,N,123,SEA,Seattle,Mariners,11,0,5
+11038,Martin,Rafael,Rafael Martin,53,P,"6'3""",225,1984-05-16,32,"San Fernando, CA",USA,N,126,WAS,Washington,Nationals,8,0,0
+10921,Martinez,Carlos,Carlos Martinez,18,P,"6'0""",190,1991-09-21,25,Puerto Plata,DominicanRepublic,N,133,STL,St. Louis,Cardinals,61,0,15
+10940,Martinez,Jose,Jose Martinez,58,LF,"6'6""",215,1988-07-25,28,La Guaira,Venezuela,N,133,STL,St. Louis,Cardinals,13,0,
+10989,Martinez,Nick,Nick Martinez,22,P,"6'1""",200,1990-08-05,26,"Miami, FL",USA,N,121,TEX,Texas,Rangers,17,0,8
+11556,Mastroianni,Darin,Darin Mastroianni,22,CF,"5'11""",190,1985-08-26,31,"Mount Kisco, NY",USA,N,120,MIN,Minnesota,Twins,9,0,
+11526,Matusz,Brian,Brian Matusz,15,P,"6'5""",190,1987-02-11,30,"Grand Junction, CO",USA,N,131,CHC,Chicago,Cubs,9,0,6
+10684,Matz,Steven,Steven Matz,32,P,"6'2""",200,1991-05-29,25,"Stony Brook, NY",USA,N,127,NYM,New York,Mets,45,0,14
+10831,Maurer,Brandon,Brandon Maurer,37,P,"6'5""",230,1990-07-03,26,"Newport Beach, CA",USA,N,139,SD,San Diego,Padres,71,0,7
+10656,May,Trevor,Trevor May,65,P,"6'5""",240,1989-09-23,27,"Longview, WA",USA,N,120,MIN,Minnesota,Twins,44,0,7
+10922,Mayers,Mike,Mike Mayers,59,P,"6'3""",200,1991-12-06,25,"Grove City, OH",USA,N,133,STL,St. Louis,Cardinals,6,0,3
+11541,Mazzaro,Vin,Vin Mazzaro,32,P,"6'2""",220,1986-09-27,30,"Hackensack, NJ",USA,N,136,SF,San Francisco,Giants,2,0,0
+10371,McAllister,Zach,Zach McAllister,34,P,"6'6""",240,1987-12-08,29,"Peoria, IL",USA,N,116,CLE,Cleveland,Indians,55,0,6
+11564,McBride,Matt,Matt McBride,29,C,"6'2""",215,1985-05-23,31,"Bethlehem, PA",USA,N,125,OAK,Oakland,Athletics,29,0,
+10576,McCarthy,Brandon,Brandon McCarthy,38,P,"6'7""",235,1983-07-07,33,"Glendale, CA",USA,N,137,LAD,Los Angeles,Dodgers,19,0,2
+10515,McCarthy,Kevin,Kevin McCarthy,61,P,"6'3""",200,1992-02-22,25,"Rockville Centre, NY",USA,N,118,KC,Kansas City,Royals,10,0,1
+10487,McCullers Jr,Lance,Lance McCullers Jr,43,P,"6'1""",205,1993-10-02,23,"Tampa, FL",USA,N,122,HOU,Houston,Astros,28,0,5
+10256,McFarland,T.J.,T.J. McFarland,66,P,"6'3""",220,1989-06-08,27,"Palos Hills, IL",USA,N,111,BAL,Baltimore,Orioles,16,0,3
+10400,McGee,Jake,Jake McGee,51,P,"6'3""",230,1986-08-06,30,"San Jose, CA",USA,N,138,COL,Colorado,Rockies,57,0,9
+11606,McGehee,Casey,Casey McGehee,31,3B,"6'1""",220,1982-10-12,34,"Santa Cruz, CA",USA,N,117,DET,Detroit,Tigers,32,0,
+11409,McGowan,Dustin,Dustin McGowan,33,P,"6'3""",235,1982-03-24,35,"Savannah, GA",USA,N,128,MIA,Miami,Marlins,55,0,7
+10488,McHugh,Collin,Collin McHugh,31,P,"6'2""",190,1987-06-19,29,"Napierville, IL",USA,N,122,HOU,Houston,Astros,64,0,25
+11640,McKenry,Michael,Michael McKenry,,C,"5'10""",205,1985-03-04,32,"Knoxville, TN",USA,N,133,STL,St. Louis,Cardinals,3,0,
+11497,Medlen,Kris,Kris Medlen,39,P,"5'10""",190,1985-10-07,31,"Artesia, CA",USA,N,118,KC,Kansas City,Royals,12,0,2
+10657,Mejia,Adalberto,Adalberto Mejia,49,P,"6'3""",195,1993-06-20,23,Bonao,DominicanRepublic,N,120,MIN,Minnesota,Twins,1,0,0
+11296,Melancon,Mark,Mark Melancon,43,P,"6'2""",210,1985-03-28,32,"Wheat Ridge, CO",USA,N,126,WAS,Washington,Nationals,75,0,3
+11488,Melville,Tim,Tim Melville,61,P,"6'4""",225,1989-10-09,27,"Alexandria, VA",USA,N,135,CIN,Cincinnati,Reds,5,0,5
+10990,Mendez,Yohander,Yohander Mendez,65,P,"6'5""",200,1995-01-17,22,Valencia,Venezuela,N,121,TEX,Texas,Rangers,2,0,0
+10746,Mengden,Daniel,Daniel Mengden,67,P,"6'2""",190,1993-02-19,24,"Houston, TX",USA,N,125,OAK,Oakland,Athletics,27,0,9
+10372,Merritt,Ryan,Ryan Merritt,69,P,"6'0""",180,1992-02-21,25,"McKinney, TX",USA,N,116,CLE,Cleveland,Indians,5,0,0
+10350,Mesoraco,Devin,Devin Mesoraco,39,C,"6'1""",220,1988-06-18,28,"Punxsutawney, PA",USA,N,135,CIN,Cincinnati,Reds,23,0,
+10542,Meyer,Alex,Alex Meyer,40,P,"6'9""",225,1990-01-03,27,"Greensburg, IN",USA,N,124,LAA,Los Angeles,Angels,13,0,3
+11634,Middlebrooks,Will,Will Middlebrooks,,3B,"6'3""",220,1988-09-09,28,"Greenville, TX",USA,N,134,MIL,Milwaukee,Brewers,14,0,
+10257,Miley,Wade,Wade Miley,38,P,"6'0""",220,1986-11-13,30,"Hammond, LA",USA,N,111,BAL,Baltimore,Orioles,60,0,25
+10373,Miller,Andrew,Andrew Miller,24,P,"6'7""",205,1985-05-21,31,"Gainesville, FL",USA,N,116,CLE,Cleveland,Indians,70,0,8
+11289,Miller,Justin,Justin Miller,60,P,"6'3""",215,1987-12-06,29,"Bakersfield, CA",USA,N,138,COL,Colorado,Rockies,40,0,6
+11622,Miller,Mike,Mike Miller,40,SS,"5'9""",170,1989-09-27,27,"Concord, CA",USA,N,113,BOS,Boston,Red Sox,1,0,
+10195,Miller,Shelby,Shelby Miller,26,P,"6'3""",225,1990-10-10,26,"Houston, TX",USA,N,140,ARI,Arizona,Diamondbacks,40,0,14
+10516,Mills,Alec,Alec Mills,63,P,"6'4""",190,1991-11-30,25,"Clarksville, TN",USA,N,118,KC,Kansas City,Royals,3,0,0
+11485,Milone,Tommy,Tommy Milone,33,P,"6'0""",220,1987-02-16,30,"Saugas, CA",USA,N,120,MIN,Minnesota,Twins,32,0,15
+10425,Minaya,Juan,Juan Minaya,67,P,"6'4""",210,1990-09-18,26,Maimon,DominicanRepublic,N,119,CWS,Chicago,White Sox,11,0,0
+10862,Miranda,Ariel,Ariel Miranda,37,P,"6'2""",190,1989-01-10,28,Havana,Cuba,N,123,SEA,Seattle,Mariners,22,0,12
+10715,Mitchell,Bryan,Bryan Mitchell,55,P,"6'3""",210,1991-04-19,25,"Reidsville, NC",USA,N,114,NYY,New York,Yankees,10,0,1
+11633,Molleken,Dustin,Dustin Molleken,50,P,"6'4""",230,1984-08-21,32,"Regina, SK",Canada,N,117,DET,Detroit,Tigers,4,0,0
+11062,Moncada,Yoan,Yoan Moncada,65,3B,"6'2""",205,1995-05-27,21,Abreus,Cuba,N,113,BOS,Boston,Red Sox,8,0,
+10685,Montero,Rafael,Rafael Montero,50,P,"6'0""",185,1990-10-17,26,Higuerito,DominicanRepublic,N,127,NYM,New York,Mets,12,0,4
+10317,Montgomery,Mike,Mike Montgomery,38,P,"6'5""",215,1989-07-01,27,"Mission Hills, CA",USA,N,131,CHC,Chicago,Cubs,56,0,8
+11686,Moore,Adam,Adam Moore,45,C,"6'3""",220,1984-05-08,32,"Longview, TX",USA,N,116,CLE,Cleveland,Indians,9,0,
+10891,Moore,Matt,Matt Moore,45,P,"6'3""",210,1989-06-18,27,"Fort Walton Beach, FL",USA,N,136,SF,San Francisco,Giants,66,0,25
+11415,Morales,Franklin,Franklin Morales,30,P,"6'1""",210,1986-01-24,31,Sn Juan de los Morros,Venezuela,N,112,TOR,Toronto,Blue Jays,5,0,1
+10499,Moran,Colin,Colin Moran,19,3B,"6'4""",204,1992-10-01,24,"Port Chester, NY",USA,N,122,HOU,Houston,Astros,13,0,
+10777,Morgan,Adam,Adam Morgan,39,P,"6'1""",200,1990-02-27,27,"Tampa, FL",USA,N,129,PHI,Philadelphia,Phillies,44,0,23
+10374,Morimando,Shawn,Shawn Morimando,74,P,"6'0""",200,1992-11-20,24,"Canandaigua, NY",USA,N,116,CLE,Cleveland,Indians,2,0,2
+10543,Morin,Mike,Mike Morin,64,P,"6'4""",220,1991-05-03,25,"Andover, MN",USA,N,124,LAA,Los Angeles,Angels,60,0,6
+11238,Moroff,Max,Max Moroff,,2B,"5'10""",185,1993-05-13,23,"Winter Park, FL",USA,N,132,PIT,Pittsburgh,Pirates,2,0,
+11576,Morris,A.J.,A.J. Morris,62,P,"6'2""",195,1986-12-01,30,"Houston, TX",USA,N,135,CIN,Cincinnati,Reds,7,0,2
+11412,Morris,Bryan,Bryan Morris,57,P,"6'3""",220,1987-03-28,30,"Tullahoma, TN",USA,N,128,MIA,Miami,Marlins,24,0,4
+11669,Morrow,Brandon,Brandon Morrow,21,P,"6'3""",205,1984-07-26,32,"Santa Rosa, CA",USA,N,139,SD,San Diego,Padres,18,0,2
+11295,Morse,Michael,Michael Morse,38,1B,"6'5""",245,1982-03-22,35,"Fort Lauderdale, FL",USA,N,132,PIT,Pittsburgh,Pirates,9,0,
+11459,Morton,Charlie,Charlie Morton,,P,"6'5""",235,1983-11-12,33,"Flemington, NJ",USA,N,129,PHI,Philadelphia,Phillies,8,0,1
+11513,Moscot,Jon,Jon Moscot,46,P,"6'4""",210,1991-08-15,25,"Santa Monica, CA",USA,N,135,CIN,Cincinnati,Reds,10,0,10
+10401,Motte,Jason,Jason Motte,30,P,"6'0""",205,1982-06-22,34,"Port Huron, MI",USA,N,138,COL,Colorado,Rockies,30,0,6
+11566,Moylan,Peter,Peter Moylan,47,P,"6'2""",225,1978-12-02,38,Lesmurdie,Australia,N,118,KC,Kansas City,Royals,50,0,4
+11216,Mullee,Conor,Conor Mullee,,P,"6'4""",195,1988-02-25,29,"Ashburn, VA",USA,N,114,NYY,New York,Yankees,3,0,0
+11537,Murray,Colton,Colton Murray,60,P,"6'0""",195,1990-04-22,26,"Overland Park, KS",USA,N,129,PHI,Philadelphia,Phillies,24,0,6
+10489,Musgrove,Joe,Joe Musgrove,59,P,"6'5""",265,1992-12-04,24,"El Cajon, CA",USA,N,122,HOU,Houston,Astros,21,0,9
+11439,Narveson,Chris,Chris Narveson,45,P,"6'3""",205,1981-12-20,35,"Englewood, CO",USA,N,128,MIA,Miami,Marlins,6,0,3
+11650,Nathan,Joe,Joe Nathan,74,P,"6'4""",230,1974-11-22,42,"Houston, TX",USA,N,136,SF,San Francisco,Giants,10,0,0
+10747,Neal,Zach,Zach Neal,58,P,"6'3""",220,1988-11-09,28,"Columbia, SC",USA,N,125,OAK,Oakland,Athletics,30,0,9
+10631,Nelson,Jimmy,Jimmy Nelson,52,P,"6'6""",250,1989-06-05,27,"Klamath Falls, OR",USA,N,134,MIL,Milwaukee,Brewers,64,0,25
+10778,Neris,Hector,Hector Neris,50,P,"6'2""",215,1989-06-14,27,Villa Altagracia,DominicanRepublic,N,129,PHI,Philadelphia,Phillies,79,0,9
+11206,Neshek,Pat,Pat Neshek,,P,"6'3""",220,1980-09-04,36,"Madison, WI",USA,N,122,HOU,Houston,Astros,60,0,6
+10800,Nicasio,Juan,Juan Nicasio,12,P,"6'4""",255,1986-08-31,30,San Francisco de Macoris,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,66,0,15
+10604,Nicolino,Justin,Justin Nicolino,20,P,"6'3""",195,1991-11-22,25,"Orlando, FL",USA,N,128,MIA,Miami,Marlins,31,0,8
+11405,Niese,Jonathon,Jonathon Niese,49,P,"6'3""",215,1986-10-27,30,"Lima, OH",USA,N,127,NYM,New York,Mets,50,0,25
+10779,Nola,Aaron,Aaron Nola,27,P,"6'2""",195,1993-06-04,23,"Baton Rouge, LA",USA,N,129,PHI,Philadelphia,Phillies,40,0,10
+10544,Nolasco,Ricky,Ricky Nolasco,47,P,"6'2""",235,1982-12-13,34,"Corona, CA",USA,N,124,LAA,Los Angeles,Angels,63,0,26
+11666,Noonan,Nick,Nick Noonan,28,SS,"6'1""",185,1989-05-04,27,"Poway, CA",USA,N,139,SD,San Diego,Padres,9,0,
+11448,Norris,Bud,Bud Norris,28,P,"6'0""",215,1985-03-02,32,"Greenbrae, CA",USA,N,137,LAD,Los Angeles,Dodgers,53,0,14
+10454,Norris,Daniel,Daniel Norris,44,P,"6'2""",195,1993-04-25,23,"Johnson City, TN",USA,N,117,DET,Detroit,Tigers,27,0,10
+11444,Nova,Ivan,Ivan Nova,46,P,"6'5""",240,1987-01-12,30,Palenque,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,58,0,23
+10757,Nunez,Renato,Renato Nunez,22,3B,"6'1""",220,1994-04-04,22,Valencia,Venezuela,N,125,OAK,Oakland,Athletics,10,0,
+11254,Nuno,Vidal,Vidal Nuno,,P,"5'11""",210,1987-07-26,29,"National City, CA",USA,N,123,SEA,Seattle,Mariners,56,0,11
+10402,Oberg,Scott,Scott Oberg,45,P,"6'2""",205,1990-03-13,27,"Tewksbury, MA",USA,N,138,COL,Colorado,Rockies,24,0,3
+11460,Oberholtzer,Brett,Brett Oberholtzer,38,P,"6'1""",225,1989-07-01,27,"Christiana, DE",USA,N,124,LAA,Los Angeles,Angels,39,0,18
+10258,O'Day,Darren,Darren O'Day,56,P,"6'4""",220,1982-10-22,34,"Jacksonville, FL",USA,N,111,BAL,Baltimore,Orioles,34,0,6
+10953,Odorizzi,Jake,Jake Odorizzi,23,P,"6'2""",190,1990-03-27,27,"Breese, IL",USA,N,115,TB,Tampa Bay,Rays,66,0,29
+11356,O'Flaherty,Eric,Eric O'Flaherty,34,P,"6'2""",210,1985-02-05,32,"Walla Walla, WA",USA,N,130,ATL,Atlanta,Braves,39,0,3
+11447,Ogando,Alexi,Alexi Ogando,40,P,"6'4""",200,1983-10-05,33,San Pedro de Macoris,DominicanRepublic,N,130,ATL,Atlanta,Braves,36,0,2
+10605,Ogando,Nefi,Nefi Ogando,55,P,"6'0""",230,1989-06-03,27,Santo Domingo,DominicanRepublic,N,128,MIA,Miami,Marlins,14,0,0
+11226,Oh,Seung Hwan,Seung Hwan Oh,26,P,"5'10""",205,1982-07-15,34,Jeongeup,SouthKorea,N,133,STL,St. Louis,Cardinals,76,0,5
+11345,Ohlendorf,Ross,Ross Ohlendorf,27,P,"6'4""",240,1982-08-08,34,"Austin, TX",USA,N,135,CIN,Cincinnati,Reds,64,0,14
+10892,Okert,Steven,Steven Okert,48,P,"6'3""",210,1991-07-09,25,"Riverside, CA",USA,N,136,SF,San Francisco,Giants,16,0,2
+11357,Olivera,Hector,Hector Olivera,,LF,"6'2""",230,1985-04-05,31,Santiago de Cuba,Cuba,N,130,ATL,Atlanta,Braves,7,0,
+10763,Olson,Matt,Matt Olson,13,RF,"6'5""",230,1994-03-29,22,"Atlanta, GA",USA,N,125,OAK,Oakland,Athletics,14,0,
+11508,Olson,Tyler,Tyler Olson,,P,"6'3""",195,1989-10-02,27,"Spokane, WA",USA,N,114,NYY,New York,Yankees,1,0,0
+11653,Ondrusek,Logan,Logan Ondrusek,,P,"6'8""",230,1985-02-13,32,"Hallettsville, TX",USA,N,111,BAL,Baltimore,Orioles,7,0,1
+10659,O'Rourke,Ryan,Ryan O'Rourke,61,P,"6'3""",230,1988-04-30,28,"Worcester, MA",USA,N,120,MIN,Minnesota,Twins,26,0,3
+10893,Osich,Josh,Josh Osich,61,P,"6'2""",230,1988-09-03,28,"Boise, ID",USA,N,136,SF,San Francisco,Giants,59,0,7
+11553,O'Sullivan,Sean,Sean O'Sullivan,62,P,"6'1""",245,1987-09-01,29,"San Diego, CA",USA,N,113,BOS,Boston,Red Sox,7,0,3
+11013,Osuna,Roberto,Roberto Osuna,54,P,"6'2""",215,1995-07-02,21,"Juan Jose Rios, Sinaloa",Mexico,N,112,TOR,Toronto,Blue Jays,72,0,9
+10375,Otero,Dan,Dan Otero,61,P,"6'3""",205,1985-02-19,32,"Miami, FL",USA,N,116,CLE,Cleveland,Indians,62,0,2
+10748,Overton,Dillon,Dillon Overton,47,P,"6'2""",175,1991-08-17,25,"Clinton, OK",USA,N,125,OAK,Oakland,Athletics,12,0,12
+10286,Owens,Henry,Henry Owens,60,P,"6'6""",220,1992-07-21,24,"Orange, CA",USA,N,113,BOS,Boston,Red Sox,7,0,5
+11462,Pacheco,Jordan,Jordan Pacheco,,1B,"6'1""",200,1986-01-30,31,"Albuquerque, NM",USA,N,135,CIN,Cincinnati,Reds,33,0,
+11349,Papelbon,Jonathan,Jonathan Papelbon,58,P,"6'5""",230,1980-11-23,36,"Baton Rouge, LA",USA,N,126,WAS,Washington,Nationals,37,0,3
+11587,Parnell,Bobby,Bobby Parnell,36,P,"6'3""",205,1984-09-08,32,"Salisbury, NC",USA,N,117,DET,Detroit,Tigers,6,0,1
+11607,Partch,Curtis,Curtis Partch,52,P,"6'5""",240,1987-02-13,30,"Merced, CA",USA,N,132,PIT,Pittsburgh,Pirates,2,0,0
+10415,Patterson,Jordan,Jordan Patterson,72,RF,"6'4""",215,1992-02-12,25,"Mobile, AL",USA,N,138,COL,Colorado,Rockies,11,0,
+10318,Patton,Spencer,Spencer Patton,45,P,"6'1""",200,1988-02-20,29,"Urbana, IL",USA,N,131,CHC,Chicago,Cubs,16,0,3
+10490,Paulino,David,David Paulino,63,P,"6'7""",215,1994-02-06,23,Nizao,DominicanRepublic,N,122,HOU,Houston,Astros,4,0,0
+10863,Paxton,James,James Paxton,65,P,"6'4""",235,1988-11-06,28,"Ladner, BC",Canada,N,123,SEA,Seattle,Mariners,40,0,9
+10716,Pazos,James,James Pazos,67,P,"6'2""",235,1991-05-05,25,"Gilbert, AZ",USA,N,114,NYY,New York,Yankees,7,0,2
+10491,Peacock,Brad,Brad Peacock,41,P,"6'1""",210,1988-02-02,29,"Palm Beach, FL",USA,N,122,HOU,Houston,Astros,16,0,6
+11467,Peavy,Jake,Jake Peavy,22,P,"6'1""",195,1981-05-31,35,"Mobile, AL",USA,N,136,SF,San Francisco,Giants,52,0,18
+10455,Pelfrey,Mike,Mike Pelfrey,37,P,"6'7""",240,1984-01-14,33,"Wright-Patterson, OH",USA,N,117,DET,Detroit,Tigers,47,0,15
+11324,Pena,Ariel,Ariel Pena,58,P,"6'3""",245,1989-05-20,27,Los Jovillos,DominicanRepublic,N,134,MIL,Milwaukee,Brewers,1,0,3
+11228,Pena,Brayan,Brayan Pena,33,C,"5'9""",240,1982-01-07,35,Havana,Cuba,N,133,STL,St. Louis,Cardinals,11,0,
+10319,Pena,Felix,Felix Pena,60,P,"6'2""",185,1990-02-25,27,San Pedro de Macoris,DominicanRepublic,N,131,CHC,Chicago,Cubs,11,0,1
+11416,Peralta,Joel,Joel Peralta,62,P,"5'10""",210,1976-03-23,41,Bonao,DominicanRepublic,N,131,CHC,Chicago,Cubs,31,0,9
+10343,Peralta,Wandy,Wandy Peralta,53,P,"6'0""",210,1991-07-27,25,San Francisco de Macoris,DominicanRepublic,N,135,CIN,Cincinnati,Reds,10,0,1
+10832,Perdomo,Luis,Luis Perdomo,61,P,"6'2""",185,1993-05-09,23,Santo Domingo,DominicanRepublic,N,139,SD,San Diego,Padres,56,0,24
+10991,Perez,Martin,Martin Perez,33,P,"6'0""",200,1991-04-04,25,Guanare,Venezuela,N,121,TEX,Texas,Rangers,65,0,18
+11039,Perez,Oliver,Oliver Perez,46,P,"6'3""",225,1981-08-15,35,"Culiacan, Sinaloa",Mexico,N,126,WAS,Washington,Nationals,64,0,4
+10224,Perez,Williams,Williams Perez,57,P,"6'0""",240,1991-05-21,25,Acarigua,Venezuela,N,130,ATL,Atlanta,Braves,23,0,7
+11204,Perez,Yefri,Yefri Perez,77,CF,"5'11""",170,1991-02-24,26,Bani,DominicanRepublic,N,128,MIA,Miami,Marlins,12,0,
+10660,Perkins,Glen,Glen Perkins,15,P,"6'0""",205,1983-03-02,34,"Saint Paul, MN",USA,N,120,MIN,Minnesota,Twins,2,0,0
+11466,Petit,Yusmeiro,Yusmeiro Petit,52,P,"6'1""",255,1984-11-22,32,Maracaibo,Venezuela,N,126,WAS,Washington,Nationals,38,0,12
+10426,Petricka,Jake,Jake Petricka,52,P,"6'5""",220,1988-06-05,28,"Northfield, IL",USA,N,119,CWS,Chicago,White Sox,9,0,1
+10606,Phelps,David,David Phelps,35,P,"6'2""",200,1986-10-09,30,"St. Louis, MO",USA,N,128,MIA,Miami,Marlins,69,0,6
+11692,Phillips,Zach,Zach Phillips,,P,"6'1""",200,1986-09-21,30,"Sacramento, CA",USA,N,132,PIT,Pittsburgh,Pirates,8,0,1
+11518,Pinder,Branden,Branden Pinder,,P,"6'4""",215,1989-01-26,28,"Corona, CA",USA,N,114,NYY,New York,Yankees,1,0,0
+10717,Pineda,Michael,Michael Pineda,35,P,"6'7""",260,1989-01-18,28,Yaguate,DominicanRepublic,N,114,NYY,New York,Yankees,64,0,27
+11698,Pinto,Josmil,Josmil Pinto,21,C,"5'11""",225,1989-03-30,27,Valencia,Venezuela,N,134,MIL,Milwaukee,Brewers,6,0,
+10852,Pirela,Jose,Jose Pirela,17,LF,"6'0""",220,1989-11-21,27,Valera,Venezuela,N,139,SD,San Diego,Padres,17,0,
+10376,Plutko,Adam,Adam Plutko,62,P,"6'3""",200,1991-10-03,25,"Upland, CA",USA,N,116,CLE,Cleveland,Indians,2,0,1
+11080,Pompey,Dalton,Dalton Pompey,23,CF,"6'2""",195,1992-12-11,24,"Mississauga, ON",Canada,N,112,TOR,Toronto,Blue Jays,7,0,
+10288,Porcello,Rick,Rick Porcello,22,P,"6'5""",205,1988-12-27,28,"Morristown, NJ",USA,N,113,BOS,Boston,Red Sox,56,0,23
+10518,Pounders,Brooks,Brooks Pounders,62,P,"6'5""",265,1990-09-26,26,"Riverside, CA",USA,N,118,KC,Kansas City,Royals,13,0,6
+10661,Pressly,Ryan,Ryan Pressly,57,P,"6'3""",210,1988-12-15,28,"Dallas, TX",USA,N,120,MIN,Minnesota,Twins,72,0,8
+10289,Price,David,David Price,24,P,"6'5""",215,1985-08-26,31,"Murfreesboro, TN",USA,N,113,BOS,Boston,Red Sox,59,0,30
+10427,Purke,Matt,Matt Purke,64,P,"6'4""",215,1990-07-17,26,"Nacogdoches, TX",USA,N,119,CWS,Chicago,White Sox,12,0,0
+10428,Putnam,Zach,Zach Putnam,57,P,"6'2""",220,1987-07-03,29,"Rochester, MI",USA,N,119,CWS,Chicago,White Sox,25,0,2
+10833,Quackenbush,Kevin,Kevin Quackenbush,59,P,"6'4""",235,1988-11-28,28,"Land O'Lakes, FL",USA,N,139,SD,San Diego,Padres,60,0,8
+10403,Qualls,Chad,Chad Qualls,50,P,"6'4""",235,1978-08-17,38,"Harbor City, CA",USA,N,138,COL,Colorado,Rockies,44,0,5
+11696,Querecuto,Juniel,Juniel Querecuto,,3B,"5'9""",155,1992-09-19,24,Barquisimeto,Venezuela,N,115,TB,Tampa Bay,Rays,6,0,
+11211,Quinn,Roman,Roman Quinn,24,CF,"5'10""",170,1993-05-14,23,"Port St Joe, FL",USA,N,129,PHI,Philadelphia,Phillies,16,0,
+10429,Quintana,Jose,Jose Quintana,62,P,"6'1""",220,1989-01-24,28,Arjona,Colombia,N,119,CWS,Chicago,White Sox,62,0,22
+10545,Ramirez,JC,JC Ramirez,66,P,"6'4""",250,1988-08-16,28,Managua,Nicaragua,N,124,LAA,Los Angeles,Angels,70,0,12
+10225,Ramirez,Jose,Jose Ramirez,40,P,"6'1""",215,1990-01-21,27,Yaguate,DominicanRepublic,N,130,ATL,Atlanta,Braves,33,0,2
+11490,Ramirez,Neil,Neil Ramirez,38,P,"6'4""",215,1989-05-25,27,"Virginia Beach, VA",USA,N,120,MIN,Minnesota,Twins,18,0,8
+10290,Ramirez,Noe,Noe Ramirez,66,P,"6'3""",205,1989-12-22,27,"Los Angeles, CA",USA,N,113,BOS,Boston,Red Sox,14,0,4
+11200,Ramos,A.J.,A.J. Ramos,44,P,"5'10""",200,1986-09-20,30,"Lubbock, TX",USA,N,128,MIA,Miami,Marlins,67,0,1
+11528,Ramos,Cesar,Cesar Ramos,28,P,"6'2""",200,1984-06-22,32,"Los Angeles, CA",USA,N,121,TEX,Texas,Rangers,20,0,12
+10780,Ramos,Edubray,Edubray Ramos,61,P,"6'0""",160,1992-12-19,24,Caracas,Venezuela,N,129,PHI,Philadelphia,Phillies,42,0,5
+11372,Rasmus,Cory,Cory Rasmus,46,P,"6'0""",200,1987-11-06,29,"Columbus, GA",USA,N,124,LAA,Los Angeles,Angels,20,0,4
+10577,Ravin,Josh,Josh Ravin,71,P,"6'4""",215,1988-01-21,29,"West Hills, CA",USA,N,137,LAD,Los Angeles,Dodgers,10,0,1
+10834,Rea,Colin,Colin Rea,29,P,"6'5""",225,1990-07-01,26,"Cascade, IA",USA,N,128,MIA,Miami,Marlins,39,0,12
+10686,Reed,Addison,Addison Reed,43,P,"6'4""",230,1988-12-27,28,"Montclair, CA",USA,N,127,NYM,New York,Mets,80,0,4
+10344,Reed,Cody,Cody Reed,44,P,"6'5""",225,1993-04-15,23,"Memphis, TN",USA,N,135,CIN,Cincinnati,Reds,20,0,12
+10646,Reed,Michael,Michael Reed,25,CF,"6'0""",215,1992-11-18,24,"Maplewood, MN",USA,N,134,MIL,Milwaukee,Brewers,13,0,
+10731,Refsnyder,Rob,Rob Refsnyder,38,3B,"6'0""",200,1991-03-26,26,Seoul,SouthKorea,N,114,NYY,New York,Yankees,76,0,
+10353,Renda,Tony,Tony Renda,49,2B,"5'8""",175,1991-01-24,26,"Santa Rosa, CA",USA,N,135,CIN,Cincinnati,Reds,35,0,
+10923,Reyes,Alex,Alex Reyes,61,P,"6'3""",175,1994-08-29,22,"Elizabeth, NJ",USA,N,133,STL,St. Louis,Cardinals,17,0,1
+11626,Reyes,Jo-Jo,Jo-Jo Reyes,43,P,"6'2""",230,1984-11-20,32,"West Covina, CA",USA,N,128,MIA,Miami,Marlins,1,0,0
+11680,Reynolds,Matt,Matt Reynolds,57,P,"6'5""",240,1984-10-02,32,"St. Charles, IL",USA,N,136,SF,San Francisco,Giants,8,0,0
+11498,Richard,Clayton,Clayton Richard,27,P,"6'5""",240,1983-09-12,33,"Lafayette, IN",USA,N,139,SD,San Diego,Padres,45,0,4
+10546,Richards,Garrett,Garrett Richards,43,P,"6'3""",210,1988-05-27,28,"Riverside, CA",USA,N,124,LAA,Los Angeles,Angels,13,0,2
+10642,Rivera,Yadiel,Yadiel Rivera,29,SS,"6'3""",185,1992-05-02,24,Caugas,PuertoRico,N,134,MIL,Milwaukee,Brewers,44,0,
+10801,Rivero,Felipe,Felipe Rivero,73,P,"6'2""",210,1991-07-05,25,San Felipe,Venezuela,N,132,PIT,Pittsburgh,Pirates,75,0,7
+11620,Roach,Donn,Donn Roach,,P,"6'0""",195,1989-12-14,27,"Las Vegas, NV",USA,N,123,SEA,Seattle,Mariners,4,0,1
+11040,Roark,Tanner,Tanner Roark,57,P,"6'2""",235,1986-10-05,30,"Wilmington, IL",USA,N,126,WAS,Washington,Nationals,65,0,17
+11636,Robertson,Daniel,Daniel Robertson,,LF,"5'8""",205,1985-09-30,31,"Fontana, CA",USA,N,123,SEA,Seattle,Mariners,11,0,
+11123,Robertson,David,David Robertson,30,P,"5'11""",195,1985-04-09,31,"Birmingham, AL",USA,N,119,CWS,Chicago,White Sox,62,0,3
+10492,Rodgers,Brady,Brady Rodgers,62,P,"6'2""",210,1990-09-17,26,"Richmond, TX",USA,N,122,HOU,Houston,Astros,5,0,0
+11429,Rodney,Fernando,Fernando Rodney,56,P,"5'11""",230,1977-03-18,40,Samana,DominicanRepublic,N,128,MIA,Miami,Marlins,67,0,5
+10431,Rodon,Carlos,Carlos Rodon,55,P,"6'3""",235,1992-12-10,24,"Miami, FL",USA,N,119,CWS,Chicago,White Sox,56,0,23
+10291,Rodriguez,Eduardo,Eduardo Rodriguez,52,P,"6'2""",220,1993-04-07,23,Valencia,Venezuela,N,113,BOS,Boston,Red Sox,39,0,16
+11384,Rodriguez,Fernando,Fernando Rodriguez,33,P,"6'3""",235,1984-06-18,32,"El Paso, TX",USA,N,125,OAK,Oakland,Athletics,34,0,3
+10456,Rodriguez,Francisco,Francisco Rodriguez,57,P,"6'0""",195,1982-01-07,35,Caracas,Venezuela,N,117,DET,Detroit,Tigers,61,0,6
+10781,Rodriguez,Joely,Joely Rodriguez,63,P,"6'1""",200,1991-11-14,25,Santo Domingo,DominicanRepublic,N,129,PHI,Philadelphia,Phillies,12,0,0
+10227,Roe,Chaz,Chaz Roe,50,P,"6'5""",190,1986-10-09,30,"Steubenville, OH",USA,N,130,ATL,Atlanta,Braves,30,0,2
+10816,Rogers,Jason,Jason Rogers,15,3B,"6'1""",260,1988-03-13,29,"East Point, GA",USA,N,132,PIT,Pittsburgh,Pirates,24,0,
+10662,Rogers,Taylor,Taylor Rogers,55,P,"6'3""",170,1990-12-17,26,"Littleton, CO",USA,N,120,MIN,Minnesota,Twins,57,0,7
+10864,Rollins,David,David Rollins,59,P,"6'1""",210,1989-12-21,27,"Deberry, TX",USA,N,123,SEA,Seattle,Mariners,11,0,2
+10954,Romero,Enny,Enny Romero,45,P,"6'3""",215,1991-01-24,26,Santo Domingo,DominicanRepublic,N,115,TB,Tampa Bay,Rays,52,0,7
+10877,Romero,Stefen,Stefen Romero,17,RF,"6'2""",220,1988-10-17,28,"Tucson, AZ",USA,N,123,SEA,Seattle,Mariners,11,0,
+11418,Romo,Sergio,Sergio Romo,54,P,"5'11""",185,1983-03-04,34,"Brawley, CA",USA,N,136,SF,San Francisco,Giants,40,0,5
+10457,Rondon,Bruce,Bruce Rondon,43,P,"6'3""",275,1990-12-09,26,Valencia,Venezuela,N,117,DET,Detroit,Tigers,37,0,5
+10320,Rondon,Hector,Hector Rondon,56,P,"6'3""",230,1988-02-26,29,Guatire,Venezuela,N,131,CHC,Chicago,Cubs,54,0,8
+11608,Rondon,Jorge,Jorge Rondon,57,P,"6'1""",215,1988-02-16,29,Calabozo,Venezuela,N,132,PIT,Pittsburgh,Pirates,2,0,1
+10844,Rondon,Jose,Jose Rondon,13,SS,"6'1""",195,1994-03-03,23,Villa de Cura,Venezuela,N,139,SD,San Diego,Padres,11,0,
+11642,Rosario,Alberto,Alberto Rosario,68,C,"5'10""",190,1987-01-10,30,Bonao,DominicanRepublic,N,133,STL,St. Louis,Cardinals,26,0,
+10924,Rosenthal,Trevor,Trevor Rosenthal,44,P,"6'2""",230,1990-05-29,26,"Lee's Summit, MO",USA,N,133,STL,St. Louis,Cardinals,45,0,3
+11041,Ross,Joe,Joe Ross,41,P,"6'4""",225,1993-05-21,23,"Berkeley, CA",USA,N,126,WAS,Washington,Nationals,42,0,9
+10835,Ross,Tyson,Tyson Ross,38,P,"6'6""",245,1987-04-22,29,"Berkeley, CA",USA,N,139,SD,San Diego,Padres,2,0,0
+11059,Ross Jr.,Robbie,Robbie Ross Jr.,28,P,"5'11""",215,1989-06-24,27,"Lexington, KY",USA,N,113,BOS,Boston,Red Sox,54,0,2
+11631,Roth,Michael,Michael Roth,53,P,"6'1""",210,1990-02-15,27,"Greenville, SC",USA,N,121,TEX,Texas,Rangers,1,0,3
+11685,Rowen,Ben,Ben Rowen,,P,"6'4""",200,1988-11-15,28,"Ranchos Palos Verdes, CA",USA,N,134,MIL,Milwaukee,Brewers,4,0,0
+10240,Ruiz,Rio,Rio Ruiz,32,3B,"6'1""",230,1994-05-22,22,"Covina, CA",USA,N,130,ATL,Atlanta,Braves,6,0,
+10404,Rusin,Chris,Chris Rusin,52,P,"6'2""",195,1986-10-22,30,"Detroit, MI",USA,N,138,COL,Colorado,Rockies,36,0,5
+11341,Russell,James,James Russell,40,P,"6'4""",205,1986-01-08,31,"Cincinnati, OH",USA,N,129,PHI,Philadelphia,Phillies,7,0,2
+11514,Rutledge,Josh,Josh Rutledge,32,3B,"6'1""",190,1989-04-21,27,"Birmingham, AL",USA,N,113,BOS,Boston,Red Sox,28,0,
+11560,Ryan,Brendan,Brendan Ryan,23,SS,"6'1""",190,1982-03-26,35,"Los Angeles, CA",USA,N,124,LAA,Los Angeles,Angels,17,0,
+10458,Ryan,Kyle,Kyle Ryan,56,P,"6'5""",215,1991-09-25,25,"Auburndale, FL",USA,N,117,DET,Detroit,Tigers,55,0,2
+10578,Ryu,Hyun-Jin,Hyun-Jin Ryu,99,P,"6'3""",250,1987-03-25,30,Incheon,SouthKorea,N,137,LAD,Los Angeles,Dodgers,2,0,1
+11428,Rzepczynski,Marc,Marc Rzepczynski,23,P,"6'2""",220,1985-08-29,31,"Oak Lawn, IL",USA,N,126,WAS,Washington,Nationals,70,0,1
+10719,Sabathia,CC,CC Sabathia,52,P,"6'6""",300,1980-07-21,36,"Vallejo, CA",USA,N,114,NYY,New York,Yankees,60,0,22
+11373,Salas,Fernando,Fernando Salas,59,P,"6'2""",200,1985-05-30,31,"Huatabampo, Sonora",Mexico,N,127,NYM,New York,Mets,75,0,12
+10377,Salazar,Danny,Danny Salazar,31,P,"6'0""",195,1990-01-11,27,Santo Domingo,DominicanRepublic,N,116,CLE,Cleveland,Indians,50,0,16
+10432,Sale,Chris,Chris Sale,49,P,"6'6""",180,1989-03-30,27,"Lakeland, FL",USA,N,119,CWS,Chicago,White Sox,64,0,27
+10894,Samardzija,Jeff,Jeff Samardzija,29,P,"6'5""",225,1985-01-23,32,"Merriville, IN",USA,N,136,SF,San Francisco,Giants,66,0,24
+10346,Sampson,Keyvius,Keyvius Sampson,48,P,"6'2""",225,1991-01-06,26,"Gainesville, FL",USA,N,135,CIN,Cincinnati,Reds,20,0,9
+11014,Sanchez,Aaron,Aaron Sanchez,41,P,"6'4""",220,1992-01-07,25,"Barstow, CA",USA,N,112,TOR,Toronto,Blue Jays,59,0,15
+10459,Sanchez,Anibal,Anibal Sanchez,19,P,"6'0""",205,1984-02-27,33,Maracay,Venezuela,N,117,DET,Detroit,Tigers,59,0,29
+11441,Sandoval,Pablo,Pablo Sandoval,48,3B,"5'11""",255,1986-08-11,30,Puerto Cabello,Venezuela,N,113,BOS,Boston,Red Sox,3,0,
+10664,Santana,Ervin,Ervin Santana,54,P,"6'2""",175,1982-12-12,34,San Cristobal,DominicanRepublic,N,120,MIN,Minnesota,Twins,61,0,19
+10665,Santiago,Hector,Hector Santiago,66,P,"6'0""",215,1987-12-16,29,"Newark, NJ",USA,N,120,MIN,Minnesota,Twins,66,0,33
+10460,Saupold,Warwick,Warwick Saupold,53,P,"6'1""",195,1990-01-16,27,Perth,Australia,N,117,DET,Detroit,Tigers,6,0,0
+10633,Scahill,Rob,Rob Scahill,58,P,"6'2""",220,1987-02-15,30,"Winfield, IL",USA,N,134,MIL,Milwaukee,Brewers,31,0,2
+11679,Schafer,Logan,Logan Schafer,,RF,"6'1""",200,1986-09-08,30,"San Jose, CA",USA,N,120,MIN,Minnesota,Twins,33,0,
+10993,Scheppers,Tanner,Tanner Scheppers,52,P,"6'4""",200,1987-01-17,30,"Mission Viejo, CA",USA,N,121,TEX,Texas,Rangers,10,0,0
+11042,Scherzer,Max,Max Scherzer,31,P,"6'3""",210,1984-07-27,32,"St. Louis, MO",USA,N,126,WAS,Washington,Nationals,66,0,31
+10802,Schugel,A.J.,A.J. Schugel,31,P,"6'0""",200,1989-06-27,27,"Winter Haven, FL",USA,N,132,PIT,Pittsburgh,Pirates,36,0,4
+11015,Schultz,Bo,Bo Schultz,47,P,"6'3""",230,1987-01-09,30,"Dallas, TX",USA,N,112,TOR,Toronto,Blue Jays,16,0,3
+11635,Schuster,Patrick,Patrick Schuster,,P,"6'2""",190,1990-10-30,26,"New Port Richey, FL",USA,N,129,PHI,Philadelphia,Phillies,11,0,1
+10331,Schwarber,Kyle,Kyle Schwarber,12,LF,"6'0""",235,1993-03-05,24,"Middletown, OH",USA,N,131,CHC,Chicago,Cubs,4,0,
+10865,Scribner,Evan,Evan Scribner,58,P,"6'3""",190,1985-07-19,31,"New Milford, CT",USA,N,123,SEA,Seattle,Mariners,12,0,0
+10720,Severino,Luis,Luis Severino,40,P,"6'2""",215,1994-02-20,23,Sabana de la Mar,DominicanRepublic,N,114,NYY,New York,Yankees,33,0,11
+10433,Shields,James,James Shields,25,P,"6'3""",215,1981-12-20,35,"Newhall, CA",USA,N,119,CWS,Chicago,White Sox,65,0,40
+10197,Shipley,Braden,Braden Shipley,35,P,"6'1""",190,1992-02-22,25,"Medford, OR",USA,N,140,ARI,Arizona,Diamondbacks,25,0,14
+10547,Shoemaker,Matt,Matt Shoemaker,52,P,"6'2""",225,1986-09-27,30,"Wyandotte, MI",USA,N,124,LAA,Los Angeles,Angels,54,0,18
+10721,Shreve,Chasen,Chasen Shreve,45,P,"6'4""",195,1990-07-12,26,"Las Vegas, NV",USA,N,114,NYY,New York,Yankees,37,0,8
+10925,Siegrist,Kevin,Kevin Siegrist,46,P,"6'5""",230,1989-07-20,27,"Buffalo, NY",USA,N,133,STL,St. Louis,Cardinals,67,0,10
+11478,Simon,Alfredo,Alfredo Simon,31,P,"6'6""",265,1981-05-08,35,Santiago,DominicanRepublic,N,135,CIN,Cincinnati,Reds,26,0,15
+10493,Sipp,Tony,Tony Sipp,29,P,"6'0""",190,1983-07-12,33,"Pascagoula, MS",USA,N,122,HOU,Houston,Astros,60,0,12
+10548,Skaggs,Tyler,Tyler Skaggs,45,P,"6'4""",215,1991-07-13,25,"Woodland Hills, CA",USA,N,124,LAA,Los Angeles,Angels,19,0,5
+10434,Smith,Blake,Blake Smith,68,P,"6'2""",220,1987-12-09,29,"Modesto, CA",USA,N,119,CWS,Chicago,White Sox,5,0,1
+10292,Smith,Carson,Carson Smith,39,P,"6'6""",215,1989-10-19,27,"Midland, TX",USA,N,113,BOS,Boston,Red Sox,3,0,0
+10749,Smith,Chris,Chris Smith,56,P,"6'0""",190,1981-04-08,35,"Apple Valley, CA",USA,N,125,OAK,Oakland,Athletics,13,0,2
+11687,Smith,Jake,Jake Smith,64,P,"6'4""",190,1990-06-02,26,"North Augusta, SC",USA,N,139,SD,San Diego,Padres,4,0,1
+11425,Smith,Joe,Joe Smith,30,P,"6'2""",205,1984-03-22,33,"Cincinnati, OH",USA,N,131,CHC,Chicago,Cubs,54,0,8
+10436,Smith,Kevan,Kevan Smith,61,C,"6'4""",230,1988-06-28,28,"Pittsburgh, PA",USA,N,119,CWS,Chicago,White Sox,9,0,
+10895,Smith,Will,Will Smith,13,P,"6'5""",265,1989-07-10,27,"Newnan, GA",USA,N,136,SF,San Francisco,Giants,53,0,3
+10687,Smoker,Josh,Josh Smoker,58,P,"6'2""",250,1988-11-26,28,"Calhoun, GA",USA,N,127,NYM,New York,Mets,20,0,4
+10955,Smyly,Drew,Drew Smyly,33,P,"6'3""",190,1989-06-13,27,"Little Rock, AR",USA,N,115,TB,Tampa Bay,Rays,61,0,32
+10956,Snell,Blake,Blake Snell,4,P,"6'4""",180,1992-12-04,24,"Seattle, WA",USA,N,115,TB,Tampa Bay,Rays,38,0,5
+10926,Socolovich,Miguel,Miguel Socolovich,63,P,"6'1""",205,1986-07-24,30,Caracas,Venezuela,N,133,STL,St. Louis,Cardinals,15,0,2
+11043,Solis,Sammy,Sammy Solis,36,P,"6'5""",250,1988-08-10,28,"Minneapolis, MN",USA,N,126,WAS,Washington,Nationals,37,0,1
+11565,Somsen,Layne,Layne Somsen,,P,"6'0""",190,1989-06-05,27,"Yankton, SD",USA,N,135,CIN,Cincinnati,Reds,2,0,2
+10519,Soria,Joakim,Joakim Soria,48,P,"6'3""",200,1984-05-18,32,"Monclova, Coahulia",Mexico,N,118,KC,Kansas City,Royals,70,0,10
+11609,Stallings,Jacob,Jacob Stallings,58,C,"6'5""",220,1989-12-22,27,"Lawrence, KS",USA,N,132,PIT,Pittsburgh,Pirates,8,0,
+11161,Stassi,Max,Max Stassi,12,C,"5'10""",200,1991-03-15,26,"Woodland, CA",USA,N,122,HOU,Houston,Astros,10,0,
+10347,Stephenson,Robert,Robert Stephenson,55,P,"6'2""",200,1993-02-24,24,"Martinez, CA",USA,N,135,CIN,Cincinnati,Reds,16,0,9
+10579,Stewart,Brock,Brock Stewart,48,P,"6'3""",210,1991-10-03,25,"Normal, IL",USA,N,137,LAD,Los Angeles,Dodgers,12,0,7
+11369,Storen,Drew,Drew Storen,45,P,"6'1""",195,1987-08-11,29,"Indianapolis, IN",USA,N,123,SEA,Seattle,Mariners,57,0,7
+10520,Strahm,Matt,Matt Strahm,64,P,"6'3""",185,1991-11-12,25,"West Fargo, ND",USA,N,118,KC,Kansas City,Royals,21,0,0
+10348,Straily,Dan,Dan Straily,58,P,"6'2""",220,1988-12-01,28,"Redlands, CA",USA,N,135,CIN,Cincinnati,Reds,65,0,31
+11044,Strasburg,Stephen,Stephen Strasburg,37,P,"6'4""",235,1988-07-20,28,"San Diego, CA",USA,N,126,WAS,Washington,Nationals,48,0,15
+10896,Stratton,Chris,Chris Stratton,68,P,"6'3""",190,1990-08-22,26,"Tupelo, MS",USA,N,136,SF,San Francisco,Giants,7,0,1
+10549,Street,Huston,Huston Street,16,P,"6'0""",205,1983-08-02,33,"Austin, TX",USA,N,124,LAA,Los Angeles,Angels,26,0,5
+10897,Strickland,Hunter,Hunter Strickland,60,P,"6'4""",220,1988-09-24,28,"Thomaston, GA",USA,N,136,SF,San Francisco,Giants,72,0,4
+10580,Stripling,Ross,Ross Stripling,68,P,"6'3""",210,1989-11-23,27,"Bluebell, PA",USA,N,137,LAD,Los Angeles,Dodgers,36,0,10
+11017,Stroman,Marcus,Marcus Stroman,6,P,"5'8""",180,1991-01-05,26,"Medford, NY",USA,N,112,TOR,Toronto,Blue Jays,64,0,21
+10322,Strop,Pedro,Pedro Strop,46,P,"6'1""",220,1985-06-13,31,San Cristobal,DominicanRepublic,N,131,CHC,Chicago,Cubs,55,0,4
+11461,Stumpf,Daniel,Daniel Stumpf,53,P,"6'2""",200,1991-01-04,26,"Humble, TX",USA,N,129,PHI,Philadelphia,Phillies,7,0,1
+11575,Sturdevant,Tyler,Tyler Sturdevant,,P,"6'0""",185,1985-12-20,31,"Littleton, CO",USA,N,115,TB,Tampa Bay,Rays,16,0,1
+10898,Suarez,Albert,Albert Suarez,56,P,"6'3""",235,1989-10-08,27,San Felix,Venezuela,N,136,SF,San Francisco,Giants,33,0,11
+11482,Surkamp,Eric,Eric Surkamp,,P,"6'5""",220,1987-07-16,29,"Cincinnati, OH",USA,N,125,OAK,Oakland,Athletics,19,0,8
+10634,Suter,Brent,Brent Suter,35,P,"6'5""",195,1989-08-29,27,"Chicago, IL",USA,N,134,MIL,Milwaukee,Brewers,16,0,3
+11594,Swarzak,Anthony,Anthony Swarzak,41,P,"6'4""",215,1985-09-10,31,"Fort Lauderdale, FL",USA,N,114,NYY,New York,Yankees,26,0,10
+11067,Swihart,Blake,Blake Swihart,23,LF,"6'1""",200,1992-04-03,24,"Bedford, TX",USA,N,113,BOS,Boston,Red Sox,57,0,
+10803,Taillon,Jameson,Jameson Taillon,50,P,"6'5""",220,1991-11-18,25,"Lakeland, FL",USA,N,132,PIT,Pittsburgh,Pirates,35,0,13
+10722,Tanaka,Masahiro,Masahiro Tanaka,19,P,"6'3""",215,1988-11-01,28,Itama,Japan,N,114,NYY,New York,Yankees,62,0,22
+10416,Tapia,Raimel,Raimel Tapia,68,CF,"6'2""",160,1994-02-04,23,San Pedro de Macoris,DominicanRepublic,N,138,COL,Colorado,Rockies,22,0,
+11401,Tazawa,Junichi,Junichi Tazawa,36,P,"5'11""",200,1986-06-06,30,Yokohama,Japan,N,113,BOS,Boston,Red Sox,53,0,9
+10228,Teheran,Julio,Julio Teheran,49,P,"6'2""",205,1991-01-27,26,Cartagena,Colombia,N,130,ATL,Atlanta,Braves,60,0,22
+11516,Tejada,Ruben,Ruben Tejada,17,SS,"5'11""",200,1989-10-27,27,Veraguas,Panama,N,136,SF,San Francisco,Giants,39,0,
+11018,Tepera,Ryan,Ryan Tepera,52,P,"6'2""",195,1987-03-11,30,"Houston, TX",USA,N,112,TOR,Toronto,Blue Jays,20,0,1
+11618,Tepesch,Nick,Nick Tepesch,,P,"6'4""",240,1988-10-11,28,"Kansas City, MO",USA,N,137,LAD,Los Angeles,Dodgers,2,0,1
+10782,Thompson,Jake,Jake Thompson,44,P,"6'4""",235,1994-01-31,23,"Dallas, TX",USA,N,129,PHI,Philadelphia,Phillies,20,0,10
+11242,Thornburg,Tyler,Tyler Thornburg,37,P,"5'11""",190,1988-09-29,28,"Houston, TX",USA,N,134,MIL,Milwaukee,Brewers,68,0,6
+11581,Thornton,Matt,Matt Thornton,46,P,"6'6""",235,1976-09-15,40,"Three Rivers, MI",USA,N,139,SD,San Diego,Padres,18,0,2
+10259,Tillman,Chris,Chris Tillman,30,P,"6'5""",200,1988-04-15,28,"Anaheim, CA",USA,N,111,BAL,Baltimore,Orioles,49,0,19
+11132,Tilson,Charles,Charles Tilson,24,CF,"5'11""",195,1992-12-02,24,"Wilmette, IL",USA,N,119,CWS,Chicago,White Sox,2,0,
+11338,Tolleson,Shawn,Shawn Tolleson,37,P,"6'2""",225,1988-01-19,29,"Dallas, TX",USA,N,121,TEX,Texas,Rangers,37,0,8
+11170,Tolliver,Ashur,Ashur Tolliver,,P,"6'0""",170,1988-01-24,29,"Little Rock, AR",USA,N,111,BAL,Baltimore,Orioles,5,0,1
+10378,Tomlin,Josh,Josh Tomlin,43,P,"6'1""",190,1984-10-19,32,"Tyler, TX",USA,N,116,CLE,Cleveland,Indians,59,0,36
+10906,Tomlinson,Kelby,Kelby Tomlinson,37,2B,"6'3""",180,1990-06-16,26,"Chickasha, OK",USA,N,136,SF,San Francisco,Giants,62,0,
+10666,Tonkin,Michael,Michael Tonkin,59,P,"6'7""",220,1989-11-19,27,"Glendale, CA",USA,N,120,MIN,Minnesota,Twins,65,0,13
+10635,Torres,Carlos,Carlos Torres,59,P,"6'1""",180,1982-10-22,34,"Santa Cruz, CA",USA,N,134,MIL,Milwaukee,Brewers,72,0,8
+10836,Torres,Jose,Jose Torres,76,P,"6'2""",175,1993-09-24,23,Caracas,Venezuela,N,139,SD,San Diego,Padres,4,0,0
+11045,Treinen,Blake,Blake Treinen,45,P,"6'5""",225,1988-06-30,28,"Wichita, KS",USA,N,126,WAS,Washington,Nationals,73,0,5
+10750,Triggs,Andrew,Andrew Triggs,60,P,"6'4""",220,1989-03-16,28,"Nashville, TN",USA,N,125,OAK,Oakland,Athletics,31,0,5
+10550,Tropeano,Nick,Nick Tropeano,35,P,"6'4""",200,1990-08-27,26,"West Islip, NY",USA,N,124,LAA,Los Angeles,Angels,27,0,14
+11571,Tsao,Chin-hui,Chin-hui Tsao,59,P,"6'1""",210,1981-06-02,35,Hua-Lien,Taiwan,N,137,LAD,Los Angeles,Dodgers,2,0,0
+11544,Tuiasosopo,Matt,Matt Tuiasosopo,30,LF,"6'2""",235,1986-05-10,30,"Bellevue, WA",USA,N,130,ATL,Atlanta,Braves,3,0,
+10927,Tuivailala,Sam,Sam Tuivailala,64,P,"6'3""",225,1992-10-19,24,"San Mateo, CA",USA,N,133,STL,St. Louis,Cardinals,12,0,0
+11646,Turner,Jacob,Jacob Turner,,P,"6'5""",215,1991-05-21,25,"St. Charles, MO",USA,N,119,CWS,Chicago,White Sox,20,0,5
+11400,Uehara,Koji,Koji Uehara,19,P,"6'2""",195,1975-04-03,41,Osaka,Japan,N,113,BOS,Boston,Red Sox,50,0,8
+10607,Urena,Jose,Jose Urena,62,P,"6'2""",200,1991-09-12,25,Santo Domingo,DominicanRepublic,N,128,MIA,Miami,Marlins,41,0,11
+10581,Urias,Julio,Julio Urias,7,P,"6'0""",215,1996-08-12,20,Sinaloa,Mexico,N,137,LAD,Los Angeles,Dodgers,34,0,5
+10551,Valdez,Jose,Jose Valdez,32,P,"6'1""",200,1990-03-01,27,Don Gregorio de Nizao,DominicanRepublic,N,124,LAA,Los Angeles,Angels,25,0,4
+10837,Vargas,Cesar,Cesar Vargas,49,P,"6'2""",220,1991-12-30,25,Puebla,Mexico,N,139,SD,San Diego,Padres,14,0,5
+10521,Vargas,Jason,Jason Vargas,51,P,"6'0""",215,1983-02-02,34,"Apple Valley, CA",USA,N,118,KC,Kansas City,Royals,6,0,1
+10783,Velasquez,Vince,Vince Velasquez,28,P,"6'3""",205,1992-06-07,24,"Montclair, CA",USA,N,129,PHI,Philadelphia,Phillies,47,0,21
+11602,Venable,Will,Will Venable,25,CF,"6'3""",205,1982-10-29,34,"Greenbrae, CA",USA,N,137,LAD,Los Angeles,Dodgers,12,0,
+11152,Venditte,Pat,Pat Venditte,61,P,"6'1""",185,1985-06-30,31,"Omaha, NE",USA,N,123,SEA,Seattle,Mariners,15,0,5
+10522,Ventura,Yordano,Yordano Ventura,30,P,"6'0""",195,1991-06-03,25,Samana,DominicanRepublic,N,118,KC,Kansas City,Royals,64,0,23
+10461,VerHagen,Drew,Drew VerHagen,54,P,"6'6""",230,1990-10-22,26,"Royse City, TX",USA,N,117,DET,Detroit,Tigers,19,0,3
+10462,Verlander,Justin,Justin Verlander,35,P,"6'5""",225,1983-02-20,34,"Manakin-Sabot, VA",USA,N,117,DET,Detroit,Tigers,66,0,30
+10689,Verrett,Logan,Logan Verrett,35,P,"6'2""",190,1990-06-19,26,"The Woodlands, TX",USA,N,127,NYM,New York,Mets,47,0,16
+11455,Villanueva,Carlos,Carlos Villanueva,23,P,"6'2""",220,1983-11-28,33,Santiago,DominicanRepublic,N,139,SD,San Diego,Padres,51,0,17
+10866,Vincent,Nick,Nick Vincent,50,P,"6'0""",185,1986-07-12,30,"Porway, CA",USA,N,123,SEA,Seattle,Mariners,60,0,11
+10229,Vizcaino,Arodys,Arodys Vizcaino,38,P,"6'0""",230,1990-11-13,26,Yaguate,DominicanRepublic,N,130,ATL,Atlanta,Braves,43,0,3
+10875,Vogelbach,Daniel,Daniel Vogelbach,20,1B,"6'0""",250,1992-12-17,24,"Orlando, FL",USA,N,123,SEA,Seattle,Mariners,9,0,
+11476,Vogelsong,Ryan,Ryan Vogelsong,14,P,"6'4""",215,1977-07-22,39,"Charlotte, NC",USA,N,132,PIT,Pittsburgh,Pirates,36,0,11
+11316,Volquez,Edinson,Edinson Volquez,36,P,"6'0""",220,1983-07-03,33,Barahona,DominicanRepublic,N,118,KC,Kansas City,Royals,68,0,23
+10928,Wacha,Michael,Michael Wacha,52,P,"6'6""",215,1991-07-01,25,"Iowa City, IA",USA,N,133,STL,St. Louis,Cardinals,52,0,15
+10198,Wagner,Tyler,Tyler Wagner,34,P,"6'3""",205,1991-01-24,26,"Las Vegas, NV",USA,N,140,ARI,Arizona,Diamondbacks,3,0,0
+11589,Waldrop,Kyle,Kyle Waldrop,30,RF,"6'2""",215,1991-11-26,25,"Fort Myers, FL",USA,N,135,CIN,Cincinnati,Reds,17,0,
+10673,Walker,Adam,Adam Walker,73,LF,"6'5""",225,1991-10-18,25,"Milwaukee, WI",USA,N,120,MIN,Minnesota,Twins,1,0,
+10867,Walker,Taijuan,Taijuan Walker,44,P,"6'4""",235,1992-08-13,24,"Shreveport, LA",USA,N,123,SEA,Seattle,Mariners,50,0,27
+11326,Walsh,Colin,Colin Walsh,5,LF,"6'1""",200,1989-09-26,27,"San Diego, CA",USA,N,134,MIL,Milwaukee,Brewers,40,0,
+11645,Walters,Zach,Zach Walters,48,LF,"6'2""",210,1989-09-05,27,"Cheyenne, WY",USA,N,137,LAD,Los Angeles,Dodgers,4,0,
+11486,Wang,Chien-Ming,Chien-Ming Wang,67,P,"6'4""",225,1980-03-31,36,Tainan City,Taiwan,N,118,KC,Kansas City,Royals,38,0,6
+10723,Warren,Adam,Adam Warren,43,P,"6'1""",225,1987-08-25,29,"Birmingham, AL",USA,N,114,NYY,New York,Yankees,59,0,11
+10804,Watson,Tony,Tony Watson,44,P,"6'4""",225,1985-05-30,31,"Sioux City, IA",USA,N,132,PIT,Pittsburgh,Pirates,70,0,10
+11506,Weaver,Jered,Jered Weaver,36,P,"6'7""",210,1982-10-04,34,"Northridge, CA",USA,N,124,LAA,Los Angeles,Angels,61,0,37
+10930,Weaver,Luke,Luke Weaver,62,P,"6'2""",170,1993-08-21,23,"DeLand, FL",USA,N,133,STL,St. Louis,Cardinals,17,0,7
+11534,Webb,Daniel,Daniel Webb,40,P,"6'3""",215,1989-08-18,27,"Paducah, KY",USA,N,119,CWS,Chicago,White Sox,1,0,0
+11301,Webb,Ryan,Ryan Webb,40,P,"6'6""",245,1986-02-05,31,"Clearwater, FL",USA,N,115,TB,Tampa Bay,Rays,18,0,2
+11153,Weber,Ryan,Ryan Weber,,P,"6'1""",180,1990-08-12,26,"St. Petersburg, FL",USA,N,130,ATL,Atlanta,Braves,18,0,7
+11519,Weeks,Jemile,Jemile Weeks,8,2B,"5'9""",170,1987-01-26,30,"Orlando, FL",USA,N,139,SD,San Diego,Padres,18,0,
+11557,Wendelken,J.B.,J.B. Wendelken,64,P,"6'0""",220,1993-03-24,24,"Savannah, GA",USA,N,125,OAK,Oakland,Athletics,8,0,3
+10230,Whalen,Rob,Rob Whalen,63,P,"6'2""",220,1994-01-31,23,"Stroudsburg, PA",USA,N,130,ATL,Atlanta,Braves,10,0,4
+10957,Whitley,Chase,Chase Whitley,47,P,"6'3""",215,1989-06-14,27,"Ranburne, AL",USA,N,115,TB,Tampa Bay,Rays,5,0,2
+11668,Wieland,Joe,Joe Wieland,,P,"6'2""",205,1990-01-21,27,"Reno, NV",USA,N,123,SEA,Seattle,Mariners,2,0,1
+10868,Wilhelmsen,Tom,Tom Wilhelmsen,54,P,"6'6""",220,1983-12-16,33,"Tucson, AZ",USA,N,123,SEA,Seattle,Mariners,50,0,11
+11654,Williams,Jerome,Jerome Williams,38,P,"6'3""",260,1981-12-04,35,"Honolulu, HI",USA,N,133,STL,St. Louis,Cardinals,11,0,4
+10735,Williams,Mason,Mason Williams,66,CF,"6'1""",185,1991-08-21,25,"Pawtucket, RI",USA,N,114,NYY,New York,Yankees,15,0,
+10805,Williams,Trevor,Trevor Williams,57,P,"6'3""",230,1992-04-25,24,"San Diego, CA",USA,N,132,PIT,Pittsburgh,Pirates,8,0,4
+10463,Wilson,Alex,Alex Wilson,30,P,"6'0""",215,1986-11-03,30,Dhahran,SaudiArabia,N,117,DET,Detroit,Tigers,63,0,5
+10464,Wilson,Justin,Justin Wilson,38,P,"6'2""",205,1987-08-18,29,"Anaheim, CA",USA,N,117,DET,Detroit,Tigers,67,0,6
+10260,Wilson,Tyler,Tyler Wilson,63,P,"6'2""",185,1989-09-25,27,"Lynchburg, VA",USA,N,111,BAL,Baltimore,Orioles,70,0,15
+11677,Wimmers,Alex,Alex Wimmers,51,P,"6'2""",215,1988-11-01,28,"Cincinnati, OH",USA,N,120,MIN,Minnesota,Twins,16,0,2
+10231,Winkler,Daniel,Daniel Winkler,58,P,"6'3""",205,1990-02-02,27,"Effingham, IL",USA,N,130,ATL,Atlanta,Braves,3,0,0
+10232,Wisler,Matt,Matt Wisler,37,P,"6'3""",205,1992-09-12,24,"Bryan, OH",USA,N,130,ATL,Atlanta,Braves,55,0,26
+10233,Withrow,Chris,Chris Withrow,51,P,"6'3""",240,1989-04-01,27,"Austin, TX",USA,N,130,ATL,Atlanta,Braves,46,0,5
+10608,Wittgren,Nick,Nick Wittgren,64,P,"6'2""",210,1991-05-29,25,"Torrance, CA",USA,N,128,MIA,Miami,Marlins,48,0,6
+10582,Wood,Alex,Alex Wood,57,P,"6'4""",215,1991-01-12,26,"Charlotte, NC",USA,N,137,LAD,Los Angeles,Dodgers,25,0,5
+10349,Wood,Blake,Blake Wood,36,P,"6'5""",240,1985-08-08,31,"Atlanta, GA",USA,N,135,CIN,Cincinnati,Reds,70,0,9
+11371,Wood,Travis,Travis Wood,37,P,"5'11""",175,1987-02-06,30,"Little Rock, AR",USA,N,131,CHC,Chicago,Cubs,81,0,8
+10261,Worley,Vance,Vance Worley,48,P,"6'2""",250,1987-09-25,29,"Sacramento, CA",USA,N,111,BAL,Baltimore,Orioles,37,0,11
+11599,Worth,Danny,Danny Worth,26,2B,"6'1""",195,1985-09-30,31,"Northridge, CA",USA,N,122,HOU,Houston,Astros,19,0,
+10552,Wright,Daniel,Daniel Wright,62,P,"6'2""",205,1991-04-03,25,"Bartlett, TN",USA,N,124,LAA,Los Angeles,Angels,17,0,7
+10262,Wright,Mike,Mike Wright,59,P,"6'6""",215,1990-01-03,27,"Bennettsville, SC",USA,N,111,BAL,Baltimore,Orioles,22,0,12
+10294,Wright,Steven,Steven Wright,35,P,"6'2""",215,1984-08-30,32,"Torrance, CA",USA,N,113,BOS,Boston,Red Sox,80,0,12
+10691,Ynoa,Gabriel,Gabriel Ynoa,63,P,"6'2""",205,1993-05-26,23,La Vega,DominicanRepublic,N,127,NYM,New York,Mets,12,0,0
+10435,Ynoa,Michael,Michael Ynoa,66,P,"6'7""",210,1991-09-24,25,Puerto Plata,DominicanRepublic,N,119,CWS,Chicago,White Sox,23,0,0
+11662,Ynoa,Rafael,Rafael Ynoa,43,LF,"6'0""",190,1987-08-07,29,Santiago,DominicanRepublic,N,138,COL,Colorado,Rockies,3,0,
+11115,Young,Chris,Chris Young,32,P,"6'10""",255,1979-05-25,37,"Dallas, TX",USA,N,118,KC,Kansas City,Royals,47,0,28
+11665,Younginer,Madison,Madison Younginer,,P,"6'4""",205,1990-11-03,26,"Augusta, GA",USA,N,130,ATL,Atlanta,Braves,8,0,0
+11681,Young Jr.,Eric,Eric Young Jr.,48,LF,"5'10""",195,1985-05-25,31,"New Brunswick, NJ",USA,N,114,NYY,New York,Yankees,5,0,
+10323,Zastryzny,Rob,Rob Zastryzny,29,P,"6'3""",205,1992-03-26,25,"Corpus Christi, TX",USA,N,131,CHC,Chicago,Cubs,9,0,0
+11436,Ziegler,Brad,Brad Ziegler,29,P,"6'4""",220,1979-10-10,37,"Pratt, KS",USA,N,113,BOS,Boston,Red Sox,69,0,2
+10465,Zimmermann,Jordan,Jordan Zimmermann,27,P,"6'2""",225,1986-05-23,30,"Auburndale, WI",USA,N,117,DET,Detroit,Tigers,37,0,14
+10869,Zych,Tony,Tony Zych,55,P,"6'3""",190,1990-08-07,26,"Monee, IL",USA,N,123,SEA,Seattle,Mariners,12,0,0
+11099,Adams,Austin,Austin Adams,49,C,"5'11""",200,1986-08-19,30,"Montgomery, AL",USA,N,116,CLE,Cleveland,Indians,19,,
+11149,Altavilla,Dan,Dan Altavilla,53,C,"5'11""",200,1992-09-08,24,"McKeesport, PA",USA,N,123,SEA,Seattle,Mariners,15,,
+11166,Alvarez,Jose,Jose Alvarez,48,C,"5'11""",190,1989-05-06,27,Barcelona,Venezuela,N,124,LAA,Los Angeles,Angels,64,,
+11231,Bastardo,Antonio,Antonio Bastardo,59,C,"5'11""",205,1985-09-21,31,Hato Mayor,DominicanRepublic,N,132,PIT,Pittsburgh,Pirates,69,,
+11278,Baumann,Buddy,Buddy Baumann,77,C,"5'11""",195,1987-12-09,29,"Chicago, IL",USA,N,139,SD,San Diego,Padres,11,,
+11261,Baumgarner,Madison,Madison Baumgarner,40,C,"6'5""",250,1989-08-01,27,"Hickory, NC",USA,N,136,SF,San Francisco,Giants,1,,
+11068,Bundy,Dylan,Dylan Bundy,37,C,"6'1""",200,1992-11-15,24,"Tulsa, OK",USA,N,111,BAL,Baltimore,Orioles,50,,
+11167,Campos,Vicente,Vicente Campos,,C,"6'3""",230,1992-07-27,24,La Guaira,Venezuela,N,140,ARI,Arizona,Diamondbacks,1,,
+11133,Chargois,J.T.,J.T. Chargois,60,C,"6'3""",200,1990-12-03,26,"Sulphur, LA",USA,N,120,MIN,Minnesota,Twins,25,,
+11179,Cotton,Jharel,Jharel Cotton,45,C,"5'11""",195,1992-01-19,25,"St. Thomas, VI",USA,N,125,OAK,Oakland,Athletics,10,,
+11180,Coulombe,Daniel,Daniel Coulombe,57,C,"5'10""",190,1989-10-26,27,"St. Louis, MO",USA,N,125,OAK,Oakland,Athletics,35,,
+11168,De Los Santos,Abel,Abel De Los Santos,,C,"6'2""",195,1992-11-21,24,Puerto Plata,DominicanRepublic,N,135,CIN,Cincinnati,Reds,5,,
+11094,Garton,Ryan,Ryan Garton,52,C,"5'11""",185,1989-12-05,27,"Clearwater, FL",USA,N,115,TB,Tampa Bay,Rays,37,,
+11241,Goforth,David,David Goforth,32,C,"5'10""",205,1988-10-11,28,"Meridian, MS",USA,N,134,MIL,Milwaukee,Brewers,11,,
+11084,Goody,Nick,Nick Goody,64,C,"5'11""",195,1991-07-06,25,"Orlando, FL",USA,N,114,NYY,New York,Yankees,27,,
+11181,Gray,Sonny,Sonny Gray,54,C,"5'10""",190,1989-11-07,27,"Nashville, TN",USA,N,125,OAK,Oakland,Athletics,45,,
+11085,Green,Chad,Chad Green,,C,"6'3""",210,1991-05-24,25,"Greenville, SC",USA,N,114,NYY,New York,Yankees,20,,
+11199,Guerrero,Tayron,Tayron Guerrero,,C,"6'8""",210,1991-01-09,26,Bocachica,Colombia,N,139,SD,San Diego,Padres,1,,
+11069,Hart,Donnie,Donnie Hart,58,C,"5'11""",180,1990-09-06,26,"Bedford, TX",USA,N,111,BAL,Baltimore,Orioles,22,,
+11253,Jansen,Kenley,Kenley Jansen,74,C,"6'5""",270,1987-09-29,29,Willemstad,Curacao,N,137,LAD,Los Angeles,Dodgers,72,,
+11096,Lamb,John,John Lamb,,C,"6'4""",205,1990-07-10,26,"La Palma, CA",USA,N,135,CIN,Cincinnati,Reds,28,,
+11225,Leake,Mike,Mike Leake,8,C,"5'10""",170,1987-11-12,29,"San Diego, CA",USA,N,133,STL,St. Louis,Cardinals,66,,
+11271,Leone,Dominic,Dominic Leone,54,C,"5'11""",210,1991-10-26,25,"Norwich, CT",USA,N,140,ARI,Arizona,Diamondbacks,25,,
+11072,Loup,Aaron,Aaron Loup,62,C,"5'11""",210,1987-12-19,29,"Raceland, LA",USA,N,112,TOR,Toronto,Blue Jays,21,,
+11265,Ottavino,Adam,Adam Ottavino,,C,"6'5""",220,1985-11-22,31,"New York, NY",USA,N,138,COL,Colorado,Rockies,34,,
+11169,Parker,Blake,Blake Parker,,C,"6'3""",225,1985-06-19,31,"Fayetteville, AR",USA,N,114,NYY,New York,Yankees,17,,
+11097,Ramirez,Erasmo,Erasmo Ramirez,30,C,"5'11""",200,1990-05-02,26,Rivas,Nicaragua,N,115,TB,Tampa Bay,Rays,65,,
+11192,Robles,Hansel,Hansel Robles,47,C,"5'11""",185,1990-08-13,26,Bonao,DominicanRepublic,N,127,NYM,New York,Mets,68,,
+11141,Sampson,Adrian,Adrian Sampson,,C,"6'2""",210,1991-10-07,25,"Redmond, WA",USA,N,123,SEA,Seattle,Mariners,3,,
+11060,Scott,Robby,Robby Scott,72,C,"6'3""",220,1989-08-29,27,"Miami, FL",USA,N,113,BOS,Boston,Red Sox,7,,
+11100,Shaw,Bryan,Bryan Shaw,27,C,"6'1""",220,1987-11-08,29,"Livermore, CA",USA,N,116,CLE,Cleveland,Indians,75,,
+11214,Simmons,Shae,Shae Simmons,68,C,"5'11""",190,1990-09-03,26,"Cape Girardeau, MO",USA,N,130,ATL,Atlanta,Braves,7,,
+11183,Smith,Josh,Josh Smith,,C,"6'2""",220,1987-08-07,29,"Margate, FL",USA,N,135,CIN,Cincinnati,Reds,35,,
+11171,Yates,Kirby,Kirby Yates,,C,"5'10""",210,1987-03-25,30,"Lihue, HI",USA,N,114,NYY,New York,Yankees,41,,
