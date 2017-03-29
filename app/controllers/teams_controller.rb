@@ -65,29 +65,14 @@ class TeamsController < ApplicationController
 	end
 
 	def show
-	 @team = Team.find(params[:id]) if current_user
+	 @team = Team.find_by(params[:user_id]) if current_user
 	 @players = []
 	 @team_players = @team.team_players
 
 	 @team_players.each do |player_id|
-	 	player = Player.find_by(id: player_id)
+	  	player = Player.find_by(id: player_id)
 	 	@players << player
 	 end
-
-	 def team_total
-	 	@team = Team.find(params[:id]) if current_user
-	 	@team_runs = []
-	 	@team_players = @team.team_players
-
-	 	@team_players.each do |player_id|
-	 		player = Player.find_by(id: player_id)
-	 		@team_runs << player.home_runs
-	 	end
-
-	 end
-
-
-
 	end
 
 	def edit
