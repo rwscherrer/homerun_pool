@@ -5,7 +5,7 @@
 
   
   <% @teams.each do |team| %>
-    <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total: <%= team.score %> </h2>
+    <h2> <%= link_to(team.team_name.titleize, "/team/#{team.id}") %> Total: <%= @team_score %> </h2>
   <% end %>
 </div>
 <hr>
@@ -30,6 +30,7 @@
      <td><%= team.score %> </td>
      <td>
        <%= team.team_players %>
+
      </td>
    </tr>
  </tbody>

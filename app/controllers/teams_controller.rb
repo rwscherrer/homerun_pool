@@ -6,8 +6,9 @@ class TeamsController < ApplicationController
 	  @user = User.find(current_user.id)
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
+	  @teams_score = []
 
-	  
+
 	  def sort_column
 	    Team.column_names.include?(params[:sort]) ? params[:sort] : "name"
 	  end
@@ -68,11 +69,19 @@ class TeamsController < ApplicationController
 	 @team = Team.find_by(params[:user_id]) if current_user
 	 @players = []
 	 @team_players = @team.team_players
+	 @team_score = []
 
 	 @team_players.each do |player_id|
 	  	player = Player.find_by(id: player_id)
+	  	runs = Player.find_by(id: player_id).home_runs
 	 	@players << player
 	 end
+
+	 @players.each do |player|
+	   @team_score << player.home_runs
+	end
+
+
 	end
 
 	def edit

@@ -1,10 +1,27 @@
-<h1> <%= @team.team_name%> </h1>
-<h2> Season Total: <%= @team.score %> </h2>
+<h1> <%= @team.team_name %> <small> Season Total: <%= @team_score.sum %> </small></h1>
 
-<h2> Lineup: </h2>
-
-<div>
-  <% @players.each do |player| %>
-    <h3> <%= player.name.titleize %> (<%= player.mlb_team %>) - home runs: <%= player.home_runs %> </h3>
-  <% end %>
-</div>
+<span class="counter pull-left"></span>
+<table class="table table-hover results">
+ <thead>
+   <tr>
+     <th> Name </th>
+     <th> Team </th>
+     <th> Total </th>
+   </tr>
+ </thead>
+<% @players.each do |player| %>
+ <tbody>
+   <tr>
+     <td>
+       <%= link_to(player.name.titleize, "/player/#{player.id}") %>
+     </td>
+     <td>
+       <%= player.mlb_team %> 
+     </td>
+     <td>
+       <%= player.home_runs %>
+     </td>
+   </tr>
+ </tbody>
+<% end %>
+</table>
