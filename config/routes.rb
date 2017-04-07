@@ -11,12 +11,13 @@ Rails.application.routes.draw do
 
   root to: 'teams#index'
 
-
+# Player routes
   get '/players' => 'players#index'
+  get '/player/:id' => 'players#show'
   get 'players/import' => 'players#import'
   post 'players/import' => 'players#import'
-  get '/player/:id' => 'players#show'
-
+  
+# Team routes
   get '/teams' => 'teams#index'
   get '/team/:id' => 'teams#show'
   get '/team/:id/edit' => 'teams#edit'
