@@ -1,23 +1,56 @@
-<h1>
-  Create Your Team<br>
-  
-</h1>
+<table align="center">
+  <tr>
+    <h2>Name Your Team and add 9 players.</h2>
 
-<hr>
-<div class="panel panel-success">
-  <div class="panel-heading">
-    <h3 class="panel-title">Enter A Team Name and 9 Players</h3>
-  </div>
-  <div class="panel-body">
-    <%= form_tag team_create_path, role: "form", method: :post do %>
-      <%= render "form" %>
-    <hr>
-    <div class="form-group">
-      <%= submit_tag "Submit", :class => 'btn btn-large btn-primary' %>
-    </div>
+
+    <%= form_for @team, url: {action: "create"} do |f| %>
+      <div class="field">
+        <%= f.label :team_name %><br />
+        <%= f.text_field :team_name, autofocus: true %>
+      </div>
+ 
+      <div>
+        <%= f.label :player_1 %><br />
+        <%=  f.collection_select :player_1, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_1} %>
+      </div>
+      <div>
+        <%= f.label :player_2 %><br />
+        <%=  f.collection_select :player_2, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_2} %>
+      </div>
+      <div>
+        <%= f.label :player_3 %><br />
+        <%=  f.collection_select :player_3, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_3} %>
+      </div>
+      <div>
+        <%= f.label :player_4 %><br />
+        <%=  f.collection_select :player_4, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_4} %>
+      </div>
+      <div>
+        <%= f.label :player_5 %><br />
+        <%=  f.collection_select :player_5, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_5} %>
+      </div>
+      <div>
+        <%= f.label :player_6 %><br />
+        <%=  f.collection_select :player_6, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_6} %>
+      </div>
+      <div>
+        <%= f.label :player_7 %><br />
+        <%=  f.collection_select :player_7, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_7} %>
+      </div>
+      <div>
+        <%= f.label :player_8 %><br />
+        <%=  f.collection_select :player_8, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_8} %>
+      </div>
+      <div>
+        <%= f.label :player_9 %><br />
+        <%=  f.collection_select :player_9, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_9} %>
+      </div>
+      <div class="actions">
+        <%= f.submit "Save Team", :class => 'btn btn-large btn-primary'  %>
+      </div>
     <% end %>
-  </div>
-</div>
+  </tr>
+</table>
 
 
 

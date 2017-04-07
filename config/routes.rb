@@ -11,6 +11,10 @@ Rails.application.routes.draw do
 
   root to: 'teams#index'
 
+  resources :teams do
+    get :autocomplete_player_name, :on => :collection
+  end
+
 # Player routes
   get '/players' => 'players#index'
   get '/player/:id' => 'players#show'

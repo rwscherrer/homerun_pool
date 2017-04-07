@@ -1,51 +1,51 @@
+<table align="center">
+  <tr>
+    <h2>Name Your Team and add 9 players.</h2>
 
-
-  <div>
-    <%= label_tag :team_name %>
-    <%=  text_field_tag :team_name,  @team.team_name %>
-  </div>
+    <%= form_for @team do |f| %>
+      <div class="field">
+        <%= f.label :team_name %><br />
+        <%= f.text_field :team_name, autofocus: true %>
+      </div>
  
-  <div>
-    <%= label_tag :player_1 %>
-    <%=  text_field_tag :player_1,  @team.player_1 %>
-  </div>
+      <div>
+        <%= f.label :player_1 %><br />
+        <%=  f.collection_select :player_1, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_2 %><br />
+        <%=  f.collection_select :player_2, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_3 %><br />
+        <%=  f.collection_select :player_3, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_4 %><br />
+        <%=  f.collection_select :player_4, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_5 %><br />
+        <%=  f.collection_select :player_5, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_6 %><br />
+        <%=  f.collection_select :player_6, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_7 %><br />
+        <%=  f.collection_select :player_7, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_8 %><br />
+        <%=  f.collection_select :player_8, Player.all, :id, :name %>
+      </div>
+      <div>
+        <%= f.label :player_9 %><br />
+        <%=  f.collection_select :player_9, Player.all, :id, :name %>
+      </div>
+      <div class="actions">
+        <%= f.submit "Save Team", :class => 'btn btn-large btn-primary'  %>
+      </div>
+    <% end %>
 
-  <div>
-    <%= label_tag :player_2 %>
-    <%=  text_field_tag :player_2,  @team.player_2 %>
-  </div>
-
-  <div>
-    <%= label_tag :player_3 %>
-    <%=  text_field_tag :player_3,  @team.player_3 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_4 %>
-    <%=  text_field_tag :player_4,  @team.player_4 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_5 %>
-    <%=  text_field_tag :player_5,  @team.player_5 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_6 %>
-    <%=  text_field_tag :player_6,  @team.player_6 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_7 %>
-    <%=  text_field_tag :player_7,  @team.player_7 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_8 %>
-    <%=  text_field_tag :player_8,  @team.player_8 %>
-  </div>
-
-    <div>
-    <%= label_tag :player_9 %>
-    <%=  text_field_tag :player_9,  @team.player_9 %>
-  </div>

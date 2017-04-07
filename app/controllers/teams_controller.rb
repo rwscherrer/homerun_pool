@@ -1,5 +1,6 @@
 class TeamsController < ApplicationController
     before_action:authenticate_user!
+    autocomplete :player, :name
 
   
 	def index
@@ -72,29 +73,16 @@ class TeamsController < ApplicationController
 
 
 	def create
-	   @team = Team.create({
-	  	 player_1: params[:player_1],
-	  	 user_id: current_user.id,
-	  	 score: 0,
-	  	 player_2: params[:player_2],
-	  	 player_3: params[:player_3],
-	  	 player_4: params[:player_4],
-	  	 player_5: params[:player_5],
-	  	 player_6: params[:player_6],
-	  	 player_7: params[:player_7],
-	  	 player_8: params[:player_8],
-	  	 player_9: params[:player_9],
-	  	 team_name: params[:team_name]
-	  	})
-
+	  @team = Team.new(team_params.merge(user_id: current_user.id))
 	  if @team.save
-	    flash[:success] = ["You've created a team!"]
-	    redirect_to "/teams"
+	    flash[:success] = ["You've Completed Your Team"]
+	    redirect_to '/teams'
 	  else
-	    flash.now[:danger] = ["Something went wrong"]
+	    flash.now[:danger] = @team.errors.full_messages
 	    render :new
 	  end
 	end
+
 
 
 	def update
@@ -132,5 +120,27 @@ class TeamsController < ApplicationController
 	    render :show
 	  end
 	end
+
+	private
+	  # Using a private method to encapsulate the permissible parameters is
+	  # a good pattern since you'll be able to reuse the same permit
+	  # list between create and update. Also, you can specialize this method
+	  # with per-user checking of permissible attributes.
+	  def team_params
+	    params.require(:team).permit(
+	    	:team_name, 
+	    	:user_id, 
+	    	:score, 
+	    	:player_1, 
+	    	:player_2, 
+	    	:player_3, 
+	    	:player_4, 
+	    	:player_5, 
+	    	:player_6, 
+	    	:player_7, 
+	    	:player_8, 
+	    	:player_9
+	    	)
+	  end
 
 end
