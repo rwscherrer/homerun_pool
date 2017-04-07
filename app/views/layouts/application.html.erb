@@ -9,14 +9,9 @@
   </head>
 
   <body>
-    <%= yield %>
+    <%= render "layouts/navbar" %>
 
-  <div>
-      <div>
-        <% if user_signed_in? %>
-          <%= link_to('Logout', destroy_user_session_path, :method => :delete, :class => "btn btn-sm btn-warning") %>        
-        <% end %>
-      </div>
-  </div>
+  <%= yield %>
+
   </body>
 </html>
