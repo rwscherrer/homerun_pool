@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td>
-        <%= link_to(player.name.titleize, "/player/#{player.id}") %>
+        <%= link_to(player.name.titleize, "/player/#{player.id}", :class => "btn btn-primary") %>
       </td>
       <td>
         <%= player.mlb_team %>
