@@ -1,11 +1,7 @@
 Rails.application.routes.draw do
 
   devise_for :users
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> a618b554dbbe72cae091156202a205189649c6bb
   root to: 'teams#index'
 
 
