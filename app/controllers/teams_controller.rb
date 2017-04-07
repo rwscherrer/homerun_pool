@@ -73,7 +73,7 @@ class TeamsController < ApplicationController
 
 
 	def create
-	  @team = Team.new(team_params.merge(user_id: current_user.id))
+	  @team = Team.create(team_params.merge(user_id: current_user.id))
 	  if @team.save
 	    flash[:success] = ["You've Completed Your Team"]
 	    redirect_to '/teams'
