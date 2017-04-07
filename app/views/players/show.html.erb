@@ -6,8 +6,8 @@
 <div class="panel-body">
   <table class="table table-hover">
     <tr>
-      <td> <b> 2016 Total: </b> </td>
-	  <td> <%= @player.home_runs %> </td>
+      <td> <b> 2017 Total: </b> </td>
+	  <td> <%= @player.home_runs_2017 %> </td>
 	</tr>
 	<tr>
       <td> <b> Team: </b> </td>
@@ -37,6 +37,10 @@
 	  <td> <b> Weight: </b> </td>
 	  <td> <%= @player.weight  + " lbs" %> </td>
 	</tr>
+	    <tr>
+	      <td> <b> 2016 Total: </b> </td>
+		  <td> <%= @player.home_runs_2016 %> </td>
+		</tr>
 	<tr>
 	  <td> <b> Rookie: </b> </td>
 	  <td> <%= @player.rookie %> </td>

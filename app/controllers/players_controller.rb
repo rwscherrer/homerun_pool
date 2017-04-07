@@ -12,8 +12,9 @@ class PlayersController < ApplicationController
   end
 
   def import
-    CSV.foreach("MLB-2016REGULAR.csv", headers: true) do |row|
+    CSV.foreach("update.csv", headers: true) do |row|
       @player = Player.create({
+        id: row["id"],
         last_name: row["last_name"],
         first_name: row["first_name"],
         name: row["name"],
@@ -31,8 +32,9 @@ class PlayersController < ApplicationController
         team_city: row["team_city"],
         mlb_team: row["mlb_team"],
         games_played: row["games_played"],
-        home_runs: row["home_runs"],
-        home_runs_allowed: row["home_runs_allowed"]
+        home_runs_2017: row["home_runs_2017"],
+        home_runs_allowed: row["home_runs_allowed"],
+        home_runs_2016: row["home_runs_2016"],
         
       })
     end

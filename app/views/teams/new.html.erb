@@ -1,0 +1,24 @@
+<h1>
+  Create Your Team<br>
+  
+</h1>
+
+<hr>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Enter A Team Name and 9 Players</h3>
+  </div>
+  <div class="panel-body">
+    <%= form_tag team_create_path, role: "form", method: :post do %>
+      <%= render "form" %>
+    <hr>
+    <div class="form-group">
+      <%= submit_tag "Submit", :class => 'btn btn-large btn-primary' %>
+    </div>
+    <% end %>
+  </div>
+</div>
+
+
+
+	

@@ -6,7 +6,8 @@
     <tr>
       <th>Name</th>
       <th>Team</th>
-      <th>Home Runs</th>
+      <th>2017 Home Runs</th>
+      <th>2016 Home Runs
     </tr>
   </thead>
 <% @players.each do |player| %>
@@ -19,7 +20,10 @@
         <%= player.mlb_team %>
       </td>
       <td>
-        <%= player.home_runs %>
+        <%= player.home_runs_2017 %>
+      </td>
+      <td>
+        <%= player.home_runs_2016 %>
       </td>
     </tr>
   </tbody>

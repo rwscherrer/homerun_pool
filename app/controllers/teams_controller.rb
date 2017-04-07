@@ -6,7 +6,6 @@ class TeamsController < ApplicationController
 	  @user = User.find(current_user.id)
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
-	  @teams_score = []
 
 
 	  def sort_column
@@ -45,47 +44,81 @@ class TeamsController < ApplicationController
 	 
 	end
 
-  	def new
-  	  @team = Team.new
-  	end
-
-	def create
-	  @id = current_user.id
-	  @team = Team.new({
-	    user_id: @id,
-	    team_name: params[:team_name],
-	    score: params[:score],
-	    })
-	 if @team.save
-	   flash[:success] = ["You've created a team!"]
-	   redirect_to "/teams/"
-	 else
-	   flash.now[:danger] = ["Something went wrong"]
-	   render :new
-	 end
-	end
-
 	def show
-	 @team = Team.find_by(params[:user_id]) if current_user
-	 @players = []
-	 @team_players = @team.team_players
-	 @team_score = []
+	 @team = Team.find(params[:id])
+	 @players = [@team.player_1, @team.player_2, @team.player_2]
 
-	 @team_players.each do |player_id|
-	  	player = Player.find_by(id: player_id)
-	  	runs = Player.find_by(id: player_id).home_runs
-	 	@players << player
-	 end
-
-	 @players.each do |player|
-	   @team_score << player.home_runs
-	end
-
+	 # @players.each do |player_id|
+	 #   player = Player.find_by(id: player_id)
+	 #   @players << player
+	 # end
 
 	end
 
 	def edit
 	  @team = Team.find(params[:id]) if current_user
+	end
+
+	def new
+	  @team = Team.new
+	  @players = Player.all
+	  @count = 0
+
+	  def search
+	    @player = Player.where("name LIKE ? OR mlb_team LIKE ?", "%#{params[:search]}%", "%#{params[:search]}%")
+	    render :show
+	  end
+	end
+
+
+	def create
+	   @team = Team.create({
+	  	 player_1: params[:player_1],
+	  	 user_id: current_user.id,
+	  	 score: 0,
+	  	 player_2: params[:player_2],
+	  	 player_3: params[:player_3],
+	  	 player_4: params[:player_4],
+	  	 player_5: params[:player_5],
+	  	 player_6: params[:player_6],
+	  	 player_7: params[:player_7],
+	  	 player_8: params[:player_8],
+	  	 player_9: params[:player_9],
+	  	 team_name: params[:team_name]
+	  	})
+
+	  if @team.save
+	    flash[:success] = ["You've created a team!"]
+	    redirect_to "/teams"
+	  else
+	    flash.now[:danger] = ["Something went wrong"]
+	    render :new
+	  end
+	end
+
+
+	def update
+	  @team = Team.find(params[:id]) if current_user
+
+	  if @team.update({
+	    team_name: params[:team][:team_name],
+	    player_1: params[:team][:player_1],
+	    player_2: params[:team][:player_2],
+	    player_3: params[:team][:player_3],
+	    player_4: params[:team][:player_4],
+	    player_5: params[:team][:player_5],
+	    player_6: params[:team][:player_6],
+	    player_7: params[:team][:player_7],
+	    player_8: params[:team][:player_8],
+	    player_9: params[:team][:player_9]
+
+	    })
+	 
+	    flash[:success] = [ "Team Updated." ]
+	    redirect_to '/teams'
+	  else
+	    flash.now[:warning] = @team.errors.full_messages
+	  end
 	end
 
 	def destroy
@@ -99,4 +132,5 @@ class TeamsController < ApplicationController
 	    render :show
 	  end
 	end
+
 end

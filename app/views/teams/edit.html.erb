@@ -1,0 +1,11 @@
+<h1>Edit your team</h1>
+
+<%= form_tag "/team/#{ @team.id }", method: :patch do %>
+  <div>
+    <%= label_tag :team_name %>
+    <%=  text_field_tag :team_name, @team.team_name %>
+  </div>
+
+  <button type="submit" class="btn btn-sm btn-primary">Submit</button>
+
+  <% end %>

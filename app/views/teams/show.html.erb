@@ -1,27 +1,55 @@
-<h1> <%= @team.team_name %> <small> Season Total: <%= @team_score.sum %> </small></h1>
+<h1><%= @team.team_name %> <br>
+<small>Coach: <%= current_user.email %></small>
+<br>
+</h1>
+<h3>Season Total: <%= @team.score %> </h3>
+
 
 <span class="counter pull-left"></span>
 <table class="table table-hover results">
  <thead>
    <tr>
      <th> Name </th>
-     <th> Team </th>
-     <th> Total </th>
+<!--      <th> Team </th>
+     <th> Total </th> -->
+
    </tr>
  </thead>
-<% @players.each do |player| %>
- <tbody>
-   <tr>
-     <td>
-       <%= link_to(player.name.titleize, "/player/#{player.id}") %>
-     </td>
-     <td>
-       <%= player.mlb_team %> 
-     </td>
-     <td>
-       <%= player.home_runs %>
-     </td>
-   </tr>
- </tbody>
-<% end %>
+  <tbody>
+    <tr>
+      <td> <%= @team.player_1 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_2 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_3 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_4 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_5 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_6 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_7 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_8 %></td>
+    </tr>
+    <tr>
+      <td> <%= @team.player_9 %></td>
+    </tr>
+  
+  </tbody>
+
 </table>
+
+
+
+
+    
+

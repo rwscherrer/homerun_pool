@@ -1,4 +1,4 @@
-<h1> <%= current_user.email %>'s Teams</h1>
+<h1> <%= current_user.email %>'s Teams <%= link_to("Create A New Team", "/teams/new", :class => "btn btn-success") %></h1>
 <hr>
 
 <div>
@@ -10,28 +10,23 @@
 </div>
 <hr>
 
-<span class="counter pull-left"></span>
-<table class="table table-hover results">
+<span class="counter pull-left" ></span>
+<table class="table table-hover results" >
  <thead>
    <tr>
-     <th> Rank </th>
      <th> Name </th>
      <th> Score</th>
-     <th> Lineup</th>
    </tr>
  </thead>
 <% @all_teams.each do |team| %>
  <tbody>
    <tr>
-     <td><%= team.id %></td>
      <td>
-       <%= team.team_name.titleize %>
+       <%= link_to(team.team_name.titleize, "/team/#{team.id}") %>
      </td>
-     <td><%= team.score %> </td>
      <td>
-       <%= team.team_players %>
-
-     </td>
+       <%= team.score %> 
+    </td>
    </tr>
  </tbody>
 <% end %>
