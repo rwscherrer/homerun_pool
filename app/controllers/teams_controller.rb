@@ -7,6 +7,7 @@ class TeamsController < ApplicationController
 	  @user = User.find(current_user.id)
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
+	
 
 
 	  def sort_column
