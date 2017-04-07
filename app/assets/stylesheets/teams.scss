@@ -2,16 +2,20 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.pretty th .current {
-  padding-right: 12px;
-  background-repeat: no-repeat;
-  background-position: right center;
-}
+body {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  background-image: url('pink dust.png');
+  border-style: double;
+  border-width: medium;
+  border-color: #3399ff;
+  margin: 25px;
+  padding: 25px;
+  text-align: center;
+  color: #A9A9A9;
 
-.pretty th .asc {
-  background-image: url(/images/up_arrow.gif);
-}
-
-.pretty th .desc {
-  background-image: url(/images/down_arrow.gif);
 }
