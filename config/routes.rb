@@ -6,7 +6,9 @@ Rails.application.routes.draw do
     get 'login', to: 'users/sessions#new'
     delete 'logout', to: 'users/sessions#destroy'
   end
-  root to: 'teams#index'
+
+
+  root to: 'users/registrations#new'
 
   get '/' => '/teams/'
   get '/players' => 'players#index'
