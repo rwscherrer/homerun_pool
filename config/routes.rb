@@ -1,14 +1,10 @@
 Rails.application.routes.draw do
 
-  devise_for :users, controllers: { registrations: "users"}
-  devise_scope :user do
-    get 'register', to: 'users/registrations#new'
-    get 'login', to: 'users/sessions#new'
-    delete 'logout', to: 'users/sessions#destroy'
-  end
+  devise_for :users
+
   root to: 'teams#index'
 
-  get '/' => '/teams/'
+
   get '/players' => 'players#index'
   get 'players/import' => 'players#import'
   post 'players/import' => 'players#import'
