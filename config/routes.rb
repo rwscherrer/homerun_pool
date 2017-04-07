@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   root to: 'teams#index'
 
-
+  get '/' => 'users/registrations#new'
   get '/players' => 'players#index'
   get 'players/import' => 'players#import'
   post 'players/import' => 'players#import'
