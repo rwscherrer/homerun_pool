@@ -8,7 +8,7 @@ Rails.application.routes.draw do
   end
   root to: 'teams#index'
 
-  get '/' =>
+  get '/' => '/teams/'
   get '/players' => 'players#index'
   get 'players/import' => 'players#import'
   post 'players/import' => 'players#import'
