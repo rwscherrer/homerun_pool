@@ -1,15 +1,18 @@
 Rails.application.routes.draw do
 
-  devise_for :users, controllers: { sessions: 'users/registrations' }
+  devise_for :users
 
   devise_scope :user do
-    get 'register', to: 'users/registrations#new'
-    get 'login', to: 'users/sessions#new'
-    delete 'logout', to: 'users/sessions#destroy'
+    authenticated :user do
+
+      root 'teams#index', as: :authenticated_root
+    end
+
+  unauthenticated do
+      root 'users/registrations#new', as: :unauthenticated_root
+    end
   end
 
-
-  root to: 'teams#index'
 
   resources :teams do
     get :autocomplete_player_name, :on => :collection
