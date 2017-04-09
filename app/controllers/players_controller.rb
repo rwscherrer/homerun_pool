@@ -5,7 +5,19 @@ class PlayersController < ApplicationController
 
   def index
   	@players = Player.all
+    def search
+      @players = Player.where("first_name ILIKE ? OR last_name ILIKE ? OR mlb_team ILIKE ?", "%#{params[:search]}%", "%#{params[:search]}%", "%#{params[:search]}%")
+      render :index
+
+    end
+
   end
+
+  def search
+      @players = Player.where("first_name ILIKE ? OR last_name ILIKE ? OR mlb_team ILIKE ?", "%#{params[:search]}%", "%#{params[:search]}%", "%#{params[:search]}%")
+      render :index
+  end
+
 
   def show
   	@player = Player.find(params[:id])

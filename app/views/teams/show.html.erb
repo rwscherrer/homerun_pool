@@ -1,5 +1,5 @@
 <h1><%= @team.team_name %> <br>
-<small>Coach: <%= current_user.email %></small>
+<small>Coach: <%= User.find_by(id: @team.user_id).email %></small>
 <br>
 </h1>
 <h3>Season Total: <%= @team_score %> </h3>

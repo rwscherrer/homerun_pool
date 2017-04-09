@@ -4,4 +4,7 @@ class Team < ApplicationRecord
 
 
 
+
+
+
 end

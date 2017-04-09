@@ -8,8 +8,6 @@ class TeamsController < ApplicationController
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
 
-
-
 	  def sort_column
 	    Team.column_names.include?(params[:sort]) ? params[:sort] : "name"
 	  end
@@ -42,6 +40,10 @@ class TeamsController < ApplicationController
 	  # rescue StandardError => e
 	  #   puts "HTTP Request failed (#{e.message})"
 	  # end
+	  def search
+	    @player = Player.where("name LIKE ? OR mlb_team LIKE ? OR first_name LIKE ? OR last_name LIKE ?", "%#{params[:search]}%", "%#{params[:search]}%")
+	    render :show
+	  end
 
 	 
 	end
@@ -61,10 +63,6 @@ class TeamsController < ApplicationController
 	  @players = Player.all
 	  @count = 0
 
-	  def search
-	    @player = Player.where("name LIKE ? OR mlb_team LIKE ?", "%#{params[:search]}%", "%#{params[:search]}%")
-	    render :show
-	  end
 	end
 
 
