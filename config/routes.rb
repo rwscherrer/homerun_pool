@@ -9,7 +9,9 @@ Rails.application.routes.draw do
     end
 
   unauthenticated do
-      root 'users/registrations#new', as: :unauthenticated_root
+      root 'devise/registrations#new', as: :unauthenticated_root
+      get 'register', to: 'users/registrations#new'
+      post 'sign up', to: 'users/registrations#create'
     end
   end
 
