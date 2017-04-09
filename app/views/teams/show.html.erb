@@ -2,14 +2,14 @@
 <small>Coach: <%= User.find_by(id: @team.user_id).email %></small>
 <br>
 </h1>
-<h3>Season Total: <%= @team_score %> </h3>
+<h3>Season Total: <%= @team.score %> </h3>
 
 
 <span class="counter pull-left"></span>
 <table class="table table-hover results">
  <thead>
    <tr>
-     <th> Name / 2017 Home Runs <br>
+     <th> Name | 2017 Home Runs <br>
      <small>click player for details</small></th>
 <!--      <th> Team </th>
      <th> Total </th> -->

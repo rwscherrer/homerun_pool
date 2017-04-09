@@ -1,4 +1,5 @@
 class PlayersController < ApplicationController
+  attr_accessor :teams
 
   require 'csv'
 
@@ -49,6 +50,11 @@ class PlayersController < ApplicationController
         home_runs_2016: row["home_runs_2016"],
         
       })
+    end
+    @teams = Teams.all 
+    @teams.each do |team|
+      team.update.(:score, @team_score)
+      team.save
     end
   end
 

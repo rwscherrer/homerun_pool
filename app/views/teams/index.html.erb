@@ -4,29 +4,33 @@
 
 <div>
 
-<%= @players %>
-  
-  <% @teams.each do |team| %>
+  <% @teams.order(score: :desc).each do |team| %>
     <h2> <%= link_to(team.team_name, "/team/#{team.id}") %> Total: <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> </h2>
   <% end %>
 </div>
+
 <hr>
+
 <span class="counter pull-left" ></span>
 <table class="table table-hover results" >
  <thead>
    <tr>
-     <th> Name </th>
-     <th> Score</th>
+     <th> Team Name </th>
+     <th> Coach </th>
+     <th> Score </th>
    </tr>
  </thead>
-<% @all_teams.each do |team| %>
+<% @all_teams.order(score: :desc).each do |team| %>
  <tbody>
    <tr>
      <td>
        <%= link_to(team.team_name, "/team/#{team.id}") %>
      </td>
      <td>
-       <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> 
+     <%= User.find_by(id: team.user_id).email %>
+     </td>
+     <td>
+       <%= team.score %>
     </td>
    </tr>
  </tbody>
