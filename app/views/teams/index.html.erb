@@ -19,7 +19,6 @@
      <th> Score</th>
    </tr>
  </thead>
- <% @team_score = [] %>
 <% @all_teams.each do |team| %>
  <tbody>
    <tr>
@@ -27,7 +26,7 @@
        <%= link_to(team.team_name, "/team/#{team.id}") %>
      </td>
      <td>
-       <%= team.score %> 
+       <%= @team_score%> 
     </td>
    </tr>
  </tbody>

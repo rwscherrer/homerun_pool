@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170406235354) do
+ActiveRecord::Schema.define(version: 20170408212550) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -46,8 +46,8 @@ ActiveRecord::Schema.define(version: 20170406235354) do
     t.string   "team_name"
     t.integer  "user_id"
     t.integer  "score"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
     t.string   "player_1"
     t.string   "player_2"
     t.string   "player_3"
@@ -57,6 +57,15 @@ ActiveRecord::Schema.define(version: 20170406235354) do
     t.string   "player_7"
     t.string   "player_8"
     t.string   "player_9"
+    t.string   "player_1_data", default: [],              array: true
+    t.string   "player_2_data", default: [],              array: true
+    t.string   "player_3_data", default: [],              array: true
+    t.string   "player_4_data", default: [],              array: true
+    t.string   "player_5_data", default: [],              array: true
+    t.string   "player_6_data", default: [],              array: true
+    t.string   "player_7_data", default: [],              array: true
+    t.string   "player_8_data", default: [],              array: true
+    t.string   "player_9_data", default: [],              array: true
   end
 
   create_table "users", force: :cascade do |t|

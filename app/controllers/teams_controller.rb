@@ -7,7 +7,7 @@ class TeamsController < ApplicationController
 	  @user = User.find(current_user.id)
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
-	
+
 
 
 	  def sort_column
@@ -48,12 +48,7 @@ class TeamsController < ApplicationController
 
 	def show
 	 @team = Team.find(params[:id])
-	 @players = [@team.player_1, @team.player_2, @team.player_2]
-
-	 # @players.each do |player_id|
-	 #   player = Player.find_by(id: player_id)
-	 #   @players << player
-	 # end
+	 @team_score = @team.player_1_data[0].to_i + @team.player_2_data[0].to_i +  @team.player_3_data[0].to_i + @team.player_4_data[0].to_i + @team.player_5_data[0].to_i + @team.player_6_data[0].to_i + @team.player_7_data[0].to_i + @team.player_8_data[0].to_i + @team.player_9_data[0].to_i
 
 	end
 
@@ -75,6 +70,20 @@ class TeamsController < ApplicationController
 
 	def create
 	  @team = Team.create(team_params.merge(user_id: current_user.id))
+	  @team_score = @team.player_1_data[0].to_i + @team.player_2_data[0].to_i + @team.player_3_data[0].to_i + @team.player_4_data[0].to_i + @team.player_5_data[0].to_i + @team.player_6_data[0].to_i + @team.player_7_data[0].to_i + @team.player_8_data[0].to_i + @team.player_9_data[0].to_i
+	  @team.update_attribute(:score, @team_score)
+
+	  @team.player_1_data << Player.find_by(name: @team.player_1).home_runs_2017
+	  @team.player_2_data << Player.find_by(name: @team.player_2).home_runs_2017
+	  @team.player_3_data << Player.find_by(name: @team.player_3).home_runs_2017
+	  @team.player_4_data << Player.find_by(name: @team.player_4).home_runs_2017
+	  @team.player_5_data << Player.find_by(name: @team.player_5).home_runs_2017
+	  @team.player_6_data << Player.find_by(name: @team.player_6).home_runs_2017
+	  @team.player_7_data << Player.find_by(name: @team.player_7).home_runs_2017
+	  @team.player_8_data << Player.find_by(name: @team.player_8).home_runs_2017
+	  @team.player_9_data << Player.find_by(name: @team.player_9).home_runs_2017
+	  @team.save
+
 	  if @team.save
 	    flash[:success] = ["You've Completed Your Team"]
 	    redirect_to '/teams'
@@ -90,18 +99,32 @@ class TeamsController < ApplicationController
 	  @team = Team.find(params[:id]) if current_user
 
 	  if @team.update({
-	    team_name: params[:team][:team_name],
-	    player_1: params[:team][:player_1],
-	    player_2: params[:team][:player_2],
-	    player_3: params[:team][:player_3],
-	    player_4: params[:team][:player_4],
-	    player_5: params[:team][:player_5],
-	    player_6: params[:team][:player_6],
-	    player_7: params[:team][:player_7],
-	    player_8: params[:team][:player_8],
-	    player_9: params[:team][:player_9]
+	    team_name: params[:team_name],
+	    score: @team_score,
+	    player_1: params[:player_1],
+	    player_2: params[:player_2],
+	    player_3: params[:player_3],
+	    player_4: params[:player_4],
+	    player_5: params[:player_5],
+	    player_6: params[:player_6],
+	    player_7: params[:player_7],
+	    player_8: params[:player_8],
+	    player_9: params[:player_9],
+	    player_1_data: Player.find_by(name: @team.player_1).home_runs_2017,
+	    player_2_data: Player.find_by(name: @team.player_2).home_runs_2017,
+	    player_3_data: Player.find_by(name: @team.player_3).home_runs_2017,
+	    player_4_data: Player.find_by(name: @team.player_4).home_runs_2017,
+	    player_5_data: Player.find_by(name: @team.player_5).home_runs_2017,
+	    player_6_data: Player.find_by(name: @team.player_6).home_runs_2017,
+	    player_7_data: Player.find_by(name: @team.player_7).home_runs_2017,
+	    player_8_data: Player.find_by(name: @team.player_8).home_runs_2017,
+	    player_9_data: Player.find_by(name: @team.player_9).home_runs_2017,
 
 	    })
+
+	     @team.update_attribute(:score, @team_score)
+
+
 	 
 	    flash[:success] = [ "Team Updated." ]
 	    redirect_to '/teams'
