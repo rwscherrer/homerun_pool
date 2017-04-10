@@ -11,39 +11,39 @@
    
           <div>
             <%= f.label :player_1 %><br />
-            <%=  f.collection_select :player_1, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_1} %>
+            <%=  f.collection_select :player_1, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_1} %>
           </div>
           <div>
             <%= f.label :player_2 %><br />
-            <%=  f.collection_select :player_2, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_2} %>
+            <%=  f.collection_select :player_2, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_2} %>
           </div>
           <div>
             <%= f.label :player_3 %><br />
-            <%=  f.collection_select :player_3, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_3} %>
+            <%=  f.collection_select :player_3, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_3} %>
           </div>
           <div>
             <%= f.label :player_4 %><br />
-            <%=  f.collection_select :player_4, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_4} %>
+            <%=  f.collection_select :player_4, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_4} %>
           </div>
           <div>
             <%= f.label :player_5 %><br />
-            <%=  f.collection_select :player_5, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_5} %>
+            <%=  f.collection_select :player_5, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_5} %>
           </div>
           <div>
             <%= f.label :player_6 %><br />
-            <%=  f.collection_select :player_6, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_6} %>
+            <%=  f.collection_select :player_6, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_6} %>
           </div>
           <div>
             <%= f.label :player_7 %><br />
-            <%=  f.collection_select :player_7, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_7} %>
+            <%=  f.collection_select :player_7, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_7} %>
           </div>
           <div>
             <%= f.label :player_8 %><br />
-            <%=  f.collection_select :player_8, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_8} %>
+            <%=  f.collection_select :player_8, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_8} %>
           </div>
           <div>
             <%= f.label :player_9 %><br />
-            <%=  f.collection_select :player_9, Player.all, :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_9} %>
+            <%=  f.collection_select :player_9, Player.all.order(name: :asc), :name, :name, {:prompt => 'Choose A Player', :selected => @team.player_9} %>
           </div>
           <div class="actions">
             <%= f.submit "Save Team", :class => 'btn btn-large btn-primary'  %>
