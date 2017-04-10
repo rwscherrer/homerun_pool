@@ -5,7 +5,7 @@
 <div>
 
   <% @teams.order(score: :desc).each do |team| %>
-    <h2> <%= team.team_name %> Total: <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> </h2>
+    <h2> <%= link_to(team.team_name, "/team/#{team.id}") %> Total: <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> </h2>
   <% end %>
 </div>
 
