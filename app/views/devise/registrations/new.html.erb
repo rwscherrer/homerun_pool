@@ -1,11 +1,8 @@
+<h2>Sign up!</h2>
+<%= form_for(resource, as: resource_name, url: user_registration_path()) do |f| %>
+  <%= devise_error_messages! %>
 <table>
   <tr>
-    <h2>Sign up!</h2>
-
-        
-    <%= form_for(resource, as: resource_name, url: user_registration_path()) do |f| %>
-      <%= devise_error_messages! %>
-
       <div class="field">
         <%= f.label :email %><br />
         <%= f.email_field :email, autofocus: true %>
@@ -27,8 +24,8 @@
       <div class="actions">
         <%= f.submit "Sign Up!", :class => 'btn btn-large btn-primary' %>
       </div>
-    <% end %>
 
     <%= render "users/shared/links" %>
   </tr>
 </table>
+    <% end %>
