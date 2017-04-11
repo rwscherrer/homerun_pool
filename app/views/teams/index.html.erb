@@ -5,7 +5,7 @@
 <div>
 
   <% @teams.order(score: :desc).each do |team| %>
-    <h2> <%= link_to(team.team_name, "/team/#{team.id}") %> Total: <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> </h2>
+    <h2> <%= link_to(team.team_name, "/team/#{team.id}") %> Total: <%= Player.find_by(name: team.player_1).home_runs_2017 + Player.find_by(name: team.player_2).home_runs_2017 +  Player.find_by(name: team.player_3).home_runs_2017 + Player.find_by(name: team.player_4).home_runs_2017+ Player.find_by(name: team.player_5).home_runs_2017 + Player.find_by(name: team.player_6).home_runs_2017 + Player.find_by(name: team.player_7).home_runs_2017 + Player.find_by(name: team.player_8).home_runs_2017 + Player.find_by(name: team.player_9).home_runs_2017 %> </h2>
   <% end %>
 </div>
 
@@ -22,7 +22,7 @@
      <th> Score </th>
    </tr>
  </thead>
-<% @all_teams.order(score: :desc).each do |team| %>
+ <% @all_teams.order(team_name: :desc).each do |team| %>
  <tbody>
    <tr>
      <td>
@@ -32,7 +32,7 @@
      <%= User.find_by(id: team.user_id).email %>
      </td>
      <td>
-    <!--    <%= team.player_1_data[0].to_i + team.player_2_data[0].to_i +  team.player_3_data[0].to_i + team.player_4_data[0].to_i + team.player_5_data[0].to_i + team.player_6_data[0].to_i + team.player_7_data[0].to_i + team.player_8_data[0].to_i + team.player_9_data[0].to_i %> -->
+<!--      <%= Player.find_by(name: team.player_1).home_runs_2017 + Player.find_by(name: team.player_2).home_runs_2017 +  Player.find_by(name: team.player_3).home_runs_2017 + Player.find_by(name: team.player_4).home_runs_2017+ Player.find_by(name: team.player_5).home_runs_2017 + Player.find_by(name: team.player_6).home_runs_2017 + Player.find_by(name: team.player_7).home_runs_2017 + Player.find_by(name: team.player_8).home_runs_2017 + Player.find_by(name: team.player_9).home_runs_2017 %> -->
     </td>
    </tr>
  </tbody>

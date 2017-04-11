@@ -2,7 +2,7 @@
 <small>Coach: <%= User.find_by(id: @team.user_id).email %></small>
 <br>
 </h1>
-<h3>Season Total: <%= @team.score %> </h3>
+<h3>Season Total: <%= Player.find_by(name: @team.player_1).home_runs_2017 + Player.find_by(name: @team.player_2).home_runs_2017 +  Player.find_by(name: @team.player_3).home_runs_2017 + Player.find_by(name: @team.player_4).home_runs_2017+ Player.find_by(name: @team.player_5).home_runs_2017 + Player.find_by(name: @team.player_6).home_runs_2017 + Player.find_by(name: @team.player_7).home_runs_2017 + Player.find_by(name: @team.player_8).home_runs_2017 + Player.find_by(name: @team.player_9).home_runs_2017 %> </h3>
 
 
 <span class="counter pull-left"></span>
