@@ -13,6 +13,7 @@ gem 'rails', '~> 5.0.1'
 gem 'pg', '~> 0.18'
 gem 'rails_12factor'
 gem 'rails4-autocomplete'
+gem 'seed_dump'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
