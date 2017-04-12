@@ -22,7 +22,7 @@
      <th> Score </th>
    </tr>
  </thead>
- <% @all_teams.order(score: :asc).each do |team| %>
+ <% @all_teams.order(score: :desc).each do |team| %>
  <tbody>
    <tr>
      <td>
