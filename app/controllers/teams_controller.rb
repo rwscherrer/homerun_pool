@@ -8,6 +8,8 @@ class TeamsController < ApplicationController
 	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all
 
+	  @team_score 
+
 	  def sort_column
 	    Team.column_names.include?(params[:sort]) ? params[:sort] : "name"
 	  end
