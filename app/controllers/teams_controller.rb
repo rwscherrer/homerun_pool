@@ -121,7 +121,7 @@ class TeamsController < ApplicationController
 	    player_9_data: Player.find_by(name: @team.player_9).home_runs_2017,
 
 	    })
-	 
+	  
 	    flash[:success] = [ "Team Updated." ]
 	    redirect_to '/teams'
 	  else
