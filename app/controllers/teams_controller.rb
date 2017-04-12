@@ -134,7 +134,7 @@ class TeamsController < ApplicationController
 	    
 	  if @team.destroy
 	    flash[:success] = "Team Deleted."
-	    redirect_to "/users/#{current_user.id}"
+	    redirect_to "/teams/"
 	  else
 	    flash.now[:warning] = @team.errors.full_messages
 	    render :show
