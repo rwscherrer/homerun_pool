@@ -93,8 +93,6 @@ class TeamsController < ApplicationController
 	  end
 	end
 
-
-
 	def update
 	  @team = Team.find(params[:id]) if current_user
 

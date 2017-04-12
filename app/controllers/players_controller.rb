@@ -51,11 +51,6 @@ class PlayersController < ApplicationController
         
       })
     end
-    @teams = Teams.all 
-    @teams.each do |team|
-      team.update.(:score, @team_score)
-      team.save
-    end
   end
 
   def new
