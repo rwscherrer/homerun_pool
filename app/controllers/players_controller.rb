@@ -21,7 +21,7 @@ class PlayersController < ApplicationController
 
 
   def show
-  	@player = Player.find(params[:id])
+  	@player = Player.order(home_runs_2017: :desc).find(params[:id])
   end
 
   def import
