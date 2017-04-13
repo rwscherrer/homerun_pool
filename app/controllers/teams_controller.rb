@@ -5,10 +5,8 @@ class TeamsController < ApplicationController
   
 	def index
 	  @user = User.find(current_user.id)
-	  @teams = Team.where(user_id: @user.id)
+	  @teams = Team.all.order(score: :desc).where(user_id: @user.id)
 	  @all_teams = Team.all.order(score: :desc)
-
-	  @team_score 
 
 	  def sort_column
 	    Team.column_names.include?(params[:sort]) ? params[:sort] : "name"
