@@ -5,7 +5,7 @@ class TeamsController < ApplicationController
   
 	def index
 	  @user = User.find(current_user.id)
-	  @teams = Team.all.order(score: :desc).where(user_id: @user.id)
+	  @teams = Team.where(user_id: @user.id)
 	  @all_teams = Team.all.order(score: :desc)
 
 	  def sort_column
