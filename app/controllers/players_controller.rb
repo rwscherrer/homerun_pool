@@ -5,7 +5,7 @@ class PlayersController < ApplicationController
 
 
   def index
-  	@players = Player.all
+  	@players = Player.all.order("home_runs_2017 DESC")
 
 
     @player_update = Player.all.order("updated_at DESC").limit(1)[0]
