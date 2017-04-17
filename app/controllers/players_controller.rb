@@ -6,6 +6,11 @@ class PlayersController < ApplicationController
 
   def index
   	@players = Player.all
+
+
+    @player_update = Player.all.order("updated_at DESC").limit(1)[0]
+
+    
     def search
       @players = Player.where("first_name ILIKE ? OR last_name ILIKE ? OR mlb_team ILIKE ?", "%#{params[:search]}%", "%#{params[:search]}%", "%#{params[:search]}%")
       render :index

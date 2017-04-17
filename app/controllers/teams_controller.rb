@@ -19,6 +19,9 @@ class TeamsController < ApplicationController
 	  require 'net/http'
 	  require 'net/https'
 
+
+
+
 	  # # Request (GET )
 	  # def send_request
 	  #   uri = URI("https://www.mysportsfeeds.com/api/feed/pull/mlb/2016-regular/cumulative_player_stats.json?playerstats=HR")

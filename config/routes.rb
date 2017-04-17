@@ -34,5 +34,7 @@ Rails.application.routes.draw do
   get '/teams/new' => 'teams#new'
   post '/teams' => 'teams#create', as: :team_create
 
+  get 'live_updates' => 'live_updates#index'
+
 
 end
