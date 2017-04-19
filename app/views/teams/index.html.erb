@@ -22,8 +22,8 @@ Last Update: Apr. 18 11:30 AM.
    <tr>
      <th> Rank </th>
      <th> Team Name </th>
-     <th> Coach </th>
      <th> Score </th>
+     <th> Coach </th>
    </tr>
  </thead>
  <% @team_count = 1 %>
@@ -37,11 +37,11 @@ Last Update: Apr. 18 11:30 AM.
        <%= link_to(team.team_name, "/team/#{team.id}", :class => "btn btn-primary") %>
      </td>
      <td>
-     <%= User.find_by(id: team.user_id).email %>
-     </td>
-     <td>
        <%= Player.find_by(name: team.player_1).home_runs_2017 + Player.find_by(name: team.player_2).home_runs_2017 +  Player.find_by(name: team.player_3).home_runs_2017 + Player.find_by(name: team.player_4).home_runs_2017+ Player.find_by(name: team.player_5).home_runs_2017 + Player.find_by(name: team.player_6).home_runs_2017 + Player.find_by(name: team.player_7).home_runs_2017 + Player.find_by(name: team.player_8).home_runs_2017 + Player.find_by(name: team.player_9).home_runs_2017 %>
     </td>
+     <td>
+     <%= User.find_by(id: team.user_id).email %>
+     </td>
    </tr>
  </tbody>
  <% @team_count += 1 %>
