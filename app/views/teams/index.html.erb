@@ -40,7 +40,9 @@ Last Update: May 08 03:20 AM
        <%= Player.find_by(name: team.player_1).home_runs_2017 + Player.find_by(name: team.player_2).home_runs_2017 +  Player.find_by(name: team.player_3).home_runs_2017 + Player.find_by(name: team.player_4).home_runs_2017+ Player.find_by(name: team.player_5).home_runs_2017 + Player.find_by(name: team.player_6).home_runs_2017 + Player.find_by(name: team.player_7).home_runs_2017 + Player.find_by(name: team.player_8).home_runs_2017 + Player.find_by(name: team.player_9).home_runs_2017 %>
     </td>
      <td>
-     <%= User.find_by(id: team.user_id).email %>
+     <% if User.email != "guest@email.com" %>
+       <%= User.find_by(id: team.user_id).email %>
+     <% end %>
      </td>
    </tr>
  </tbody>
