@@ -18,7 +18,7 @@ class TeamsController < ApplicationController
 
 	  def rank
 	  	@teams = Team.all
-	  	@team_count = Team.count
+	  	@teams_count = Team.count
 
 	  	@teams.each do |team|
 	  		team.score = players.home_runs_2017
