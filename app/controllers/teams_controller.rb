@@ -16,6 +16,17 @@ class TeamsController < ApplicationController
         %w[asc desc].include?(params[:direction]) ? params[:direction] : "asc"
 	  end
 
+	  def rank
+	  	@teams = Team.all
+	  	@team_count = Team.count
+
+	  	@teams.each do |team|
+	  		team.score = players.home_runs_2017
+	  		team.save
+	  	end
+
+	  end
+
 	  require 'net/http'
 	  require 'net/https'
 
