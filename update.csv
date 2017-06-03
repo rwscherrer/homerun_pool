@@ -80,7 +80,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 11407,Aviles,Mike,Mike Aviles,,SS,"5'10""",205,1981-03-13,36,"New York, NY",USA,N,128,MIA,Miami,Marlins,4,0,,1
 10737,Axford,John,John Axford,61,P,"6'5""",220,1983-04-01,34,"Simcoe, ON",Canada,N,125,OAK,Oakland,Athletics,5,0,0,0
 11355,Aybar,Erick,Erick Aybar,15,SS,"5'10""",195,1984-01-14,33,Bani,DominicanRepublic,N,139,SD,San Diego,Padres,53,4,,3
-12362,Bader,Harrison,Harrison Bader,88,OF,"6'0""",195,1994-06-03,22,"Bronxville, NY",USA,Y,133,STL,St. Louis,Cardinals,0,0,,0
+12362,Bader,Harrison,Harrison Bader,88,OF,"6'0""",195,1994-06-03,23,"Bronxville, NY",USA,Y,133,STL,St. Louis,Cardinals,0,0,,0
 10325,Baez,Javier,Javier Baez,9,3B,"6'0""",190,1992-12-01,24,Bayamon,PuertoRico,N,131,CHC,Chicago,Cubs,49,8,,14
 10564,Baez,Pedro,Pedro Baez,52,P,"6'0""",235,1988-03-11,29,Bani,DominicanRepublic,N,137,LAD,Los Angeles,Dodgers,22,0,2,0
 10536,Bailey,Andrew,Andrew Bailey,37,P,"6'3""",240,1984-05-31,33,"Voorhees, NJ",USA,N,124,LAA,Los Angeles,Angels,3,0,0,0
@@ -655,7 +655,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 10267,Hardy,J.J.,J.J. Hardy,2,SS,"6'1""",200,1982-08-19,34,"Tucson, AZ",USA,N,111,BAL,Baltimore,Orioles,52,3,,9
 11053,Harper,Bryce,Bryce Harper,34,RF,"6'3""",215,1992-10-16,24,"Las Vegas, NV",USA,N,126,WAS,Washington,Nationals,48,15,,24
 12529,Harper,Ryne,Ryne Harper,32,P,"6'3""",215,1989-03-27,28,"Clarksville, TN",USA,N,123,SEA,Seattle,Mariners,0,0,0,0
-11629,Harrell,Lucas,Lucas Harrell,64,P,"6'2""",205,1985-06-03,31,"Springfield, MO",USA,N,112,TOR,Toronto,Blue Jays,0,0,0,0
+11629,Harrell,Lucas,Lucas Harrell,64,P,"6'2""",205,1985-06-03,32,"Springfield, MO",USA,N,112,TOR,Toronto,Blue Jays,0,0,0,0
 10484,Harris,Will,Will Harris,36,P,"6'4""",250,1984-08-28,32,"Houston, TX",USA,N,122,HOU,Houston,Astros,21,0,2,0
 10811,Harrison,Josh,Josh Harrison,5,2B,"5'8""",190,1987-07-08,29,"Cincinnati, OH",USA,N,132,PIT,Pittsburgh,Pirates,53,6,,4
 11069,Hart,Donnie,Donnie Hart,58,P,"5'11""",180,1990-09-06,26,"Bedford, TX",USA,N,111,BAL,Baltimore,Orioles,21,0,1,0
@@ -797,7 +797,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 11542,Kalish,Ryan,Ryan Kalish,51,LF,"6'0""",215,1988-03-28,29,"Northridge, CA",USA,N,131,CHC,Chicago,Cubs,1,0,,0
 10813,Kang,Jung Ho,Jung Ho Kang,27,3B,"6'0""",210,1987-04-05,30,Gwangju,SouthKorea,N,132,PIT,Pittsburgh,Pirates,0,0,,21
 10860,Karns,Nathan,Nathan Karns,13,P,"6'3""",225,1987-11-25,29,"Franklin, PA",USA,N,118,KC,Kansas City,Royals,17,0,9,0
-11220,Kawasaki,Munenori,Munenori Kawasaki,66,SS,"5'11""",175,1981-06-03,35,Kagoshima,Japan,N,131,CHC,Chicago,Cubs,1,0,,0
+11220,Kawasaki,Munenori,Munenori Kawasaki,66,SS,"5'11""",175,1981-06-03,36,Kagoshima,Japan,N,131,CHC,Chicago,Cubs,1,0,,0
 10572,Kazmir,Scott,Scott Kazmir,29,P,"6'0""",195,1984-01-24,33,"Houston, TX",USA,N,137,LAD,Los Angeles,Dodgers,0,0,0,0
 10987,Kela,Keone,Keone Kela,50,P,"6'1""",215,1993-04-16,24,"Los Angeles, CA",USA,N,121,TEX,Texas,Rangers,19,0,2,0
 12355,Keller,Brad,Brad Keller,,P,"6'5""",230,1995-07-27,21,"Flowery Branch, GA",USA,Y,140,ARI,Arizona,Diamondbacks,0,0,0,0
@@ -1117,7 +1117,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 10953,Odorizzi,Jake,Jake Odorizzi,23,P,"6'2""",190,1990-03-27,27,"Breese, IL",USA,N,115,TB,Tampa Bay,Rays,17,0,9,0
 11356,O'Flaherty,Eric,Eric O'Flaherty,34,P,"6'2""",210,1985-02-05,32,"Walla Walla, WA",USA,N,130,ATL,Atlanta,Braves,18,0,2,0
 11447,Ogando,Alexi,Alexi Ogando,40,P,"6'4""",200,1983-10-05,33,San Pedro de Macoris,DominicanRepublic,N,130,ATL,Atlanta,Braves,0,0,0,0
-10605,Ogando,Nefi,Nefi Ogando,55,P,"6'0""",230,1989-06-03,27,Santo Domingo,DominicanRepublic,N,135,CIN,Cincinnati,Reds,0,0,0,0
+10605,Ogando,Nefi,Nefi Ogando,55,P,"6'0""",230,1989-06-03,28,Santo Domingo,DominicanRepublic,N,135,CIN,Cincinnati,Reds,0,0,0,0
 11226,Oh,Seung Hwan,Seung Hwan Oh,26,P,"5'10""",205,1982-07-15,34,Jeongeup,SouthKorea,N,133,STL,St. Louis,Cardinals,23,0,3,0
 12410,O'Hearn,Ryan,Ryan O'Hearn,30,1B,"6'3""",200,1993-07-26,23,"Frisco, TX",USA,Y,118,KC,Kansas City,Royals,0,0,,0
 11345,Ohlendorf,Ross,Ross Ohlendorf,27,P,"6'4""",240,1982-08-08,34,"Austin, TX",USA,N,135,CIN,Cincinnati,Reds,0,0,0,0
@@ -1586,7 +1586,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 11028,Upton Jr.,Melvin,Melvin Upton Jr.,7,LF,"6'3""",185,1985-09-08,31,"Norfolk, VA",USA,N,112,TOR,Toronto,Blue Jays,0,0,,20
 10607,Urena,Jose,Jose Urena,62,P,"6'2""",200,1991-09-12,25,Santo Domingo,DominicanRepublic,N,128,MIA,Miami,Marlins,14,0,6,0
 10581,Urias,Julio,Julio Urias,7,P,"6'0""",215,1996-08-12,20,Sinaloa,Mexico,N,137,LAD,Los Angeles,Dodgers,10,0,1,0
-12403,Urias,Luis,Luis Urias,,2B,"5'9""",160,1997-06-03,19,"Magdalena de Kino, Sonora",Mexico,Y,139,SD,San Diego,Padres,0,0,,0
+12403,Urias,Luis,Luis Urias,,2B,"5'9""",160,1997-06-03,20,"Magdalena de Kino, Sonora",Mexico,Y,139,SD,San Diego,Padres,0,0,,0
 11396,Uribe,Juan,Juan Uribe,4,3B,"6'0""",245,1979-03-22,38,Palenque,DominicanRepublic,N,116,CLE,Cleveland,Indians,0,0,,7
 10383,Urshela,Giovanny,Giovanny Urshela,,3B,"6'0""",215,1991-10-11,25,Cartagena,Colombia,Y,116,CLE,Cleveland,Indians,0,0,,0
 11360,Utley,Chase,Chase Utley,26,2B,"6'1""",195,1978-12-17,38,"Pasadena, CA",USA,N,137,LAD,Los Angeles,Dodgers,51,3,,14
@@ -1607,7 +1607,7 @@ id,last_name,first_name,name,jersey_num,position,height,weight,birth_date,age,bi
 12515,Velazquez,Hector,Hector Velazquez,28,P,"6'0""",180,1988-11-26,28,"Ciudad Obregon, Sonor",Mexico,N,113,BOS,Boston,Red Sox,2,0,3,0
 11602,Venable,Will,Will Venable,25,CF,"6'3""",205,1982-10-29,34,"Greenbrae, CA",USA,N,137,LAD,Los Angeles,Dodgers,0,0,,0
 11152,Venditte,Pat,Pat Venditte,61,P,"6'1""",185,1985-06-30,31,"Omaha, NE",USA,N,129,PHI,Philadelphia,Phillies,0,0,0,0
-10522,Ventura,Yordano,Yordano Ventura,30,P,"6'0""",195,1991-06-03,25,Samana,DominicanRepublic,N,118,KC,Kansas City,Royals,0,0,0,0
+10522,Ventura,Yordano,Yordano Ventura,30,P,"6'0""",195,1991-06-03,26,Samana,DominicanRepublic,N,118,KC,Kansas City,Royals,0,0,0,0
 12408,Verdugo,Alex,Alex Verdugo,8,CF,"6'0""",205,1996-05-15,21,"Tucson, AZ",USA,Y,137,LAD,Los Angeles,Dodgers,0,0,,0
 10461,VerHagen,Drew,Drew VerHagen,54,P,"6'6""",230,1990-10-22,26,"Royse City, TX",USA,N,117,DET,Detroit,Tigers,0,0,0,0
 10462,Verlander,Justin,Justin Verlander,35,P,"6'5""",225,1983-02-20,34,"Manakin-Sabot, VA",USA,N,117,DET,Detroit,Tigers,18,0,9,0
