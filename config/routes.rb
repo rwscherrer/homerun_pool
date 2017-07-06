@@ -36,5 +36,8 @@ Rails.application.routes.draw do
 
   get 'live_updates' => 'live_updates#index'
 
+# Allstar Standings routes
+  get '/allstar' => 'allstar_standings#index'
+
 
 end

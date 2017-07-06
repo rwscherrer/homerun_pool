@@ -1,0 +1,2 @@
+class AllstarStanding < ApplicationRecord
+end

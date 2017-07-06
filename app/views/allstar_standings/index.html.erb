@@ -1,24 +1,15 @@
+<h1>
+</h1>
 
-   
-<hr>
-Last Update: July 06 06:00 AM
-
-
-<div>
-
-  <% @teams.each do |team| %>
-    <h2> <%= link_to(team.team_name, "/team/#{team.id}") %> Total: <%= Player.find_by(name: team.player_1).home_runs_2017 + Player.find_by(name: team.player_2).home_runs_2017 +  Player.find_by(name: team.player_3).home_runs_2017 + Player.find_by(name: team.player_4).home_runs_2017+ Player.find_by(name: team.player_5).home_runs_2017 + Player.find_by(name: team.player_6).home_runs_2017 + Player.find_by(name: team.player_7).home_runs_2017 + Player.find_by(name: team.player_8).home_runs_2017 + Player.find_by(name: team.player_9).home_runs_2017 %> </h2>
-    <% @teams.order(score: :desc) %>
-
-  <% end %>
-
-</div>
 
 <hr>
 
 <span class="counter pull-left" ></span>
 
-<h3>Overall Standings</h3>
+<hr>
+	<h1>
+		All-Star Break Standing
+	</h1>
 <h5> - Click A Team Name To See It's Players - </h5>
 <table class="table table-condensed" >
  <thead>
@@ -53,10 +44,3 @@ Last Update: July 06 06:00 AM
 
 
 <hr>
-
-
-
-
-
-
-
