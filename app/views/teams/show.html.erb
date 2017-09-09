@@ -59,6 +59,7 @@
     </tr>
     <tr>
       <td> <%= link_to(@team.player_9, "/player/#{Player.find_by(name: @team.player_9).id}") %> |</td>
+      <td> <%= Player.find_by(name: @team.player_9).home_runs_2017 %> |</td>
       <td> <%= Player.find_by(name: @team.player_9).games_played %></td>
     </tr>
   
